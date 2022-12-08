@@ -1,0 +1,14 @@
+<div class="post-nav full-bleed">
+  <div>
+    {% if page.previous.url %}
+    <p>← The one before<br>
+    <a href="{{page.previous.url}}">{{page.previous.title}}</a></p>
+    {% endif %}
+  </div>
+  <div class="post-nav-next">
+    {% if page.next.url %}
+    <p> Up next →<br>
+    <a href="{{page.next.url}}">{{page.next.title}}</a></p>
+    {% endif %}
+  </div>
+</div>

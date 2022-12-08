@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="page-banner full-bleed slanted">
+  <div class="blog-header">
+    <h1 class="page-title">Hi there!</h1>
+
+    <p>I tend to write about all kinds of things on this blog. Everything is listed chronologically below, or you can filter by category.</p>
+
+    <ul class="categories">
+      {% assign sorted_cats = site.categories | sort %}
+      {% for category in sorted_cats %}
+      <li style="font-size:1rem;"><a href="{{ site.url }}/category/{{ category | first | slugify }}/">{{ category | first }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{{ content }}

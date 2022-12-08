@@ -1,0 +1,30 @@
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="Type your search here..." autofocus>
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="/assets/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<li><a href="{url}">{title}</a><br><span class="post-meta">{date}</span></li>'
+})
+</script>
+
+<details>
+  <summary>Hey, I don't like Javascript!</summary>
+  <p>I get it, not everyone likes JavaScript. I want this site to be as accessible as possible, so if you prefer not to use JavaScript, or have it disabled in your browser, use this form to search my site with DuckDuckGo instead:</p>
+
+  <form class="search-form" method="get" action="https://duckduckgo.com/?q=" target="_blank">
+  			<input type="hidden" name="sites" value="kevq.uk" />
+  			<label for="search" class="visuallyhidden">Search this site on DuckDuckGo</label>
+  			<input type="text" name="q" id="search" placeholder="Search kevq.uk on DuckDuckGo" class="search"><br>
+  			<input type="submit" name="submit" value="Search" id="submit"/>
+  </form>
+</details>

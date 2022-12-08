@@ -1,0 +1,36 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-category-pages
+  - jekyll-paginate
+
+# SEO Stuff
+author: Kev Quirk
+title: Kev Quirk
+tagline: Part time geek, full time idiot.
+description: Kev Quirk is a cyber security nerd, web design enthusiast and privacy advocate from the UK.
+lang: en
+locale: en_GB
+url: "https://kevquirk.com"
+baseurl: ""
+permalink: :title
+github_username:  kevquirk
+logo: /assets/images/favicon.webp
+social:
+  links:
+    - https://www.linkedin.com/in/kevquirk
+    - https://github.com/kevquirk
+    - https://fosstodon.org/@kev
+
+# RSS feed
+feed_items: 20
+
+# Syntax Highlighting
+highlighter: rouge
+
+# Category config
+category_layout: category.html
+
+# Redirects
+include:
+    - _redirects

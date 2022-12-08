@@ -1,0 +1,17 @@
+/buy-me-a-coffee  /work-with-me 301
+/feed /feed.xml 301
+/rss /feed.xml 301
+/category/blogging/feed /feed/Blogging.xml 301
+/category/de-googling/feed /feed/De-Googling.xml 301
+/category/fish-keeping/feed /feed/fish-keeping.xml 301
+/category/notes/feed /feed/Notes.xml 301
+/category/opinion/feed /feed/Opinion.xml 301
+/category/privacy/feed /feed/Privacy.xml 301
+/category/security/feed /feed/Security.xml 301
+/category/technology/feed /feed/Technology.xml 301
+/category/thoughts/feed /feed/Thoughts.xml 301
+/category/web-design/feed /feed/Web.xml 301
+/category/web-design/feed /feed/Web.xml 301
+/category/web/feed /feed/Web.xml 301
+/license-information/ /privacy/#4 301
+/categories/de-googling /category/de-googling 301

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% seo %}
+    <link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Kev Quirk" />
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="icon" type="image/png" href="/assets/images/favicon.webp" />
+    {% if page.hasRandomBtn == true %}
+      <script src="/assets/js/randomSite.js"></script>
+    {% endif %}
+  </head>
+  <body>
+
+    <header>
+      <svg class="site-logo" viewBox="0 0 32 32"><path d="M11.635 5.682c0 11.359 0 10.201 0 22.961-1.54-0.652-2.903-1.639-3.999-2.87v-17.22c1.097-1.231 2.46-2.218 3.999-2.871z"></path><path d="M25.751 32l-16-16 10.404-10.404c1.29 0.516 2.462 1.264 3.463 2.194l-8.21 8.21 16 16z"></path><path d="M16 0c8.837 0 16 7.164 16 16 0 4.282-1.682 8.17-4.42 11.042l-2.83-2.83c2.015-2.147 3.25-5.035 3.25-8.211 0-6.627-5.373-12-12-12s-12 5.373-12 12c0 6.628 5.373 12 12 12 1.385 0 2.714-0.235 3.952-0.667l3.054 3.055c-2.116 1.033-4.493 1.612-7.006 1.612-8.837 0-16-7.164-16-16s7.164-16 16-16z"></path></svg>
+
+      {% include navigation.html %}
+    </header>
+
+    <main>
+
+      {{ content }}
+
+    </main>
+
+    <footer>
+
+     {% include footer.html %}
+
+    </footer>
+
+  </body>
+</html>

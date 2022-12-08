@@ -1,0 +1,54 @@
+- name: Adam Buxton Podcast
+  description: English commedian who interviews celebrities with a really funny twist.
+  link: https://www.adam-buxton.co.uk/
+  rss: https://rss.acast.com/adambuxton
+
+- name: Command Line Heroes
+  description: Covers nerdy things like the history of the Internet and programming languages.
+  link: https://www.redhat.com/en/command-line-heroes
+  rss: https://feeds.pacific-content.com/commandlineheroes
+
+- name: Darknet Diaries
+  description: A collection of excellent InfoSec stories told in a very engaging way.
+  link: https://darknetdiaries.com/
+  rss: https://feeds.megaphone.fm/darknetdiaries
+
+- name: Land of the Giants
+  description: Multiple series of podcasts about internet giants, like Google, Amazon and Netflix and how they came to be.
+  link: https://www.vox.com/recode-podcasts
+  rss: https://feeds.megaphone.fm/landofthegiants
+
+- name: Late Night Linux
+  description: A unique and funny approach to talking about the latest goings on in the Linux community.
+  link: https://latenightlinux.com/
+  rss: https://latenightlinux.com/feed
+
+- name: Serial
+  description: A superb podcast that tells a different, and very indepth, story over each season. This one is bingeworthy.
+  link: https://serialpodcast.org/
+  rss: https://feeds.simplecast.com/xl36XBC2
+
+- name: ShopTalk
+  description: A web design & development podcast from Chris Coyer, the founder of CSS Tricks. Great podcast for all things WebDev.
+  link: https://shoptalkshow.com
+  rss: https://shoptalkshow.com/feed
+
+- name: Smashing Security
+  description: The best, most funny weekly InfoSec news podcast bar none. It's a great one.
+  link: http://www.smashingsecurity.com
+  rss: http://www.smashingsecurity.com/rss
+
+- name: Supernatural
+  description: Tells stories every week from ghosts, aliens, conspiracy theories and everything in between.
+  link: https://www.parcast.com/supernatural
+  rss: https://feeds.megaphone.fm/supernatural
+
+- name: This American Life
+  description: Even though I'm not American, this is one of my favourites. It tells all kinds of oddball stories every week.
+  link: https://www.thisamericanlife.org/
+  rss: https://feed.thisamericanlife.org/talpodcast
+
+- name: WP Builds
+  description: Weekly interviews with different guests in WordPress. Also talk about all the latest goings on in WordPress.
+  link: https://wpbuilds.com
+  rss: https://wpbuilds.com/feed
