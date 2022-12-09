@@ -8,7 +8,7 @@ image: /assets/images/default-feature.png
 
 {% assign posts = site.posts %}
 {% for post in posts %}
-  <div class="post-list brutal-shadow" aria-labe="{{ post.title }}" href="{{ post.url }}">
+  <div class="post-list brutal-shadow" aria-label="{{ post.title }}" href="{{ post.url }}">
    <a href="{{ post.url }}" aria-label="Link to post"><span class="post-link"></span></a>
     <div class="post-list-inner-container">
       <h1>{{ post.title }}</h1>
