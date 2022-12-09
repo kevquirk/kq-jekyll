@@ -1,18 +1,15 @@
 ---
 layout: default
 ---
-<div class="page-banner full-bleed slanted">
-  <h1 class="page-title">{{ page.title }} Posts</h1>
-  <div class="blog-header">
-    <p style="font-size:1rem;"><a href="/"><svg class="icon" aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z"></path></svg> All posts</a>
-  </div>
-</div>
+<h1 class="page-title">{{ page.title }} Posts</h1>
+<p style="font-size:1rem;"><a href="/"><svg class="icon" aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z"></path></svg> All posts</a>
 
-<ul class="post-list">
-  {% for post in page.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a><br>
-      <span class="post-meta">{{ post.date | date_to_string }}</span>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in page.posts %}
+  <div class="post-list brutal-shadow" aria-labe="{{ post.title }}" href="{{ post.url }}">
+   <a href="{{ post.url }}" aria-label="Link to post"><span class="post-link"></span></a>
+    <div class="post-list-inner-container">
+      <h1>{{ post.title }}</h1>
+      <p class="post-date">{{ post.date | date_to_string }}</p>
+    </div>
+  </div>
+{% endfor %}
