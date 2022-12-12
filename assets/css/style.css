@@ -10,6 +10,7 @@
 	--mono: Menlo, Consolas, Monaco, "Liberation Mono", Lucida Console, monospace;
   --content-margin: 1.5rem auto;
   --bigger-content-margin: 2.5rem auto;
+  --standard-border: 3px solid var(--text);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -61,8 +62,8 @@ table {
 
 /****** Format the nav bar ******/
 nav {
-  border-bottom: 3px solid var(--text);
-  border-top: 3px solid var(--text);
+  border-bottom: var(--standard-border);
+  border-top: var(--standard-border);
   font-size: 0; /* Removes whitespace between nav items */
   font-weight: bold;
   line-height: 2.25;
@@ -193,36 +194,8 @@ iframe {
   margin: var(--content-margin);
 }
 
-.button,
-button {
-  border: none;
-  background: var(--text);
-  color: var(--bg);
-  padding: .9rem;
-  margin: 1rem 0;
-  line-height: 2.5;
-}
-
-a.button,
-button a {
-  color: white;
-  text-decoration: none;
-  margin: 1rem 0;
-}
-
-.button a:hover,
-.button:hover,
-button:hover {
-  background: var(--text);
-}
-
-.reply {
-  font-size: 1.5rem;
-  background: var(--text);
-}
-
 .icon {
-  vertical-align: sub;
+  vertical-align: text-bottom;
   padding-right: .25rem;
   display: inline-block;
   width: 1em;
@@ -240,7 +213,7 @@ blockquote {
   font-size: 1.5rem;
   margin: 2rem 0;
   padding: .4rem .8rem;
-  border-left: .35rem solid var(--text);
+  border-left: 6px solid var(--text);
   font-style: italic;
 }
 
@@ -364,14 +337,20 @@ kbd {
   color: var(--text);
   background: var(--accent-bg);
   border: 1px solid var(--text);
-  border-bottom: 3px solid var(--text);
+  border-bottom: var(--standard-border);
   border-radius: 5px;
   padding: 0.1rem 0.25rem;
 }
 
+mark {
+  padding: 0.1rem 0.25rem;
+  background: var(--warning);
+  color: black; 
+}
+
 /****** Misc content elemtents ******/
 table {
-  border: 1px solid var(--text);
+  border: var(--standard-border);
 }
 
 th {
@@ -401,7 +380,7 @@ footer {
   padding: 0 2rem;
   line-height: 1.2;
   border-top: 3px solid;
-  margin-top: 4rem;
+  margin-top: 2rem;
 }
 
 /***** Format form elements *****/
@@ -429,7 +408,7 @@ input.search,
 input#search-input {
   font-size: 1rem;
   padding: .7rem;
-  border: 1px solid var(--text);
+  border: 2px solid var(--text);
   color: var(--text);
   width: 100%;
   box-sizing: border-box;
@@ -473,7 +452,7 @@ ul#results-container {
 /* Format the details/summary box */
 details {
   background: var(--accent-bg);
-  border: 1px solid var(--text);
+  border: var(--standard-border);
   margin-bottom: 1rem;
 }
 
@@ -499,8 +478,8 @@ details[open]>*:last-child {
 /* Format the prev & next links on posts */
 .post-nav {
   display: flex;
-  border-top: 2px solid var(--text);
-  border-bottom: 2px solid var(--text);
+  border-top: var(--standard-border);
+  border-bottom: var(--standard-border);
   margin: 2rem auto;
 }
 
@@ -523,7 +502,7 @@ details[open]>*:last-child {
 
 /****** Format the posts list & meta data ******/
 .post-list {
-  border: 3px solid var(--text);
+  border: var(--standard-border);
   text-align: center;
   cursor: pointer;
   position: relative;
@@ -587,6 +566,28 @@ img+em {
   margin-top: -2rem;
 }
 
+.button {
+  border: var(--standard-border);
+  padding: 20px 40px;
+  margin: 1rem 0;
+  line-height: 2.5;
+}
+
+.button:hover {
+  background: var(--bg);
+}
+
+a.button {
+  color: var(--text);
+  text-decoration: none;
+  margin: 1rem 0;
+}
+
+.reply {
+  font-size: 32px;
+  font-weight: bold;
+}
+
 .brutal-shadow {
   box-shadow: 6px 6px 0 0 var(--text);
   transition: all 0.1s ease;
@@ -594,4 +595,37 @@ img+em {
 
 .brutal-shadow:hover {
   box-shadow: 10px 10px 0 0 var(--text);
+}
+
+.post-footer {
+  text-align:center;
+  margin: 5rem 0 2rem 0;
+}
+
+.contribute-box {
+  border: var(--standard-border);
+  margin: 4rem 0;
+}
+
+.contribute-box p {
+  padding: 1rem;
+  margin: 0;
+}
+
+.contribute-box-header {
+  background: var(--text);
+  color: var(--bg);
+}
+
+.contribute-box-header p {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 0;
+}
+
+/* Pagination formatting */
+.pagination-links {
+  padding: 2rem 0;
+  display: block;
 }

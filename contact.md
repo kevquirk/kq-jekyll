@@ -8,7 +8,7 @@ description: To contact Kev Quirk, use this page.
 {: .medium}
 Before you contact me, please take note of the following:
 
-* **I don’t accept guest posts.** Sorry, this is a personal blog.
+* **<mark>I don’t accept guest posts.</mark>** Sorry, this is a personal blog.
 * Before asking for help, please do your own research first. I’m willing to help where I can, but I’m a busy guy. [Stack Overflow](https://stackoverflow.com/) is a great place to start.
 * Please be polite; I’ll always be polite to you.
 

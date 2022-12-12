@@ -1,0 +1,32 @@
+---
+title: Home
+description: Kev Quirk is a cyber security nerd, web design enthusiast and privacy advocate from the UK.
+layout: default
+image: /assets/images/default-feature.png
+---
+
+<!-- Post list -->
+{% assign posts = paginator.posts %}
+{% for post in posts %}
+  <div class="post-list brutal-shadow" aria-label="{{ post.title }}" href="{{ post.url }}">
+   <a href="{{ post.url }}" aria-label="Link to post"><span class="post-link"></span></a>
+    <div class="post-list-inner-container">
+      <h1>{{ post.title }}</h1>
+      <p class="post-date">{{ post.date | date_to_string }}</p>
+    </div>
+  </div>
+{% endfor %}
+
+<!-- Pagination -->
+<div class="post-nav">
+  <div>
+    {% if paginator.previous_page %}
+      <a class="pagination-links" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">← Newer Posts</a>
+    {% endif %}
+  </div>
+  <div class="post-nav-next">
+    {% if paginator.next_page %}
+      <a class="pagination-links" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts →</a>
+    {% endif %}
+  </div>
+</div>

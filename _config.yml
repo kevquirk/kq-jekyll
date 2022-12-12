@@ -21,6 +21,11 @@ social:
     - https://www.linkedin.com/in/kevquirk
     - https://github.com/kevquirk
     - https://fosstodon.org/@kev
+email: 23g@qrk.one
+
+# Pagination config
+paginate: 20
+paginate_path: /page:num/
 
 # RSS feed
 feed_items: 20
