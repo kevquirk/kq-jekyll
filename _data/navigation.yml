@@ -7,5 +7,11 @@
 - name: Contact
   link: /contact/
 
-- name: Blogroll
-  link: /blogroll/
+- name: My Projects
+  link: /my-projects/
+
+- name: Search
+  link: /search/
+
+- name: More...
+  link: /more-links/

@@ -182,6 +182,13 @@ a:hover {
   background: var(--accent-bg);
 }
 
+h2 a,
+h3 a,
+h2 a:visited,
+h3 a:visited {
+  color: var(--accent-text);
+}
+
 main img,
 video {
   max-width: 100%;
@@ -386,16 +393,16 @@ footer {
 /***** Format form elements *****/
 input#submit {
   border: none;
-  background: var(--text);
   font-size: 1rem;
-  color: white;
   padding: .7rem .9rem;
   margin: .5rem 0;
-  transition: .25s ease-in-out;
+  background: var(--bg);
+  color: var(--text);
+  border: var(--standard-border)
 }
 
 input#submit:hover {
-  background: var(--text) !important;
+  cursor: pointer;
 }
 
 input {
@@ -409,6 +416,7 @@ input#search-input {
   font-size: 1rem;
   padding: .7rem;
   border: 2px solid var(--text);
+  background: var(--accent-bg);
   color: var(--text);
   width: 100%;
   box-sizing: border-box;
@@ -626,6 +634,6 @@ a.button {
 
 /* Pagination formatting */
 .pagination-links {
-  padding: 2rem 0;
+  padding: 2rem 0.5rem;
   display: block;
 }
