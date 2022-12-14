@@ -1,0 +1,29 @@
+- name: The 512KB Club
+  description: The 512KB Club is a collection of performance-focused web pages from across the Internet that are less than 512KB in size, uncompressed.
+  link: https://512kb.club
+  bg: 0D47A1
+  text: white
+
+- name: Fosstodon
+  description: Fosstodon is one of the biggest technology instances on <a target="blank" href="https://en.wikipedia.org/wiki/Fediverse">the Fediverse</a>. Fosstodon is a Mastodon instance that I co-founded with my good friend, Mike.
+  link: https://fosstodon.org
+  bg: 6d6eff
+  text: white
+
+- name: Simple.css
+  description: Simple.css is a classless CSS framework that makes semantic HTML look good, really quickly. You can then build upon it to make something really cool.
+  link: https://simplecss.org
+  bg: f5f7ff
+  text: black
+
+- name: The Web Is F**ked
+  description: The Web Is F**ked is an essay I wrote about my concerns with Web 2.0 and 3.0. It’s a lot of me reminiscing about how good the web was in the 90s/00s.
+  link: https://thewebisfucked.com
+  bg: fda464
+  text: black
+
+- name: 100 Days To Offload
+  description: 100 Days to Offload is a challenge for people to publish 100 posts on their personal blog in a year. The point is to just write.
+  link: https://100daystooffload.com
+  bg: d81b60
+  text: white

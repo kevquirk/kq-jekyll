@@ -642,3 +642,24 @@ a.button {
   padding: 2rem 0.5rem;
   display: block;
 }
+
+.add-large-margin {
+  margin: var(--bigger-content-margin);
+}
+
+/* Format projects */
+.project {
+  border: var(--standard-border);
+  margin: var(--bigger-content-margin);
+  background: var(--accent-bg);
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.project-banner {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 2rem 0;
+  margin: 0;
+}

@@ -8,7 +8,8 @@
   link: /contact/
 
 - name: My Projects
-  link: /my-projects/
+  link: /projects/
+  class: mobile-hide
 
 - name: Search
   link: /search/
