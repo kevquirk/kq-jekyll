@@ -541,6 +541,11 @@ details[open]>*:last-child {
   font-size: 1rem;
 }
 
+.post-meta {
+  font-size: 0.9rem;
+  margin: var(--bigger-content-margin);
+}
+
 ul.post-meta {
   list-style-type: none;
   padding: 0;
