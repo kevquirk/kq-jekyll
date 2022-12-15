@@ -12,7 +12,7 @@ All my recommendations below have an RSS feed ([I think that’s very important]
 
 
 <ul>
-  {% for item in site.data.blogs %}
+  {% for item in site.data.blogroll %}
   <li><a target="blank" href="{{ item.link }}">{{ item.name }}</a> (<a href="{{ item.rss }}">RSS feed</a>)</li>
   {% endfor %}
 </ul>
