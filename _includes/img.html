@@ -1,4 +1,6 @@
 <figure>
     <img src="/assets/images/{{include.src}}" alt="{{include.alt}}" loading="lazy">
-    <figcaption>{{include.caption}}</figcaption>
+    {% if item.caption %}
+        <figcaption>{{include.caption}}</figcaption>
+    {% endif %}
 </figure>

@@ -6,9 +6,12 @@ permalink: /about/
 description: Who is Kev Quirk? You can find more out about me on this page.
 typora-root-url: /
 ---
-<img width="250px" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
+<img class="about-pic" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
 
-{: .tldr }
+{: .medium }
+Hi there 👋 my name is Kev Quirk, welcome to my little corner of the Internet.
+
+{: .medium }
 On this page you can learn a little about me, my interests and what makes me tick.
 
 During the day I work in the Information Security industry. I’m currently a Senior Vice President at Bank of America, where I lead a global team of analysts in the identity space.
@@ -36,7 +39,7 @@ I also have a deep love of motorbikes. I’ve been riding for many years and I�
 
 I’ve recently started collecting watches; specifically Casio watches. I love the vintage and simplistic look of many of their watches. They just scream nostalgia to me. I also like the fact that many of their models are very cheap, so can have lots of watches, but also not worry too much about damaging them.
 
-My favourite watch is probably the [F-91W](https://kevquirk.com/the-casio-f-91w-is-the-best-smartwatch/) as I currently have 6 of them, but that may well change as my collection grows.
+My favourite watch is probably the [F-91W](/the-casio-f-91w-is-the-best-smartwatch/) as I currently have 6 of them, but that may well change as my collection grows.
 
 ### Pets
 
@@ -53,11 +56,11 @@ OK, enough about me. Let’s talk about the technicalities of how this website i
 
 ### This website
 
-This site is built upon [WordPress](https://wordpress.org). I use a custom theme that’s based off of [GeneratePress](https://generatepress.com).
+This site is built upon [Jekyll](https://jekyllrb.com){: target="blank" }, and I use a custom theme that I built myself.
 
 > Why is this website so ugly?
 
-Is it? I subscribe to the [brutalist mentality](https://kevquirk.com/a-brutally-simple-site/) and I think this site is beautiful in its simplicity. There are few bells &amp; whistles, and the site is extremely content focussed.
+Is it? I subscribe to the [brutalist mentality](/a-brutally-simple-site/) and I think this site is beautiful in its simplicity. There are few bells &amp; whistles, and the site is extremely content focussed.
 
 Hosting is provided by a [Ionos](https://ionos.co.uk) VPS, running Plesk, which has an excellent WordPress hosting utility. I also have [BunnyCDN](https://bunny.net/?ref=gnn7bkvipc) sitting in front of my Ionos VPS, providing my global CDN. Again, an excellent service at a very reasonable price.
 

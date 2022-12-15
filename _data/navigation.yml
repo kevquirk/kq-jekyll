@@ -13,6 +13,7 @@
 
 - name: Search
   link: /search/
+  class: mobile-hide
 
 - name: More...
   link: /more-links/

@@ -19,6 +19,9 @@
    --accent-text: #fafafa;
    --bg: #222;
    --accent-bg: #2d2d2d;
+   img {
+    opacity: 70%;
+   }
  }
 }
 
@@ -53,6 +56,7 @@ header {
 
 main {
   padding: 0 0.5rem;
+  margin-top: 1.5rem;
 }
 
 p,
@@ -78,9 +82,16 @@ nav a:visited {
 }
 
 nav a:hover,
-nav a.current {
+nav a#current {
   color: var(--bg);
   background: var(--text);
+}
+
+/* Hide certain menu items on smaller screens */
+@media(max-width: 640px) {
+	.mobile-hide {
+		display: none;
+	}
 }
 
 /****** Header elements ******/
@@ -190,11 +201,20 @@ h3 a:visited {
 }
 
 main img,
+figure,
 video {
   max-width: 100%;
   height: auto;
+  margin: 0;
+}
+
+/* Format image captions */
+img+em,
+figcaption {
+  font-size: 0.8rem;
+  font-style: normal;
+  text-align: center;
   display: block;
-  margin: var(--bigger-content-margin);
 }
 
 iframe {
@@ -218,10 +238,11 @@ iframe {
 
 blockquote {
   font-size: 1.5rem;
-  margin: 2rem 0;
+  margin: var(--bigger-content-margin);
   padding: .4rem .8rem;
   border-left: 6px solid var(--text);
   font-style: italic;
+  display: block;
 }
 
 cite {
@@ -298,7 +319,6 @@ cite {
 
 /* TL;DR Block */
 .tldr {
-  font-weight: 300;
   margin: var(--bigger-content-margin);
 }
 
@@ -307,6 +327,7 @@ cite {
 .has-medium-font-size {
   font-size: 1.6rem;
   line-height: 1.3;
+  font-weight: 300;
 }
 
 pre,
@@ -325,7 +346,7 @@ pre,
 pre.highlight {
   background: var(--accent-bg);
   border: 1px solid var(--text);
-  margin-bottom: 1.5rem;
+  margin: var(--bigger-content-margin);
   max-width: 100%;
   padding: 1.5rem;
   max-height: 650px;
@@ -383,7 +404,7 @@ hr {
 /****** Format the Footer ******/
 footer {
   text-align: center;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   padding: 0 2rem;
   line-height: 1.2;
   border-top: 3px solid;
@@ -566,19 +587,6 @@ ul.post-meta li:last-child {
   margin-right: 0;
 }
 
-/* Format image captions */
-img+em,
-figcaption {
-  font-size: 0.8rem;
-  font-style: normal;
-  display: block;
-  text-align: center;
-}
-
-img+em {
-  margin-top: -2rem;
-}
-
 .button {
   border: var(--standard-border);
   padding: 20px 40px;
@@ -654,6 +662,11 @@ a.button {
   background: var(--accent-bg);
   font-size: 1rem;
   padding: 1rem;
+  position: relative;
+  margin: .5rem .5rem 0 0;
+  width: 42.5%;
+  height: 300px;
+  float: left;
 }
 
 .project-banner {
@@ -662,4 +675,20 @@ a.button {
   text-align: center;
   padding: 2rem 0;
   margin: 0;
+}
+
+/* Make full width on mobile screens */
+@media only screen and (max-width: 700px)  {
+  .project {
+    float: none;
+    margin: .5rem 0;
+    width: 90%;
+    height: auto;
+  }
+}
+
+.about-pic {
+  width: 200px;
+  float: left;
+  margin-right: 1.5rem;
 }

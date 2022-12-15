@@ -1,124 +1,63 @@
-- name: Ben Stokes (Tiny Projects)
-  description: Awesome little web dev projects and whether they were successful.
-  link: https://tinyprojects.dev
-  rss: https://tinyprojects.dev/feed.xml
-
-- name: Blogroll.org
-  description: A humanly curated list of fine personal & independent blogs that are updated regularly. No algorithms ever!
-  link: https://blogroll.org
-  rss: https://blogroll.org/feed
+- name: Andy Bell
+  link: https://andy-bell.co.uk/
+  rss: https://andy-bell.co.uk/feed
 
 - name: Bradley Taunt
-  description: Web design, tech, the Internet and website minimalism.
   link: https://uglyduck.ca
   rss: https://uglyduck.ca/feed
 
+- name: Chris Coyer
+  link: https://chriscoyier.net
+  rss: https://chriscoyier.net/feed
+
 - name: Chris Wiegman
-  description: WordPress guru, privacy advocate and interesting web stuff.
   link: https://chriswiegman.com
   rss: https://chriswiegman.com/feed
 
-- name: Desmond Rivet
-  description: Personal updates, the Internet, IndieWeb and privacy.
-  link: https://desmondrivet.com
-  rss: https://desmondrivet.com/feeds/blog.rss
+- name: Greg Morris
+  link: https://gregmorris.co.uk
+  rss: https://gregmorris.co.uk/rss
 
-- name: Gregory Hammond
-  description: Wordpress, web design/dev and general blog posts.
-  link: https://gregoryhammond.ca
-  rss: https://gregoryhammond.ca/feed
-
-- name: Hugo
-  description: Web dev, meta about blogging and personal updates. Another one that's similar to mine.
-  link: https://hugo.md
-  rss: https://hugo.md/index.xml
-
-- name: Jamie Adams
-  description: Tech, writing, Internet stuff and online privacy.
-  link: https://jamiesnotes.com
-  rss: https://jamiesnotes.com/feed
+- name: Herman Martinus
+  link: https://herman.bearblog.dev 
+  rss: https://herman.bearblog.dev/feed/?type=rss
 
 - name: Jan-Lukas Else
-  description: Online trends, writing, web dev, IndieWeb and privacy.
   link: https://jlelse.blog/
   rss: https://jlelse.blog/index.xml
 
 - name: Joost van der Schee
-  description: An excellent web centric blog that talks about web development and design. One of my favourites.
   link: https://www.usecue.com
   rss: https://www.usecue.com/index.xml
 
+- name: Josh Comeau
+  link: https://www.joshwcomeau.com
+  rss: https://www.joshwcomeau.com/rss.xml
+
 - name: Luke Harris
-  description: Interesting web design and tech posts.
   link: https://luke.work/blog
   rss: https://luke.work/feed.xml
 
 - name: Manu Moreale
-  description: All kinds of interesting tech, IndieWeb, social and community posts.
   link: https://manuelmoreale.com/
   rss: https://manuelmoreale.com/feed/rss
 
-- name: Marko Saric
-  description: Web dev, online trends, online privacy & tracking.
-  link: https://markosaric.com
-  rss: https://markosaric.com/feed
-
 - name: Martin Underhill
-  description: Front end web developer that really focusses on accessibility.
-  link: https://www.tempertemper.net/
+  link: https://www.tempertemper.net
   rss: https://www.tempertemper.net/feeds/main.xml
 
-- name: Max Böck
-  description: Extremely talented web developer with some IndieWeb thrown in.
-  link: https://mxb.dev
-  rss: https://mxb.dev/feed.xml
-
-- name: Mike Babb
-  description: Web development, open source software, online trends.
-  link: https://mikebabb.com
-  rss: https://mikebabb.com/feed.xml
-
-- name: Mike Harley
-  description: Very similar to this blog; lots of great meta posts about web dev and InfoSec.
-  link: https://obsolete29.com
-  rss: https://obsolete29.com/feed/feed.xml
+- name: Matt Birchler
+  link: https://birchtree.me
+  rss: https://birchtree.me/rss/
 
 - name: Mike Stone
-  description: Open source software, privacy, tech & online trends.
   link: https://mikestone.me
   rss: https://mikestone.me/feed.xml
 
-- name: Nicholas Danes
-  description: Tech, meta and personal updates. Very similar to my blog.
-  link: https://ndanes.com
-  rss: https://ndanes.com/feed.xml
-
-- name: Nick Saporito
-  description: Incredibly talented digital artist using open source software.
-  link: https://logosbynick.com
-  rss: https://logosbynick.com/feed
+- name: Nicolas Magand
+  link: https://thejollyteapot.com
+  rss: https://thejollyteapot.com/feed.rss
 
 - name: Ru Singh
-  description: IndieWeb, front-end web development and some really cool side projects.
   link: https://rusingh.com
   rss: https://rusingh.com/feed.xml
-
-- name: Scott Nesbitt (Open Source Musings)
-  description: Open source software and interesting link aggregation.
-  link: https://opensourcemusings.com
-  rss: https://opensourcemusings.com/feed/
-
-- name: The New Oil
-  description: The best online privacy blog out there, in my opinion.
-  link: https://write.as/thenewoil
-  rss: https://write.as/thenewoil/feed/
-
-- name: Troy Hunt
-  description: Cyber security, online trends and online privacy. Very popular blog.
-  link: https://www.troyhunt.com
-  rss: https://www.troyhunt.com/rss
-
-- name: Wingy
-  description: Open source software, online privacy and a little bit of web dev.
-  link: https://wingysam.xyz/posts
-  rss: https://trilium.home.wingysam.xyz/custom/wingysam.xyz-feed

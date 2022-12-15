@@ -1,5 +1,5 @@
 ---
-title: Search kevq.uk
+title: Search
 layout: page
 permalink: /search/
 description: Search for content on kevq.uk
