@@ -97,7 +97,7 @@ nav {
 
 nav a,
 nav a:visited {
-  padding: 0.65rem 1rem;
+  padding: 0.65rem 0.8rem;
   font-size: 1.1rem;
   text-decoration: none;
   margin: 0;
