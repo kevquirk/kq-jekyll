@@ -1,14 +1,17 @@
 ---
 title: What's the Alternative to Firefox?
-date: '2022-02-18T13:35:07+00:00'
+date: 2022-02-18T13:35:07+00:00
 author: Kev
-description: Firefox is great, but they''re not doing themselves any favours recently. Does a viable alternative to Firefox exist?
+description: Firefox is great, but they''re not doing themselves any favours recently. Does
+  a viable alternative to Firefox exist?
 layout: post
 permalink: /whats-the-alternative-to-firefox/
-image: /wp-content/uploads/2022/02/firefox-alternative-feature.webp
 categories:
-    - Opinion
-    - Web
+  - Opinion
+  - Web
+keywords:
+  - firefox
+preview: /brutal-feature-image.webp
 ---
 
 Firefox is great, but they’re not doing themselves any favours recently. Does a viable alternative to Firefox exist?
