@@ -91,6 +91,7 @@ nav {
   border-bottom: var(--standard-border);
   border-top: var(--standard-border);
   font-size: 0; /* Removes whitespace between nav items */
+  font-weight: 600;
   line-height: 2.25;
 }
 
