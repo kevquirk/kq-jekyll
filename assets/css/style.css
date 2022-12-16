@@ -1,3 +1,25 @@
+/** Get yer font on! **/
+@font-face {
+  font-family: 'GeneralSans';
+  src: url('/assets/fonts/GeneralSans/GeneralSans-Variable.woff2') format('woff2'),
+       url('/assets/fonts/GeneralSans/GeneralSans-Variable.woff') format('woff'),
+       url('/assets/fonts/GeneralSans/GeneralSans-Variable.ttf') format('truetype');
+       font-weight: 200 700;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GeneralSans';
+  src: url('/assets/fonts/GeneralSans/GeneralSans-VariableItalic.woff2') format('woff2'),
+       url('/assets/fonts/GeneralSans/GeneralSans-VariableItalic.woff') format('woff'),
+       url('/assets/fonts/GeneralSans/GeneralSans-VariableItalic.ttf') format('truetype');
+       font-weight: 200 700;
+       font-display: swap;
+       font-style: italic;
+}
+
 /** Global colour variables **/
 :root {
 	--text: #444;
@@ -6,7 +28,7 @@
 	--accent-bg: #efefef;
   --warning: #ffeeaa;
   --notice: #aaccff;
-	--sans: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	--sans: "GeneralSans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	--mono: Menlo, Consolas, Monaco, "Liberation Mono", Lucida Console, monospace;
   --content-margin: 1.5rem auto;
   --bigger-content-margin: 2.5rem auto;
@@ -35,7 +57,7 @@ body {
   background: var(--bg);
   font-family: var(--sans);
   -webkit-font-smoothing: antialiased;
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   line-height: 1.5;
   margin: 0;
 }
@@ -562,7 +584,7 @@ details[open]>*:last-child {
 }
 
 .post-meta {
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin: var(--bigger-content-margin);
 }
 
