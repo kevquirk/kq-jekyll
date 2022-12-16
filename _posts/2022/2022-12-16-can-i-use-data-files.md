@@ -1,5 +1,5 @@
 ---
-title: Can I Use A Data File?
+title: Can I Use Data Files?
 description: One of the things I really miss from my days using Jekyll, is the use of data files. Can this be done in WordPress?
 image: assets/images/brutal-feature-image.webp
 category: [Meta, Notes]
