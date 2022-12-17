@@ -62,23 +62,18 @@ body {
   margin: 0;
 }
 
-body {
-  display: grid;
-  grid-template-columns:
-    1fr min(40rem, 90%) 1fr;
-}
-
-body>* {
-  grid-column: 2;
+main,
+header,
+footer,
+.post-nav {
+  display: block;
+  max-width: 39rem;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
 header {
   text-align: center;
-}
-
-main {
-  padding: 0 0.5rem;
-  margin-top: 1.5rem;
 }
 
 p,
@@ -138,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 main h1,
 h1, h2, h3 {
   line-height: 1.2;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 h4, h5, h6 {
@@ -172,10 +167,35 @@ h6 {
   font-size: 0.96rem;
 }
 
+.post-list h1 {
+  font-size: 2.25rem;
+  font-weight: 900;
+  color: var(--text);
+  margin: 1rem 0;
+}
+
+.page-title {
+  margin-top: 1.5rem;
+}
+
+.spacer {
+  padding-top: 1.5rem;
+}
+
 /* Reduce header size on mobile */
 @media only screen and (max-width: 750px) {
+  header,
+  .post-nav {
+    max-width: 100%;
+    padding: 0;
+  }
+
   h1 {
     font-size: 2.5rem;
+  }
+
+  .post-list h1 {
+    font-size: 1.8rem;
   }
 
   h2 {
@@ -244,7 +264,7 @@ iframe {
 }
 
 .icon {
-  vertical-align: text-bottom;
+  vertical-align: sub;
   padding-right: .25rem;
   display: inline-block;
   width: 1em;
@@ -427,7 +447,6 @@ hr {
 footer {
   text-align: center;
   font-size: 0.9rem;
-  padding: 0 2rem;
   border-top: 3px solid;
   margin-top: 2rem;
 }
@@ -563,13 +582,6 @@ details[open]>*:last-child {
   padding: 0 1rem;
 }
 
-.post-list h1 {
-  font-size: 2.25rem;
-  font-weight: 900;
-  color: var(--text);
-  margin-bottom: -1rem;
-}
-
 .post-link {
   position: absolute;
   width: 100%;
@@ -581,6 +593,7 @@ details[open]>*:last-child {
 
 .post-date {
   font-size: 1rem;
+  margin-top: 0.5rem;
 }
 
 .post-meta {

@@ -6,6 +6,8 @@ permalink: /about/
 description: Who is Kev Quirk? You can find more out about me on this page.
 typora-root-url: /
 ---
+<div class="spacer"></div>
+
 <img class="about-pic" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
 
 {: .medium }
