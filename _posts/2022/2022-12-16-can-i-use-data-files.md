@@ -4,7 +4,7 @@ description: One of the things I really miss from my days using Jekyll, is the u
 image: assets/images/brutal-feature-image.webp
 category: [Meta, Notes]
 layout: post
-typora-root-url: ..
+typora-root-url: ../
 ---
 
 {: .tldr }

@@ -2,10 +2,9 @@
 title: Categories
 description: Here's a list of the categories for all the posts on this site.
 permalink: /categories/
-layout: default
+layout: page
 image: /assets/images/default-feature.png
 ---
-<h1 class="page-title">{{ page.title }}</h1>
 
 {{ page.description }}
 

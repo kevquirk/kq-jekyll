@@ -11,7 +11,7 @@ categories:
   - Web
 keywords:
   - firefox
-preview: /brutal-feature-image.webp
+image: /assets/images/brutal-feature-image.webp
 ---
 
 Firefox is great, but they’re not doing themselves any favours recently. Does a viable alternative to Firefox exist?

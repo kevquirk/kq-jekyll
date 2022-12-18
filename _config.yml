@@ -23,6 +23,14 @@ social:
     - https://fosstodon.org/@kev
 email: 23g@qrk.one
 
+# Default front matter
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: assets/images/brutal-feature-image.webp
+
 # Pagination config
 paginate: 20
 paginate_path: /page:num/
