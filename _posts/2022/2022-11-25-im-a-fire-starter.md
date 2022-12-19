@@ -6,6 +6,7 @@ permalink: /im-a-fire-starter/
 description: I recently moved to a house that has an open fire (my first one), and I’ve quickly fallen in love with the whole process of maintaining an open fire.
 categories:
     - Notes
+typora-root-url: ../../
 ---
 {: .tldr}
 I recently moved to a house that has an open fire (my first one), and I’ve quickly fallen in love with the whole process of maintaining an open fire.
