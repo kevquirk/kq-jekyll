@@ -11,9 +11,7 @@ I recently published a post with instructions on [how to host email on your own 
 
 Before we get started, I&#8217;d like to quickly mention that this is just my own opinion. Your needs may be different than my own, but Zoho Mail works extremely well for me and is worth considering.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="1024" height="658" src="/assets/images/wp-images/2019/11/zoho-mail-1024x658.png" alt="" class="wp-image-224" srcset="/assets/images/wp-images/2019/11/zoho-mail-1024x658.png 1024w, /assets/images/wp-images/2019/11/zoho-mail-300x193.png 300w, /assets/images/wp-images/2019/11/zoho-mail-768x493.png 768w, /assets/images/wp-images/2019/11/zoho-mail.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />
-</div>
+![Zoho Mail](/assets/images/zoho-mail.webp)
 
 ## Reason 1: No Ads {#h-reason-1-no-ads}
 
@@ -36,7 +34,7 @@ As I mentioned above, Zoho Mail doesn&#8217;t support advertising, so no trackin
 <div class="wp-block-image">
   <img loading="lazy" width="756" height="583" src="/assets/images/wp-images/2019/12/zoho-mail-trackers.jpg" alt="" class="wp-image-529" srcset="/assets/images/wp-images/2019/12/zoho-mail-trackers.jpg 756w, /assets/images/wp-images/2019/12/zoho-mail-trackers-300x231.jpg 300w" sizes="(max-width: 756px) 100vw, 756px" />
 </div>
-
+<br>
 <div class="wp-block-image">
   <img loading="lazy" width="531" height="434" src="/assets/images/wp-images/2019/12/zoho-mail-ublock-origin.jpg" alt="" class="wp-image-530" srcset="/assets/images/wp-images/2019/12/zoho-mail-ublock-origin.jpg 531w, /assets/images/wp-images/2019/12/zoho-mail-ublock-origin-300x245.jpg 300w" sizes="(max-width: 531px) 100vw, 531px" />
 </div>

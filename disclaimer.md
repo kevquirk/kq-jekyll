@@ -20,6 +20,7 @@ My technical posts are generally not the only way to achieve a goal, they may no
 
 All of my posts assume a certain level of technical ability. If you’re not comfortable in the command line of an operating system, my posts probably aren’t for you.
 
+{: .warning}
 I cannot be held liable for any damage to your systems, data, or anything else as a result of the posts I create on this blog. The processes I describe within my posts are provided as-is with no warranty whatsoever.
 
 **This disclaimer is subject to change at any time without notification.**

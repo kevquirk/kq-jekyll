@@ -251,7 +251,8 @@ figure,
 video {
   max-width: 100%;
   height: auto;
-  margin: 0;
+  margin: 0 auto;
+  display: block;
 }
 
 /* Format image captions */
@@ -376,6 +377,10 @@ cite {
   font-weight: 300;
 }
 
+.small {
+  font-size: 1.1rem;
+}
+
 pre,
 code,
 tt,
@@ -442,9 +447,9 @@ tr:nth-child(2n) {
 }
 
 hr {
-  color: var(--accent-bg);
-  border-top: 1px;
-  margin: 2rem 0;
+  border-top: 1px solid var(--text);
+  margin: 2.5rem auto;
+  max-width: 80%;
 }
 
 /****** Format the Footer ******/
@@ -732,7 +737,7 @@ a.button {
 }
 
 .book img {
-  margin: 0 1.5rem 1.5rem 0;
+  margin: 0 1.5rem 0.75rem 0;
 }
 
 /* Make full width on mobile screens */
@@ -754,4 +759,14 @@ a.button {
   .book img {
     padding-bottom: 1.5rem;
   }
+}
+
+.recent-posts {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.recent-posts li {
+  margin-bottom: 1.5rem;
 }

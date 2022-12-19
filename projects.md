@@ -14,3 +14,5 @@ Here are some of the projects I work on in my spare time. I'll try to keep this 
     <a target="blank" href="{{ item.link }}">Visit {{ item.name }}</a>
 </div>
 {% endfor %}
+
+<div style="clear: both;"></div>
