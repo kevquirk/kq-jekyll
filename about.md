@@ -4,7 +4,6 @@ author: Kev Quirk
 layout: page-hidden-title
 permalink: /about/
 description: Who is Kev Quirk? You can find more out about me on this page.
-typora-root-url: /
 ---
 
 <img class="about-pic" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
@@ -63,6 +62,4 @@ This site is built upon [Jekyll](https://jekyllrb.com){: target="blank" }, and I
 
 Is it? I subscribe to the [brutalist mentality](/a-brutally-simple-site/) and I think this site is beautiful in its simplicity. There are few bells &amp; whistles, and the site is extremely content focussed.
 
-Hosting is provided by a [Ionos](https://ionos.co.uk) VPS, running Plesk, which has an excellent WordPress hosting utility. I also have [BunnyCDN](https://bunny.net/?ref=gnn7bkvipc) sitting in front of my Ionos VPS, providing my global CDN. Again, an excellent service at a very reasonable price.
-
-To give you an idea, this site costs me around £7/month in hosting and CDN charges.
+Hosting is provided by [Netlify](https://netlify.com), who offer free static site hosting that going to be perfect for most people's needs. There are other static site hosts out there - I [compared a number of them](/comparing-static-site-hosts-best-host-for-a-static-site) a while back and Netlify came out among the best.
