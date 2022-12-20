@@ -29,4 +29,4 @@ jobs:
         password: ${{ secrets.ftp_password }}
         localDir: "./_site"
         remoteDir: "/"
-        forceSsl: true
+        forceSsl: false
