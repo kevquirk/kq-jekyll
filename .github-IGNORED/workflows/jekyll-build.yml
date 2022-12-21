@@ -23,5 +23,5 @@ jobs:
         accessKey: "${{ secrets.STORAGE_KEY }}"
         pullZoneId: "${{ secrets.ZONE_ID }}"
         pullZoneAccessKey: "${{ secrets.PULL_ZONE_KEY }}"
-        remove: "true"
+        remove: "false"
         purge: "true"
