@@ -31,6 +31,13 @@ defaults:
     values:
       image: assets/images/brutal-feature-image.webp
       typora-root-url: ../../
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /:title/
 
 # Pagination config
 paginate: 20
