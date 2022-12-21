@@ -1,0 +1,27 @@
+name: Jekyll Build & Deploy
+
+on:
+  push
+  
+jobs:
+  jekyll:
+    name: Build and deploy Jekyll site
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Build
+      uses: jerryjvl/jekyll-build-action@v1 
+ 
+    - name: Deploy to BunnyCDN
+      uses: ayeressian/bunnycdn-storage-deploy@v1.1.1
+      with:
+        source: "_site"
+        storageZoneName: "${{ secrets.STORAGE_NAME }}"
+        accessKey: "${{ secrets.STORAGE_KEY }}"
+        pullZoneId: "${{ secrets.ZONE_ID }}"
+        pullZoneAccessKey: "${{ secrets.PULL_ZONE_KEY }}"
+        remove: "false"
+        purge: "true"
