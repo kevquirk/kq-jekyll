@@ -30,7 +30,6 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       image: assets/images/brutal-feature-image.webp
-      typora-root-url: ../../
   -
     scope:
       path: ""

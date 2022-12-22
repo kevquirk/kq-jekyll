@@ -3,6 +3,7 @@ title:
 description:
 date: 2022-12-08T18:30:00.000Z
 permalink:
+typora-root-url: ../../
 category:
   - AMA
   - Blogging
@@ -23,4 +24,3 @@ category:
 
 {: .tldr}
 {{ page.description }}
-
