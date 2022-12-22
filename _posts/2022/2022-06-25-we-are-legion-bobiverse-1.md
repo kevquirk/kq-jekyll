@@ -8,8 +8,7 @@ categories:
 ---
 {% include book.html cover='bobiverse1-cover.webp' alt='Bobiverse 1 book cover' author='Dennis E. Taylor' genre='Sci-fi / fantasy' published='20th Sept 2016' pages='383' stars='★★★★★ / 5 stars' summary='Bob Johansson has just sold his software company and is looking forward to a life of leisure. There are places to go, books to read, and movies to watch. So it’s a little unfair when he gets himself killed crossing the street.<br><br>Bob wakes up a century later to find that corpsicles have been declared to be without rights, and he is now the property of the state. He has been uploaded into computer hardware and is slated to be the controlling AI in an interstellar probe looking for habitable planets.<br><br>The stakes are high: no less than the first claim to entire worlds. If he declines the honor, he’ll be switched off, and they’ll try again with someone else. If he accepts, he becomes a prime target. There are at least three other countries trying to get their own probes launched first, and they play dirty.' %}
 
-
-[Buy on Amazon](https://amzn.to/3bg01Oz)
+[Buy on Amazon](https://amzn.to/3bg01Oz){: .button .brutal-shadow}
 
 *We Are Legion (We Are Bob)* is the first book in the *Bobiverse* series, of which there are 4 books in total.
 

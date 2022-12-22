@@ -8,7 +8,7 @@ categories:
 ---
 {% include book.html cover='bobiverse-book-3-cover.webp' alt='Bobiverse book 3 cover' author='Dennis E. Taylor' genre='Sci-fi / fantasy' published='08th August 2017' pages='336' stars='★★★★☆ / 4 stars' summary='Stinging from getting their collective butts kicked in their first encounter with the Others, the Bobs now face the prospect of a decisive final battle to defend Earth and its colonies. But the Bobs are less disciplined than a herd of cats, and some of the younger copies are more concerned with their own local problems than defeating the Others.<br><br>Yet salvation may come from an unlikely source. A couple of eighth-generation Bobs have found something out in deep space. All it will take to save the Earth and perhaps all of humanity is for them to get it to Sol – unless the Others arrive first.' %}
 
-[Buy on Amazon](https://amzn.to/3PweNjm)
+[Buy on Amazon](https://amzn.to/3PweNjm){: .button .brutal-shadow}
 
 Another great instalment of the *Bobiverse* series; I think the fact that I’m making my way through these books so quickly is testament to how good they are.
 

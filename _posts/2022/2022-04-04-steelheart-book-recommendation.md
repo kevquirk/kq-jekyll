@@ -8,7 +8,7 @@ categories:
 ---
 {% include book.html cover='steelheart-cover.webp' alt='Steelheart book cover' author='Brandon Sanderson' genre='Sci-fi / fantasy' published='24th Sept 2013' pages='386' summary='Ten years ago, Calamity came. It was a burst in the sky that gave ordinary men and women extraordinary powers. The awed public started calling them Epics. But Epics are no friend of man. With incredible gifts came the desire to rule. And to rule man you must crush his will.' stars='★★★★☆ / 4 stars' %}
 
-[Buy on Amazon](https://amzn.to/3j4e7Du) \| [Buy on Kobo](https://www.kobo.com/gb/en/ebook/steelheart-3)
+[Buy on Amazon](https://amzn.to/3j4e7Du){: .button .brutal-shadow} &nbsp;&nbsp;&nbsp;&nbsp; [Buy on Kobo](https://www.kobo.com/gb/en/ebook/steelheart-3){: .button .brutal-shadow}
 
 Following on from my recent [Mistborn recommendation](/the-mistborn-trilogy-book-recommendation/), I’ve persisted with working through Brandon Sanderson’s bibliography and I continue to really enjoy his writing.
 

@@ -14,7 +14,7 @@ I recently finished the Mistborn trilogy following a recommendation from a frien
 
 As some of you may know, I’m somewhat of a bookworm and [occasionally recommend books to read](https://kevquirk.com/recommended-read-a-bikers-life-by-henry-cole/) on here. This is another recommendation, especially if you’re into fantasy novels.
 
-![](/assets/images/mistborn-books.webp)
+![Mistborn book covers](/assets/images/mistborn-books.webp)
 
 Don’t worry, this post **DOES NOT** contain any spoilers!
 

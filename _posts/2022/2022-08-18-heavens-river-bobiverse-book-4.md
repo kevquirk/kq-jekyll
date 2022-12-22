@@ -8,7 +8,7 @@ categories:
 ---
 {% include book.html cover='heavens-river.webp' alt='Heavens River book cover' author='Dennis E. Taylor' genre='Sci-fi / fantasy' published='24th Sept 2020' pages='608' stars='★★★☆☆ / 3 stars' summary='More than a hundred years ago, Bender set out for the stars and was never heard from again. There has been no trace of him despite numerous searches by his clone-mates. Now Bob is determined to organize an expedition to learn Bender’s fate—whatever the cost.<br><br>But nothing is ever simple in the Bobiverse. Bob’s descendants are out to the 24th generation now, and replicative drift has produced individuals who can barely be considered Bobs anymore. Some of them oppose Bob’s plan; others have plans of their own. The out-of-control moots are the least of the Bobiverse’s problems.' %}
 
-[Buy on Amazon](https://amzn.to/3CeABw7)
+[Buy on Amazon](https://amzn.to/3CeABw7){: .button .brutal-shadow}
 
 [When I wrote about book 3](/all-these-worlds-bobiverse-book-3/), I said that the constant context switching was becoming tiresome, and I would have liked to see Taylor focus on a single storyline.
 

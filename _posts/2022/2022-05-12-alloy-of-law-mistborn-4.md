@@ -8,7 +8,7 @@ categories:
 ---
 {% include book.html cover='alloy-of-law-cover.webp' alt='Alt Text' author='Brandon Sanderson' genre='Sci-fi / fantasy' published='08th Nov 2011' pages='354' stars='★★★☆☆ / 3 stars' summary='Three hundred years after the events of the Mistborn trilogy, Scadrial is now on the verge of modernity, with railroads to supplement the canals, electric lighting in the streets and the homes of the wealthy, and the first steel-framed skyscrapers racing for the clouds.<br><br>After twenty years in the Roughs, Wax has been forced by family tragedy to return to the metropolis of Elendel. Now he must reluctantly put away his guns and assume the duties and dignity incumbent upon the head of a noble house. Or so he thinks, until he learns the hard way that the mansions and elegant tree-lined streets of the city can be even more dangerous than the dusty plains of the Roughs.' %}
 
-[Buy on Amazon](https://amzn.to/3PcStf4) \| [Buy on Kobo](https://www.kobo.com/gb/en/ebook/the-alloy-of-law)
+[Buy on Amazon](https://amzn.to/3PcStf4){: .button .brutal-shadow} &nbsp;&nbsp;&nbsp;&nbsp; [Buy on Kobo](https://www.kobo.com/gb/en/ebook/the-alloy-of-law){: .button .brutal-shadow}
 
 I was struggling between giving this 2 and 3 stars. While I **really** enjoyed the original Mistborn trilogy, but *Alloy of Law* failed to captivate me in the same way.
 

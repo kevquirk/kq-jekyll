@@ -9,7 +9,7 @@ categories:
 
 {% include book.html cover='calamity-cover.webp' alt='Calamaty book cover' author='Brandon Sanderson' genre='Sci-fi / fantasy' published='16th Feb 2016' pages='424' stars='★★★☆☆ / 3 stars' summary='Eliminating Steelheart was supposed to make life more simple. Instead, it only made David realize he has questions. Big ones. And there’s no one in Newcago who can give him the answers he needs.<br><br>He found some of those answers in FIREFIGHT. Now, he has to decide what to do with them . . .<br><br>Calamity is about what you do to fill your heart once you have vengeance.' %}
 
-[Buy on Amazon](https://amzn.to/3MnDOLS) \| [Buy on Kobo](https://www.kobo.com/gb/en/ebook/calamity-3)
+[Buy on Amazon](https://amzn.to/3MnDOLS){: .button .brutal-shadow} &nbsp;&nbsp;&nbsp;&nbsp; [Buy on Kobo](https://www.kobo.com/gb/en/ebook/calamity-3){: .button .brutal-shadow}
 
 *Calamity* is the third and final book in the *Reckoners* trilogy. I finished this a couple weeks ago, but wanted to stew on it for a while before I penned my thoughts down. That’s because I wasn’t really sure what I thought…and I’m still not.
 
