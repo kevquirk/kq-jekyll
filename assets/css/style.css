@@ -633,8 +633,7 @@ ul.post-meta li:last-child {
 .button {
   border: var(--standard-border);
   padding: 20px 40px;
-  margin: 1rem 0;
-  line-height: 2.5;
+  line-height: 3.5;
 }
 
 .button:hover {
@@ -644,7 +643,6 @@ ul.post-meta li:last-child {
 a.button {
   color: var(--text);
   text-decoration: none;
-  margin: 1rem 0;
 }
 
 .reply {
