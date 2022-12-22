@@ -62,4 +62,4 @@ This site is built upon [Jekyll](https://jekyllrb.com){: target="blank" }, and I
 
 Is it? I subscribe to the [brutalist mentality](/a-brutally-simple-site/) and I think this site is beautiful in its simplicity. There are few bells &amp; whistles, and the site is extremely content focussed.
 
-Hosting is provided by [Netlify](https://netlify.com), who offer free static site hosting that going to be perfect for most people's needs. There are other static site hosts out there - I [compared a number of them](/comparing-static-site-hosts-best-host-for-a-static-site) a while back and Netlify came out among the best.
+Hosting is provided by [Netlify](https://netlify.com), who offer free static site hosting that should be perfect for most people's needs. There are other static site hosts out there - I [compared a number of them](/comparing-static-site-hosts-best-host-for-a-static-site) a while back and Netlify came out among the best.
