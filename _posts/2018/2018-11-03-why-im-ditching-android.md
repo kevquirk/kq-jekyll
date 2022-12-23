@@ -14,7 +14,7 @@ Regular readers of this blog will know that I went through a process of [de-Goog
 
 Fast forward a year, and after a lot of trial and error I’m ready to now take the next step in removing Google from my life – I’m ditching Android.
 
-First I tried to ditch my smartphone completely, but that was a [massive fail](/ditching-my-smartphone-fail). Then I tried replacing Android with Lineage OS on a old phone I had. Whilst that meant I didn’t have any Google Apps on my device, it was still Android underneath. Also many apps kept complaining that I didn’t have Google services on the device. That got very old, very quick.
+First I tried to ditch my smartphone completely, but that was a massive fail. Then I tried replacing Android with Lineage OS on a old phone I had. Whilst that meant I didn’t have any Google Apps on my device, it was still Android underneath. Also many apps kept complaining that I didn’t have Google services on the device. That got very old, very quick.
 
 So last night I decided that I’m ditching Android completely and I’ve ordered an Apple iPhone SE. You probably think I’ve jumped out of the frying pan and into the fire, but let me explain the rationale behind the decision…
 

@@ -10,13 +10,13 @@ categories:
 {: .tldr}
 Having all this tech is great, but what happens to it after we’re gone? Archive it? Delete it? Have someone else manage it?
 
-I was perusing my [Mastodon](https:/joinmastodon.org) timeline the other day, and I saw this post from everyone’s favourite WordPress podcaster, Nathan Wrigley:
+I was perusing my [Mastodon](https://joinmastodon.org) timeline the other day, and I saw this post from everyone’s favourite WordPress podcaster, Nathan Wrigley:
 
-> Where do you store your [\#Lastpass](https:/fosstodon.org/tags/Lastpass) [\#1Password](https:/fosstodon.org/tags/1Password) [\#Bitwarden](https:/fosstodon.org/tags/Bitwarden) et al. Master Password? I have some ideas, but I don’t think that it should be in any way stored on a device / cloud?
+> Where do you store your [\#Lastpass](https://fosstodon.org/tags/Lastpass) [\#1Password](https://fosstodon.org/tags/1Password) [\#Bitwarden](https://fosstodon.org/tags/Bitwarden) et al. Master Password? I have some ideas, but I don’t think that it should be in any way stored on a device / cloud?
 > 
-> <cite>[Nathan Wrigley on Mastodon](https:/fosstodon.org/@nathan@wpbuilds.social/109445176768294219)</cite>
+> <cite>[Nathan Wrigley on Mastodon](https://fosstodon.org/@nathan@wpbuilds.social/109445176768294219)</cite>
 
-My wife and I use Bitwarden as our password manager (BTW, [it’s way better than LastPass](/bitwarden-an-open-source-alternative-to-lastpass/)). It works amazingly well, and both of us have [emergency access](https:/bitwarden.com/help/emergency-access/) to one another’s account.
+My wife and I use Bitwarden as our password manager (BTW, [it’s way better than LastPass](/bitwarden-an-open-source-alternative-to-lastpass/)). It works amazingly well, and both of us have [emergency access](https://bitwarden.com/help/emergency-access/) to one another’s account.
 
 That’s all fine and dandy, but my wife has absolutely no idea how to manage this stuff without a lot of assistance from me. She’s not a techie and has absolutely no interest in becoming one.
 
