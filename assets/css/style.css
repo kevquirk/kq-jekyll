@@ -167,7 +167,7 @@ h6 {
   font-size: 0.96rem;
 }
 
-.post-list h1 {
+.post-list h2 {
   font-size: 2.25rem;
   font-weight: 900;
   color: var(--text);
@@ -194,12 +194,12 @@ h6 {
     font-size: 2.5rem;
   }
 
-  .post-list h1 {
-    font-size: 1.8rem;
-  }
-
   h2 {
     font-size: 2.1rem;
+  }
+
+  .post-list h2 {
+    font-size: 1.8rem;
   }
 
   h3 {
