@@ -21,7 +21,7 @@ I fired up my trusty [MacBook M1 Air](/macbook-m1-4-month-update/) and went to t
 
 Microsoft uses a CAPTCHA tool that I've never seen before, which I assume is proprietary. This prompt asks you to look a 6 images, each with icon overlays, and select the one that has a matching pair of icons.
 
-![Microsoft CAPTCH example](/assets/images/ms-captcha-02.webp)
+![Microsoft CAPTCH example](/assets/images/ms-captcha.webp)
 
 It asks you to do this between **5 and 8 times!** So I oblige, and go through the process of selecting the matching pairs, I even get a tick telling me the CAPTCHA was successfully passed.
 
