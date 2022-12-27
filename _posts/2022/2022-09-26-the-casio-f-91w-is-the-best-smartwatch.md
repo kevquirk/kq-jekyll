@@ -4,6 +4,7 @@ date: '2022-09-26T11:30:49+01:00'
 layout: post
 permalink: /the-casio-f-91w-is-the-best-smartwatch/
 description: I recently stopped wearing my Apple Watch in favour of the classic Casio F-91W. This humble little watch is the best smartwatch on the market in my opinion.
+image: /assets/images/f91w-feature.webp
 categories:
     - Opinion
     - Technology
