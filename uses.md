@@ -83,8 +83,7 @@ I use all kinds of mobile apps, but I’m not one of those people who has hundre
 
 This is a list of the websites and web services that I use on a regular basis:
 
-- [WordPress](https://wordpress.org) (for this site)
-- [Jekyll](https://jekyllrb.com/) (for a number of static sites I manage)
+- [Jekyll](https://jekyllrb.com/) (for this and a number of other static sites I manage)
 - [Ionos](https://www.ionos.co.uk) (VPS hosting and domain registrar)
 - [Netlify](https://netlify.com) (static site hosting)
 - Mastodon ([Fosstodon](https://fosstodon.org))
