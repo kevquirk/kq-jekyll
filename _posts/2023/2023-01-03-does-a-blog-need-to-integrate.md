@@ -64,6 +64,14 @@ So if the "integration" at this point is simply a way to auto-post to Mastodon (
 
 It's just more complexity added to the site that can go wrong. I'm all about the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) - less to go wrong, and less for my tiny brain to track and fix.
 
+## But then there's RSS
+
+RSS is a fantastic technology that allows you to subscribe to the feed of any site or service that supports it. So you can have feeds for all your favourite blogs in a singe place.
+
+Luckily for us, RSS integration is provided with most blogging platforms. WordPress, Ghost, Blogger etc. all have RSS feeds by default. Even most static site generators, like Hugo, Jekyll and Eleventy all either have RSS plugins, or have it by default.
+
+Having RSS integration on your site [is hugely important](https://kevquirk.com/please-add-rss-support-to-your-site/).
+
 ## Final thoughts
 
 Owning the message of my writing is far more important than integrating and/or embedding the subsequent discourse that surrounds my posts.
