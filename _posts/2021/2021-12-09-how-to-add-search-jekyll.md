@@ -160,7 +160,7 @@ span.post-meta {
 ## The results
 Remember I said that because of the way I've set this up, I can embed the search form anywhere without loading the JS on the rest of my site? Well, here you go, you can play with the search form yourself right here:
 
-{% include search-form-embed.html %}
+{% include search-form.html %}
 
 Pretty cool huh? The results are nice and easy to see, they work well on mobile and the date is nicely formatted too. Plus, we're not wasting KBs of data loading unnecessary JS on every page load.
 
