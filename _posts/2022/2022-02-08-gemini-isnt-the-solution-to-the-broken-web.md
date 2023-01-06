@@ -29,7 +29,8 @@ The [Gemini project website](https://gemini.circumlunar.space/) describe the pro
 - *Strives for maximum power to weight ratio*
 - *Takes user privacy very seriously*
 
-{% include img.html src='example-gemini-site.webp' alt='Example Gemini site' caption='An example Gemini site' %}
+![Example Gemini site](/assets/images/example-gemini-site.webp)
+*An example Gemini site*
 
 Because Gemini is vastly different from HTML, you also need special software to view any Gemini site.
 

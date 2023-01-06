@@ -41,7 +41,7 @@ I can still see the MacOS dock, so I try to open a couple of apps to test the pe
 
 Finally I'm greeted with the formidable spinning wheel of death.
 
-{% include img.html src="spinning-wheel-of-death-mac.webp" alt="Spinning wheel of death meme" %}
+![Spinning wheel of death meme](/assets/images/spinning-wheel-of-death-mac.webp)
 
 Needless to say, something is royally fucked on my machine and I have no idea what. [I'm relatively new to MacOS](/a-windows-users-first-impressions-of-macos/) so I've never had to troubleshoot an issue like this before.
 
@@ -69,7 +69,7 @@ Woo hoo! We're making progress.
 
 So we turn our attention to my user profile. We change the folder permissions to give `test` access to my files and we peruse my home folder. There was a weird folder in there that looked like this:
 
-{% include full-bleed.html src="documents-folder-screenshot-finder.webp" alt="Weird documents folder in Finder" %}
+![Weird documents folder in Finder](/assets/images/documents-folder-screenshot-finder.webp)
 
 ## The penny dropped 
 I immediately noticed the weird looking folder and remembered what I had done the day before. You see, I store all my files on my Synology and I use Synology Drive to sync them; think of it like self-hosted Dropbox.

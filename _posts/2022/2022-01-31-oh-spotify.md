@@ -49,4 +49,5 @@ Yes, I absolutely could, dear reader. And there seems to be a lot of people doin
 
 How is that any better than Spotify? I'd much rather support artists and get a great service in return, than pirate a tonne of music just so I can jump on my social media sandbox and scream about how much more holier than thou I am. Just because I don't use Spotify.
 
-{% include update.html date="01st Feb 2022" content="I've since discovered that <a target='blank' href='https://www.tunemymusic.com/'>migrating to Apple Music is very easy</a> so I've since made the switch." %}
+{: .notice}
+I've since discovered that [migrating to Apple Music is very easy](https://www.tunemymusic.com/) so I've since made the switch.

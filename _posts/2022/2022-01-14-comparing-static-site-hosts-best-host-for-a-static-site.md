@@ -100,9 +100,9 @@ Unfortunately, I couldn't get **11ty** to build on most of the hosts, so could o
 
 I noticed that initial build times for each host were generally longer when I was testing Jekyll, so I've included a separate graph with that data. Here's what it all looks like:
 
-{% include full-bleed.html alt="Static host initial builds" src="static-host-intial-build-times.webp" %}
+![Static host initial builds](/assets/images/static-host-intial-build-times.webp)
 
-{% include full-bleed.html alt="Static host average builds" src="static-host-average-build-times.webp" %}
+![Static host average builds](/assets/images/static-host-average-build-times.webp)
 
 As you can see, the build times for Cloudflare Pages were a hell of a lot longer than the other hosts. This surprised me as I thought a company like Cloudflare would have their build process nailed. Clearly not.
 

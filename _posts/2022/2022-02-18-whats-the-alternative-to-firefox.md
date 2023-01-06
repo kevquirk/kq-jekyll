@@ -44,7 +44,7 @@ To add insult to injury, *a lot* of Firefox’s funding [comes from Google](http
 
 Trying to diversify their revenue streams has led to them [shilling their VPN service](https://www.omgubuntu.co.uk/2021/12/disable-firefox-recommendations-mozilla-vpn) in the browser and [dipping their toe into the shit show that is Crypto nonsense](https://twitter.com/mozilla/status/1476951030638260225), which garnered a *very* interesting reply from the founder of Mozilla:
 
-{% include img.html src='Firefox-crypto-tweet.webp' alt='Reply from Mozilla founder in response to a Mozilla tweet about crypto' %}
+![Reply from Mozilla founder in response to a Mozilla tweet about crypto](/assets/images/Firefox-crypto-tweet.webp)
 
 Of course, there’s also the ridiculous pay rises that their CEO has gotten over the years, despite their ~30% market share fading away into obscurity.
 

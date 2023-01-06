@@ -10,7 +10,7 @@ rss_only: false
 {: .tldr}
 My [Fosstodon](https://fosstodon.org) pal, [Ru Singh](https://rusingh.com), was asking about managing images with static sites recently, so I thought I'd write about how I manage my Jekyll content.
 
-{% include img.html src='ru-toot-static-images.webp' alt='Toot from Ru about images and static sites' %}
+![Toot from Ru about images and static sites](/assets/images/ru-toot-static-images.webp)
 
 Ru, I get it, managing and inserting images into a static site can be a pain. I've created my own workflow for managing images and other content on my site. Here's how it all works...
 
@@ -130,11 +130,15 @@ What I then did was create a new Automator **Quick Action** that types out that 
 4. Make it look like the image below (script pasted further down).
 5. Save it.
 
-{% include full-bleed.html src='automator-example.webp' alt='Automator example' %}
+![Automator example](/assets/images.automator-example.webp)
 
 ```
-on run {input, parameters}    tell application "System Events" to keystroke {% raw %}"{% include img.html src='...' alt='...' caption='...' %}"{% endraw %}	
-    return inputend run
+on run {input, parameters}
+
+    tell application "System Events" to keystroke {% raw %}"{% include img.html src='...' alt='...' caption='...' %}"{% endraw %}
+	
+    return input
+end run
 ```
 
 ### Add a keyboard shortcut
@@ -145,7 +149,7 @@ The final step in getting this setup is to add a keyboard shortcut so that I can
 3. Click on the **Quick Action** and a button should appear to **Add Shortcut**. Click it.
 4. Use the keyboard to type whatever keyboard shortcut you want to use for this Quick Action.
 
-{% include full-bleed.html src='quick-action-keyboard-shortcut.webp' alt='Quick Action keyboard shortcut' %}
+![Quick Action keyboard shortcut](/assets/images/quick-action-keyboard-shortcut.webp)
 
 That's it. Done! Now whenever I hit the keyboard shortcut I chose, MacOS will add the Liquid template ready for me to fill in to get an image going. All I need to do is delete the three dots and replace them with the appropriate data.
 
@@ -160,7 +164,7 @@ That's one problem solved (I think), but what about the other problem of managin
 ### Managing images
 This one is simple; I use Finder. By default the search feature in Finder searches the entire OS. But if you go into **Finder > Preferences**, then go to the **Advanced** tab, you can change that behaviour:
 
-{% include img.html src='finder-search-behaviour.webp' alt='Finder search behaviour' %}
+![Finder search behaviour](/assets/images/finder-search-behaviour.webp)
 
 Now I can navigate to the `/assets/images` folder in my local Git repository and search for a string to find related images. Easy peasy lemon squeezey.
 
@@ -171,7 +175,7 @@ However, that's not simple enough for a simpleton like me. My code editor of cho
 
 Fuzzy Finder then lets me search the entire repository for anything I like. I tend to search for a keyword followed by a space then `.md` which will limit the results to Markdown files only, thus only showing pages and posts:
 
-{% include img.html src='atom-fuzzy-finder.webp' alt='Atom Fuzzy Finder' %}
+![Atom Fuzzy Finder](/assets/images/atom-fuzzy-finder.webp)
 
 ## Final thoughts
 So there you have it, that's how I manage the content for this site using nothing but MacOS and Atom.
