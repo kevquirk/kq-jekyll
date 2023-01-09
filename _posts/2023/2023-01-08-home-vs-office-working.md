@@ -50,7 +50,7 @@ The commute between home and office signifies a beginning and end of my working 
 
 ## It's a personal thing
 
-I'm *not* saying Chris isn't wrong. His solution works for him and he's happy, which is fantastic. I also have friends who prefer to work at home more. More power to them; each to their own. For me, the balance of 2:3 works best.
+I'm *not* saying Chris is wrong. His solution works for him and he's happy, which is fantastic. I also have friends who prefer to work at home more. More power to them; each to their own. For me, the balance of 2:3 works best.
 
 I've had 2 weeks off for Christmas and am back working (from home) tomorrow. I'm really excited to be back in the office on Tuesday though - to catch up, to get coffee, to have a laugh. **To be with friends.**
 
