@@ -15,18 +15,14 @@ title: Stats
 		{% assign postWords = post.content | number_of_words %}
 		{% assign totalWords = totalWords | plus:  postWords %}
 		{% assign pd = post.date | date: "%Y-%m-%d" %}
-		{% unless forloop.first %}
-			{% assign dateOb = dateOb | append: "," %}
-		{% endunless %}
-		{% assign dateOb = dateOb | append: pd %}
 	{% endfor %}
 
 	{% assign avgWords = totalWords | divided_by: site.posts.size %}
 
 **Total posts:** {{ site.posts.size }} <br>
-**Total categories:** {{ site.categories.size }} <br>
-**Total words:** {{ totalWords }} <br>
+**Total words:** {{ totalWords | number_with_delimiter }} (that's approximately {{ totalWords | divided_by: 50000 }} novels)<br>
 **Average words per post:** {{ avgWords }} <br>
+**Total categories:** {{ site.categories.size }}
 
 ## Posts by category
 <ul>
