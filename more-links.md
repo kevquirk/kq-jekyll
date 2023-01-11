@@ -6,6 +6,7 @@ description: Here's some more links to pages on this site that you might find us
 ---
 
 - [Blogroll](/blogroll/)
+- [Blog Stats](/stats/)
 - [Categories](/categories/)
 - [Contribute](/contribute/)
 - [Disclaimer](/disclaimer/)
