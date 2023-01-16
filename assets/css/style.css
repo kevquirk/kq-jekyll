@@ -395,7 +395,7 @@ var {
 pre,
 pre.highlight {
   background: var(--accent-bg);
-  border: 1px solid var(--text);
+  border: 3px solid var(--text);
   margin: var(--bigger-content-margin);
   max-width: 100%;
   padding: 1.5rem;
