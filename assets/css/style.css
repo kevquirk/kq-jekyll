@@ -26,6 +26,7 @@
 	--accent-text: #000;
 	--bg: #fafafa;
 	--accent-bg: #efefef;
+  --input-bg: white;
   --warning: #ffeeaa;
   --notice: #aaccff;
 	--sans: "GeneralSans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -41,6 +42,7 @@
    --accent-text: #fafafa;
    --bg: #222;
    --accent-bg: #2d2d2d;
+   --input-bg: black;
    img {
     opacity: 70%;
    }
@@ -496,7 +498,7 @@ input#search-input {
   font-size: 1rem;
   padding: .7rem;
   border: 3px solid var(--text);
-  background: var(--accent-bg);
+  background: var(--input-bg);
   color: var(--text);
   width: 100%;
   box-sizing: border-box;
