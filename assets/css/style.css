@@ -43,6 +43,8 @@
    --bg: #222;
    --accent-bg: #2d2d2d;
    --input-bg: black;
+   --warning: #923733;
+   --notice: #3070D0;
    img {
     opacity: 70%;
    }
@@ -324,7 +326,7 @@ cite {
 .notice::before,
 .notice-red::before,
 .warning::before {
-  color: #000;
+  color: var(--accent-text);
   border-right: 3px solid var(--accent-text);
   border-bottom: 3px solid var(--accent-text);
   display: block;
@@ -347,21 +349,6 @@ cite {
   content: "WARNING";
 	background: var(--warning);
 	width: 7.5rem;
-}
-
-@media (prefers-color-scheme: dark) {
-  .notice::before,
-  .notice-red::before,
-  .warning::before {
-    background: #000;
-  }
-  .notice::before {
-    color: var(--notice);
-  }
-  .notice-red::before,
-  .warning::before {
-    color: var(--warning);
-  } 
 }
 
 .notice a,
