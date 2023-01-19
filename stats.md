@@ -2,12 +2,6 @@
 layout: page
 title: Stats
 ---
-
-	{% comment %}
-	taken from the code in sidebar.html, attempts to lowercase/unique the set of cats
-	get total num of words and avg
-	{% endcomment %}
-
 	{% assign totalWords = 0 %}
 	{% assign dateOb = '' %}
 
