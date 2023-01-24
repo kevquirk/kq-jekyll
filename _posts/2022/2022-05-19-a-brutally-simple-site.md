@@ -51,7 +51,7 @@ But there’s still way more I can do. For example, my [projects](/projects/) an
 
 There’s also a lot more stuff I can strip out of Underscores to make it even more lean. So my plan for the foreseeable future at least, is to add nothing to the design of this site, only remove.
 
-~~If I can get below 200KB, I’ll be happy~~ I have now got the site down to ~190KB. But part of me wants to see how skinny I can really make this site. I know Chris Wiegman managed to make [a ridiculously small WordPress theme](https://chriswiegman.com/2021/04/creating-a-minimal-wordpress-theme-in-the-era-of-gutenberg/), but he’s forgotten more about WordPress than I’ll ever know. So I don’t think I’ll be able to compete with him.
+~~If I can get below 200KB, I’ll be happy~~ I have now got the site down to ~65KB. But part of me wants to see how skinny I can really make this site. I know Chris Wiegman managed to make [a ridiculously small WordPress theme](https://chriswiegman.com/2021/04/creating-a-minimal-wordpress-theme-in-the-era-of-gutenberg/), but he’s forgotten more about WordPress than I’ll ever know. So I don’t think I’ll be able to compete with him.
 
 I could have just downloaded his source code and edited the CSS, but where’s the fun in that? Instead, I’ll slowly start stripping stuff out of this theme, while keeping the front end the same. This way I hope to learn more too.
 
