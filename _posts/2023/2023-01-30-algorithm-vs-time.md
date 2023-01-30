@@ -75,7 +75,7 @@ With this being *bad news for Mastodon*, you would assume the engagement would b
 
 Why is this? Well, dear reader, it's because Mastodon is built by *people*, not *algorithms*.
 
-These aren't unique scenarios, either. [Her's another example](https://journal.paoloamoroso.com/my-first-day-in-the-fediverse), [and another](https://journa.host/@spencerdailey/109742163296310876), [and another](https://davekarpf.substack.com/p/twitter-tumbleweed-watch), [and another from Brian Krebs](https://mastodon.social/@briankrebs@infosec.exchange/109518462701713792). Are you starting to get the picture?
+These aren't unique scenarios, either. [Her's another example](https://journal.paoloamoroso.com/my-first-day-in-the-fediverse), [and another](https://journa.host/@spencerdailey/109742163296310876), [and another](https://davekarpf.substack.com/p/twitter-tumbleweed-watch), [and another](https://mastodon.social/@Sheril/109769039703141366), [and another](https://mstdn.social/@maxkennerly/109773215734523885), [and another](https://social.openrightsgroup.org/@jim/109768223900810132), [and finally another from Brian Krebs](https://mastodon.social/@briankrebs@infosec.exchange/109518462701713792). Are you starting to get the picture?
 
 {: .notice}
 Just want to quickly thank all the fine people of Mastodon for [sending me these links](https://fosstodon.org/@kev/109777707481351463) - I couldn't remember them all.
