@@ -77,6 +77,10 @@ Why is this? Well, dear reader, it's because Mastodon is built by *people*, not 
 
 These aren't unique scenarios, either. [Her's another example](https://journal.paoloamoroso.com/my-first-day-in-the-fediverse), [and another](https://journa.host/@spencerdailey/109742163296310876), [and another](https://davekarpf.substack.com/p/twitter-tumbleweed-watch), [and another from Brian Krebs](https://mastodon.social/@briankrebs@infosec.exchange/109518462701713792). Are you starting to get the picture?
 
+{: .notice}
+Just want to quickly thank all the fine people of Mastodon for [sending me these links](https://fosstodon.org/@kev/109777707481351463) - I couldn't remember them all.
+<br><br>Engagement, yo!
+
 ## The chronological timeline is beautiful
 
 My preference for a chronological timeline isn’t about concern for companies making money from me. It’s about [concern for my time](https://kevquirk.com/a-sombre-goodbye-to-linux/).
