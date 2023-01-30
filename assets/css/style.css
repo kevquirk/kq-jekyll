@@ -446,9 +446,9 @@ tr:nth-child(2n) {
 }
 
 hr {
-  border-top: 1px solid var(--text);
-  margin: 2.5rem auto;
-  max-width: 80%;
+  border-top: 3px solid var(--text);
+  margin: 3.5rem auto;
+  max-width: 60%;
 }
 
 /****** Format the Footer ******/
