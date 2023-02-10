@@ -725,6 +725,7 @@ a.button {
 
 .book {
   background: var(--accent-bg);
+  border: 3px solid var(--text);
   padding: 1.5rem;
   font-size: 1rem;
 }
