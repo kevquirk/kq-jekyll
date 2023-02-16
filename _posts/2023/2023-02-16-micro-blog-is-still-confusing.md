@@ -18,7 +18,7 @@ A couple years ago, almost to the day, ironically, I took Micro.Blog for a spin 
 
 Last time I tried the service, I signed up for a free trial so I could kick the tyres and see what I thought. I decided to do the same thing again, but I was surprised to find that things seemed to have gone downhill from a UX perspective.
 
-I signed up and was sent an email to login...BTW the **HATE** that - if anyone from Micro.Blog is reading this, **PLEASE STOP**. Let users have a password and offer [multi-factor authentication](https://kevquirk.com/what-is-two-factor-authentication/) - sending people a sign-in link to their email is *incredibly* insecure.
+I signed up and was sent an email to login...BTW I **HATE** that - if anyone from Micro.Blog is reading this, **PLEASE STOP**. Let users have a password and offer [multi-factor authentication](https://kevquirk.com/what-is-two-factor-authentication/) - sending people a sign-in link to their email is *incredibly* insecure.
 
 Anyway, I digress...I sign in and the first thing I'm greeted with is a page asking for payment details:
 
