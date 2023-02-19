@@ -1,5 +1,5 @@
 ---
-title: A Script to Automate Git Commit & Push
+title: A Script to Automate Git Add, Commit & Push
 description: I wanted a way to automate the git add, commit & push commands. Here's how I did it...
 date: 2023-02-19T10:20:00.000Z
 permalink:
