@@ -2,7 +2,7 @@ plugins:
   - jekyll-category-pages
   - jekyll-paginate
 
-# SEO Stuff
+# SEO Stuff 
 author: Kev Quirk
 title: Kev Quirk
 tagline: Part time geek, full time idiot.
