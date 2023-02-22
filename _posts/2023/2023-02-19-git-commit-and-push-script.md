@@ -32,7 +32,6 @@ Since I use an [M1 Macbook Air](https://kevquirk.com/macbook-m1-4-month-update/)
 #!/bin/bash
 read -p "Commit message: " desc
 git add . && \
-git add -u && \
 git commit -m "$desc" && \
 git push
 ```
