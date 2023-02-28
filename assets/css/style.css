@@ -459,21 +459,6 @@ footer {
   margin-top: 2rem;
 }
 
-/***** Format form elements *****/
-input#submit {
-  border: none;
-  font-size: 1rem;
-  padding: .7rem .9rem;
-  margin: .5rem 0;
-  background: var(--bg);
-  color: var(--text);
-  border: var(--standard-border)
-}
-
-input#submit:hover {
-  cursor: pointer;
-}
-
 input {
   font-family: var(--sans);
   font-size: 1.25rem !important;
@@ -663,7 +648,8 @@ a.button {
   margin: 5rem 0 2rem 0;
 }
 
-.contribute-box {
+.contribute-box,
+.subscribe-form {
   border: var(--standard-border);
   margin: 4rem 0;
 }
@@ -683,6 +669,29 @@ a.button {
   padding-top: 5px;
   padding-bottom: 5px;
   margin: 0;
+}
+
+/* Format the subsribe form */
+.subscribe-form {
+  background: var(--accent-bg);
+  padding: 1rem;
+}
+
+.subscribe-form h2 {
+  margin-top: 0;
+}
+
+.subscribe-form form {
+  max-width: 80%;
+  margin: 1.5rem auto;
+}
+
+.subscribe-form input[type="submit"] {
+  background: var(--bg);
+  color: var(--text);
+  border: var(--standard-border);
+  margin: 0.5rem 0;
+  padding: 10px 20px;
 }
 
 /* Pagination formatting */

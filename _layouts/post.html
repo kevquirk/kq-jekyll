@@ -17,6 +17,24 @@ layout: default
 
   <div class="post-footer">
     <a class="reply button brutal-shadow" href="mailto:{{ site.email }}?subject={{ page.title }}">Reply via email</a>
+  
+    <div class="subscribe-form">
+      <div class="subscribe-form-header">
+        <h2>Subscribe via email</h2>
+      </div>
+      <p>Want to be informed when I post new articles? Simply enter your email address below and you will get an email whenever new posts are published.</p>
+      <p>Alternatively, you can <a href="/feed">subscribe via RSS instead</a>.</p>
+      <form
+        action="https://buttondown.email/api/emails/embed-subscribe/kev"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.email/kev', 'popupwindow')"
+        class="embeddable-buttondown-form" >
+        <label class="visuallyhidden" for="bd-email">Enter your email</label>
+        <input type="email" name="email" id="bd-email" placeholder="jane@example.com" />
+        <input class="brutal-shadow" type="submit" value="Subscribe" />
+      </form>
+    </div>
 
     <div class="contribute-box">
       <div class="contribute-box-header">
