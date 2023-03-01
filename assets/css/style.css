@@ -616,7 +616,7 @@ ul.post-meta li:last-child {
 
 .button {
   border: var(--standard-border);
-  padding: 20px 40px;
+  padding: 10px 20px;
   line-height: 3.5;
 }
 
@@ -632,6 +632,7 @@ a.button {
 .reply {
   font-size: 32px;
   font-weight: bold;
+  padding: 20px 40px;
 }
 
 .brutal-shadow {
