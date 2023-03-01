@@ -27,6 +27,6 @@ With this process being very low friction for me, I'm confident the _subscribe b
 
 ## Final point
 
-I want to end by reassuring you that if you do sign up, it will literally just be my posts that you receive to your inbox. There will be no tracking, no affiliate links, no other newsletter bullshit. And, of course, you can subscribe at any time - all emails you receive will have an unsubscribe link that _actually_ works.
+I want to end by reassuring you that if you do sign up, it will literally just be my posts that you receive to your inbox. There will be no tracking, no affiliate links, no other newsletter bullshit. And, of course, you can unsubscribe at any time - all emails you receive will have an unsubscribe link that _actually_ works.
 
 This is nothing more than a way for you to read my content via email.
