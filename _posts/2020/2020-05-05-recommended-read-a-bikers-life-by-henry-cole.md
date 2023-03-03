@@ -8,6 +8,7 @@ permalink: /recommended-read-a-bikers-life-by-henry-cole/
 description: A Biker's Life by Henry Cole really resonated with me, so I wanted to talk a little about what I enjoyed about the book and what I took from it.
 categories:
   - Opinion
+  - Books
 ---
 <div class="wp-block-image">
   <img loading="lazy" width="2000" height="1500" src="/assets/images/wp-images/2020/05/a-bikers-life-book.jpg" alt="Book cover of &quot;A Biker's Life&quot; by Henry Cole" class="wp-image-1873" srcset="/assets/images/wp-images/2020/05/a-bikers-life-book.jpg 2000w, /assets/images/wp-images/2020/05/a-bikers-life-book-300x225.jpg 300w, /assets/images/wp-images/2020/05/a-bikers-life-book-1024x768.jpg 1024w, /assets/images/wp-images/2020/05/a-bikers-life-book-768x576.jpg 768w, /assets/images/wp-images/2020/05/a-bikers-life-book-1536x1152.jpg 1536w" sizes="(max-width: 2000px) 100vw, 2000px" />
