@@ -498,6 +498,10 @@ input {
   width: 1px;
 }
 
+.hidden {
+  display: none;
+}
+
 .search-form {
   margin-top: 2rem;
 }
