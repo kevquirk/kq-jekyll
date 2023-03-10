@@ -9,6 +9,7 @@
 
 - name: Microblog
   link: https://micro.kevquirk.com
+  class: mobile-hide
 
 - name: Search
   link: /search/
