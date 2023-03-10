@@ -7,9 +7,8 @@
 - name: Contact
   link: /contact/
 
-- name: My Projects
-  link: /projects/
-  class: mobile-hide
+- name: Microblog
+  link: https://micro.kevquirk.com
 
 - name: Search
   link: /search/
