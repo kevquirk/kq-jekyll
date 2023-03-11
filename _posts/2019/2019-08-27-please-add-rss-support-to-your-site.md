@@ -22,6 +22,8 @@ There aren&#8217;t many tech people that I know who don&#8217;t use RSS feeds to
 
 #### If you own a blog, please make sure it supports RSS. {#h-if-you-own-a-blog-please-make-sure-it-supports-rss}
 
-Oh, that reminds me, if you want to add the feed for this site to your RSS reader, it&#8217;s [https://kevq.uk/feed](/feed).
+Oh, that reminds me, if you want to add the feed for this site to your RSS reader, it&#8217;s [https://kevquirk.com/feed](/feed).
 
 **Can you think of a good reason NOT to use RSS on a website? What am I missing here?**
+
+If you want to read more compelling arguments about why you should have an RSS feed on your blog, you should read [this great post by Paolo Amoroso](https://journal.paoloamoroso.com/why-your-blog-still-needs-rss).
