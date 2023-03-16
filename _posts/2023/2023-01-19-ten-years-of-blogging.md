@@ -20,6 +20,8 @@ If you're running a Jekyll based blog and want similar stats on your site, you c
 
 ## The stats
 
+**Please note:** These stats are a point-in-time snapshot from when this post was published in January 2023. For current stats, [visit this page](https://kevquirk.com/stats).
+
 **Total posts:** 300<br>
 **Total words:** 250,312 (that’s approximately 5 novels)<br>
 **Average words per post:** 834<br>
