@@ -44,7 +44,7 @@ I personally went one further and [recently and added a way for people to subscr
 {: .notice}
 If you're thinking about doing something similar, I'd strongly recommend [Buttondown](https://buttondown.email/). It's a great service that uses RSS feeds to pre-populate email newsletters. It's cheap too.
 
-## 3. No publishing contact details
+## 3. Not publishing contact details
 
 Blogging is cathartic, I think. Some people do it for themselves, just to arrange their thoughts. Others do it because they feel like they have something to say or share. Many are in both buckets, myself included.
 
