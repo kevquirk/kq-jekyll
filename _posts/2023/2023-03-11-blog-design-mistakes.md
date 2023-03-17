@@ -19,7 +19,7 @@ I read a lot of blogs; [some I read regularly](https://kevquirk.com/blogroll), o
 
 This is my ~~rant~~ list of the 5 design mistakes I see most often with blogs.
 
-## 1. Display the post date
+## 1. Hiding the post date
 
 Gah! I can't say how much not having this annoys me. So much so that [I've written about this in the past](https://kevquirk.com/add-a-date-to-your-posts/).
 
@@ -31,7 +31,7 @@ It also gives visitors really useful information, like whether the blog is still
 
 It's literally a single line on the page. It's not going to detract the reader in any way, shape, or form, but it will provide them with *very* useful information.
 
-## 2. Allow people to subscribe
+## 2. Not allowing people to subscribe
 
 At the very least, you **absolutely need to have an RSS feed** - [they're very important](https://kevquirk.com/please-add-rss-support-to-your-site/). If you don't have an RSS feed on your site, you're probably losing readers.
 
@@ -44,7 +44,7 @@ I personally went one further and [recently and added a way for people to subscr
 {: .notice}
 If you're thinking about doing something similar, I'd strongly recommend [Buttondown](https://buttondown.email/). It's a great service that uses RSS feeds to pre-populate email newsletters. It's cheap too.
 
-## 3. Allow readers to contact you
+## 3. No publishing contact details
 
 Blogging is cathartic, I think. Some people do it for themselves, just to arrange their thoughts. Others do it because they feel like they have something to say or share. Many are in both buckets, myself included.
 
@@ -58,7 +58,7 @@ My readers don't have to go hunting for ways to contact me. It's all very easy, 
 
 Ipso facto, it's good for everyone. I got lots of great conversation, and you get more of my drivel. 🙃
 
-## 4. Be content focussed
+## 4. Not being content focussed
 
 I love web design. I don't think I'm very good at it, but I enjoy trying new things in terms of design. If you look at [the evolution of this very site](https://kevquirk.com/the-design-history-of-this-website/), it's clear I've tried lots of different designs over the years to see what works and what doesn't.
 
@@ -73,7 +73,7 @@ I also hate those silly fade in and fade out animations that people do as the se
 {: .tip}
 If you do come across a blog that isn't content focussed, enable [reader mode](https://lifehacker.com/how-to-use-your-browsers-reader-mode-to-actually-read-w-1847480062) on your browser so you can (hopefully) read the post without distraction.
 
-## 5. Don't be intrusive
+## 5. Displaying all the popups
 
 This one is kinda related to *being content focussed*, but it goes one step further. This is also the most egregious, and most prevalent, of all the mistakes in this list.
 
