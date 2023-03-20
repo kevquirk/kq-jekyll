@@ -27,9 +27,10 @@
 	--bg: #fafafa;
 	--accent-bg: #efefef;
   --input-bg: white;
-  --warning: #ffeeaa;
+  --warning: #ffdd55;
   --notice: #aaccff;
   --tip: #DBFFD6;
+  --highlight: #ffdd55;
 	--sans: "GeneralSans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	--mono: Menlo, Consolas, Monaco, "Liberation Mono", Lucida Console, monospace;
   --content-margin: 1.5rem auto;
@@ -434,7 +435,7 @@ kbd {
 
 mark {
   padding: 0.1rem 0.25rem;
-  background: var(--warning);
+  background: var(--highlight);
   color: black; 
 }
 
