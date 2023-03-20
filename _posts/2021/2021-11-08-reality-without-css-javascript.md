@@ -7,7 +7,7 @@ category: [Opinion, Web]
 ---
 
 {: .tldr}
-Bradley Taunt [recently wrote about](https://uglyduck.ca/css-js-mistake/) what his web utopia looks like; **an Internet without CSS or JavaScript**. While I agree that both are overused (particularly JS), I think Bradley went a little far.
+Bradley Taunt [recently wrote about](https://bt.ht/css-js-mistake/) what his web utopia looks like; **an Internet without CSS or JavaScript**. While I agree that both are overused (particularly JS), I think Bradley went a little far.
 
 If you haven't done so already, I'd **strongly** recommend reading Bradley's post before continuing with this post. Go on, it's a great read (like most of his posts) So I'll wait...
 
