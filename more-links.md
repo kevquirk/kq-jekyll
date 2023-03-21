@@ -10,7 +10,7 @@ description: Here's some more links to pages on this site that you might find us
 - [Categories](/categories/)
 - [Contribute](/contribute/)
 - [Disclaimer](/disclaimer/)
-- [Microblog](https://micro.kevquirk.com)
+- [Microblog](https://qrk.social)
 - [My Projects](/projects/)
 - [Privacy & License Info](/privacy/)
 - [RSS Feed](/feed.xml)
