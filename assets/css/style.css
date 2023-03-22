@@ -597,14 +597,15 @@ ul.post-meta li:last-child {
 }
 
 .button,
-button#submit {
+#submit {
   border: var(--standard-border);
-  padding: 10px 20px;
-  line-height: 3.5;
+  background: var(--bg);
+  margin: 1rem 0;
+  padding: 5px 10px;
 }
 
 .button:hover,
-button#submit:hover {
+#submit:hover {
   background: var(--bg);
 }
 
