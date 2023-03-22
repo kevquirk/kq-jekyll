@@ -6,9 +6,7 @@
     {% assign pagecontent_description = page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
 <meta name="description" content="{% if page.url == '/' or page.url contains '/page' %}{{ site.description }}{% else %}{{ page.description }}{% endif %}">
 
-<link rel="icon" type="image/png" href="/assets/images/favicon.webp" />
-<link rel="shortcut icon" type="image/png" href="/assets/images/favicon.webp">
-<link rel="apple-touch-icon" href="/assets/images/favicon.webp">
+<link rel="icon" type="image/png" href="{{ prepend: site.baseurl | prepend: site.url }}/assets/images/favicon.webp" />
 
 <!-- Facebook integration -->
 <meta property="og:title" content="{{ page.title }}"/>
@@ -27,7 +25,7 @@
 <meta name="twitter:description" content="{% if page.url == '/' %}{{ site.description }}{% else %}{{ page.description }}{% endif %}" />
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ prepend: site.baseurl | prepend: site.url }}/feed.xml">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ prepend: site.baseurl | prepend: site.url }}/sitemap.xml" />
 
-<link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ prepend: site.baseurl | prepend: site.url }}/assets/css/style.css">
