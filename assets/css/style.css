@@ -596,13 +596,15 @@ ul.post-meta li:last-child {
   margin-right: 0;
 }
 
-.button {
+.button,
+button#submit {
   border: var(--standard-border);
   padding: 10px 20px;
   line-height: 3.5;
 }
 
-.button:hover {
+.button:hover,
+button#submit {
   background: var(--bg);
 }
 
