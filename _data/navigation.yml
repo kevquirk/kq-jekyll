@@ -9,11 +9,9 @@
 
 - name: Microblog
   link: https://qrk.social
-  class: mobile-hide
 
 - name: Search
   link: /search/
-  class: mobile-hide
 
 - name: More...
   link: /more-links/

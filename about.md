@@ -54,8 +54,6 @@ One of my favourite times of day is during the evening when the kids are in bed,
 
 OK, enough about me. Let’s talk about the technicalities of how this website is put together. I’ve had a number of people ask me question like *“what do you use for x?”* So I hope this section will help.
 
-### This website
-
 This site is built upon [Jekyll](https://jekyllrb.com){: target="blank" }, and I use a custom theme that I built myself.
 
 > Why is this website so ugly?
@@ -63,3 +61,5 @@ This site is built upon [Jekyll](https://jekyllrb.com){: target="blank" }, and I
 Is it? I subscribe to the [brutalist mentality](/a-brutally-simple-site/) and I think this site is beautiful in its simplicity. There are few bells &amp; whistles, and the site is extremely content focussed.
 
 Hosting is provided by [Netlify](https://netlify.com), who offer free static site hosting that should be perfect for most people's needs. There are other static site hosts out there - I [compared a number of them](/comparing-static-site-hosts-best-host-for-a-static-site) a while back and Netlify came out among the best.
+
+The font stack is a local stack by [Modern Font Stacks](https://modernfontstacks.com/) I’m using the Geometric Humanist stack on this site.
