@@ -604,7 +604,7 @@ button#submit {
 }
 
 .button:hover,
-button#submit {
+button#submit:hover {
   background: var(--bg);
 }
 
