@@ -1,3 +1,22 @@
+/** Get yer font on! **/
+@font-face {
+  font-family: 'GeneralSans';
+  src: url('/assets/fonts/GeneralSans/GeneralSans-Variable.woff2') format('woff2'),
+       url('/assets/fonts/GeneralSans/GeneralSans-Variable.woff') format('woff');
+       font-weight: 200 700;
+       font-display: swap;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'GeneralSans';
+  src: url('/assets/fonts/GeneralSans/GeneralSans-VariableItalic.woff2') format('woff2'),
+       url('/assets/fonts/GeneralSans/GeneralSans-VariableItalic.woff') format('woff');
+       font-weight: 200 700;
+       font-display: swap;
+       font-style: italic;
+}
+
 /** Global colour variables **/
 :root {
 	--text: #444;
@@ -9,7 +28,7 @@
   --notice: #aaccff;
   --tip: #DBFFD6;
   --highlight: #ffdd55;
-	--sans: Avenir, 'Avenir Next LT Pro', Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+	--sans: 'GeneralSans', Avenir, 'Avenir Next LT Pro', Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
 	--mono: Menlo, Consolas, Monaco, "Liberation Mono", Lucida Console, monospace;
   --content-margin: 1.5rem auto;
   --bigger-content-margin: 2.5rem auto;
