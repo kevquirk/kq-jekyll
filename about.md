@@ -62,4 +62,4 @@ Is it? I subscribe to the [brutalist mentality](/a-brutally-simple-site/) and I 
 
 Hosting is provided by [Netlify](https://netlify.com), who offer free static site hosting that should be perfect for most people's needs. There are other static site hosts out there - I [compared a number of them](/comparing-static-site-hosts-best-host-for-a-static-site) a while back and Netlify came out among the best.
 
-The font stack is a local stack by [Modern Font Stacks](https://modernfontstacks.com/) I’m using the Geometric Humanist stack on this site.
+The font used on this site is [GeneralSans](https://www.fontshare.com/fonts/general-sans), followed by a local stack by [Modern Font Stacks](https://modernfontstacks.com/) I’m using the Geometric Humanist stack on this site.
