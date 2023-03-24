@@ -19,6 +19,11 @@ Email is the easiest way to get in touch with me. I’ll usually respond fairly 
 {: .notice }
 **Please note:** This is a randomly generated email that I change regularly to prevent spam. If/when I reply to your email, that will come from my actual email address so we will be able to converse.
 
-## Mastodon: <a href="https://fosstodon.org/@kev">@kev</a>
+## The Feidverse
 
-I am one of the admins on [Fosstodon](https://fosstodon.org/), which is a Mastodon instance. If you want to follow me on Mastodon, search for **@kev@fosstodon.org**.
+[I have two accounts on the Fediverse](https://kevquirk.com/fediverse-backup/), one on [Fosstodon](https://fosstodon.org/), a Mastodon instance of which I'm one of the admins, and another that's hosted via [Micro.blog](https://micro.blog).
+
+If you want to follow me on either account (I'd diggest following on both as I post different things on each), here's the links:
+
+* [Follow me on Fosstodon](https://fosstodon.org/@kev) (or search for `@kev@fosstodon.org` on the Fediverse)
+* [Follow me on Micro.blog](https://micro.blog/kq) (or search for `@kev@qrk.social` on the Fediverse)
