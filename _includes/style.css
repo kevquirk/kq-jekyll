@@ -756,6 +756,17 @@ a.button {
   margin: 0 1.5rem 0.75rem 0;
 }
 
+.link {
+  background: var(--accent-bg);
+  border: 3px solid var(--text);
+  color: var(--dark-text);
+  padding: 1.5rem;
+}
+
+.link h2 {
+  margin-top: 0;
+}
+
 /* Make full width on mobile screens */
 @media only screen and (max-width: 750px)  {
   .project {
