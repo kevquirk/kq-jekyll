@@ -620,7 +620,7 @@ ul.post-meta li:last-child {
   border: var(--standard-border);
   background: var(--bg);
   margin: 1rem 0;
-  padding: 5px 10px;
+  padding: 10px 12px;
 }
 
 .button:hover,
