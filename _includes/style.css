@@ -798,3 +798,64 @@ a.button {
 .recent-posts li {
   margin-bottom: 1.5rem;
 }
+
+/* Format the phone on my about page */
+.phone-chat {
+  max-width: 30rem;
+  margin: var(--bigger-content-margin)
+}
+
+.phone-message,
+.phone-reply {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  width: 60%;
+  border-radius: 12px;
+  font-size: 1.1rem;
+}
+
+.phone-message p,
+.phone-reply p {
+  margin: 0;
+}
+
+.phone-message {
+  background: #e6e5eb;
+}
+
+.phone-message p,
+.phone-message a {
+  color: black;
+}
+
+.phone-reply {
+  background: #0a81ff;
+  float: right;
+}
+
+.phone-reply p {
+  color: white;
+}
+
+@media only screen and (max-width: 750px) {
+  .phone-chat {
+    width: 100%;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .phone-message {
+    background: black;
+  }
+  
+  .phone-message p,
+  .phone-message a {
+    color: var(--text);
+  }
+  
+  .phone-reply {
+    background: #0861c0;
+    float: right;
+  }
+
+}
