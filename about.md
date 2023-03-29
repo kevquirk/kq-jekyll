@@ -6,7 +6,7 @@ permalink: /about/
 description: Who is Kev Quirk? You can find more out about me on this page.
 ---
 
-<img width="50%" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
+<img class="about-img" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
 
 <div class="phone-chat">
     <div class="phone-message"><p>Oh, hi there, I'm <b>Kev</b>. See that grayscale guy just up there? Well, that's me. (I'm full colour IRL)</p></div>

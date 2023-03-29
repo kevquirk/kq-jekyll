@@ -731,12 +731,6 @@ a.button {
   margin: 0;
 }
 
-.about-pic {
-  width: 200px;
-  float: left;
-  margin-right: 1.5rem;
-}
-
 .book,
 .watch {
   background: var(--accent-bg);
@@ -800,6 +794,10 @@ a.button {
 }
 
 /* Format the phone on my about page */
+.about-img {
+  width: 40%;
+}
+
 .phone-chat {
   max-width: 30rem;
   margin: var(--bigger-content-margin)
@@ -840,6 +838,9 @@ a.button {
 @media only screen and (max-width: 750px) {
   .phone-chat {
     width: 100%;
+  }
+  .about-pic {
+    width: 50%;
   }
 }
 
