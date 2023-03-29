@@ -6,7 +6,23 @@ permalink: /about/
 description: Who is Kev Quirk? You can find more out about me on this page.
 ---
 
-<img class="about-pic" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
+<img width="50%" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
+
+<div class="phone-chat">
+    <div class="phone-message"><p>Oh, hi there, I'm <b>Kev</b>. See that grayscale guy just up there? Well, that's me. (I'm full colour IRL)</p></div>
+    <div class="phone-message"><p>How are you doing?</p></div>
+    <div class="phone-reply"><p>Um, I'm good thanks, but what am I doing here and why are you chatting to me?</p></div>
+    <div style="clear: both;"></div>
+    <div class="phone-message"><p>That's a great question, dear reader. This is my little corner of the Internet.</p></div>
+    <div class="phone-message"><p>Welcome.</p></div>
+    <div class="phone-reply"><p>Okay...so where do I find your shizzle?</p></div>
+    <div style="clear: both;"></div>
+    <div class="phone-message"><p>Gah, you're full of great questions!</p></div>
+    <div class="phone-message"><p>So you can check out <a href="https://kevquirk.com">my blog</a> for all kinds of interesting post. Or you can peruse <a href="https://qrk.social">my microblog</a> for more Twitter-like hot takes.</p></div>
+    <div class="phone-message"><p>If you're so inclined, you can also keep on scrollin' down this page to learn a little more about me.</p></div>
+    <div class="phone-reply"><p>This was weird, but I suppose I'll go check out your stuff. Thanks...</p></div>
+    <div style="clear: both;"></div>
+</div>
 
 {: .medium }
 Hi there 👋 my name is Kev Quirk, welcome to my little corner of the Internet.
