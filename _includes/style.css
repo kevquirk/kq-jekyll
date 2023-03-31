@@ -238,6 +238,7 @@ a:visited {
 
 a:hover {
   background: var(--pink);
+  text-decoration: none;
 }
 
 main img,
