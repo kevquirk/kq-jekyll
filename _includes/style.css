@@ -102,6 +102,7 @@ nav a:visited {
 nav a:hover,
 nav a#current {
   background: var(--pink);
+  text-decoration: none;
 }
 
 /****** Header elements ******/
