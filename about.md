@@ -12,16 +12,13 @@ description: Who is Kev Quirk? You can find more out about me on this page.
     <div class="phone-message"><p>Oh, hi there, I'm <b>Kev</b>. See that grayscale guy just up there? Well, that's me. (I'm full colour IRL)</p></div>
     <div class="phone-message"><p>How are you doing?</p></div>
     <div class="phone-reply"><p>Um, I'm good thanks, but what am I doing here and why are you chatting to me?</p></div>
-    <div style="clear: both;"></div>
     <div class="phone-message"><p>How am I supposed to know? You came here of your own accord, but I assume you're here to read all my great posts?</p></div>
     <div class="phone-message"><p>Whatever the reason for your visit here, welcome to my site. 🙃</p></div>
     <div class="phone-message"><p>...and we're chatting because <a href="https://kevquirk.com/online-conversations-website-engagement/">I enjoy talking with the people who read this blog</a>.</p></div>
     <div class="phone-reply"><p>Okay...so where do I find your posts?</p></div>
-    <div style="clear: both;"></div>
     <div class="phone-message"><p>You can check out <a href="https://kevquirk.com">my blog</a> for all kinds of interesting post, or you can peruse <a href="https://qrk.social">my microblog</a> for more Twitter-like hot takes.</p></div>
     <div class="phone-message"><p>If you're so inclined, you can also keep on scrollin' down this page to learn a little more about me.</p></div>
     <div class="phone-reply"><p>This was weird, but I suppose I'll go check out your stuff. Thanks...</p></div>
-    <div style="clear: both;"></div>
 </div>
 
 {: .medium }
@@ -59,16 +56,13 @@ My favourite watch is probably the [F-91W](/the-casio-f-91w-is-the-best-smartwat
 
 <div class="phone-chat">
     <div class="phone-reply"><p>Um, hi Kev...me again. 👋 Can I just interject for a second?</p></div>
-    <div style="clear: both;"></div>
     <div class="phone-message"><p>Oh, hi again, reader person! Sure, how can I help?</p></div>
     <div class="phone-reply"><p>Soooooo I kinda like what I'm readin' here, but I probably won't remember to come back and check for new posts.</p></div>
     <div class="phone-reply"><p>Is there a way I can subscribe to your shizzle?</p></div>
-    <div style="clear: both;"></div>
     <div class="phone-message"><p>Of course there is! I have an <a href="https://kevquirk.com/feed">RSS feed</a>, or you can subscribe via email.</p></div>
     <div class="phone-message"><p>If you want to subscribe via email, there's a sign up form at the bottom of every post.</p></div>
     <div class="phone-message"><p>Actually, you know what, I'll put a sign up form right after this chat for you so you don't have to go hunting. How's that?</p></div>
     <div class="phone-reply"><p>K thx. Bye.</p></div>
-    <div style="clear: both;"></div>
     <div class="phone-message"><p>No problem. Ok, back to the about page...</p></div>
 </div>
 

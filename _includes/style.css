@@ -799,6 +799,7 @@ a.button.brutal-shadow {
   width: 60%;
   border-radius: 12px;
   font-size: 1.1rem;
+  clear: both;
 }
 
 .phone-message p,
