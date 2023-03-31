@@ -13,12 +13,12 @@ description: Who is Kev Quirk? You can find more out about me on this page.
     <div class="phone-message"><p>How are you doing?</p></div>
     <div class="phone-reply"><p>Um, I'm good thanks, but what am I doing here and why are you chatting to me?</p></div>
     <div style="clear: both;"></div>
-    <div class="phone-message"><p>That's a great question, dear reader. This is my little corner of the Internet.</p></div>
-    <div class="phone-message"><p>Welcome.</p></div>
-    <div class="phone-reply"><p>Okay...so where do I find your shizzle?</p></div>
+    <div class="phone-message"><p>How am I supposed to know? You who came here of your own accord, but I assume you're here to read all my great posts?</p></div>
+    <div class="phone-message"><p>Whatever the reason for your visit here, welcome to my site. 🙃</p></div>
+    <div class="phone-message"><p>...and we're chatting because <a href="https://kevquirk.com/online-conversations-website-engagement/">I enjoy talking with the people who read this blog</a>.</p></div>
+    <div class="phone-reply"><p>Okay...so where do I find your posts?</p></div>
     <div style="clear: both;"></div>
-    <div class="phone-message"><p>Gah, you're full of great questions!</p></div>
-    <div class="phone-message"><p>So you can check out <a href="https://kevquirk.com">my blog</a> for all kinds of interesting post. Or you can peruse <a href="https://qrk.social">my microblog</a> for more Twitter-like hot takes.</p></div>
+    <div class="phone-message"><p>You can check out <a href="https://kevquirk.com">my blog</a> for all kinds of interesting post, or you can peruse <a href="https://qrk.social">my microblog</a> for more Twitter-like hot takes.</p></div>
     <div class="phone-message"><p>If you're so inclined, you can also keep on scrollin' down this page to learn a little more about me.</p></div>
     <div class="phone-reply"><p>This was weird, but I suppose I'll go check out your stuff. Thanks...</p></div>
     <div style="clear: both;"></div>
@@ -56,6 +56,36 @@ I also have a deep love of motorbikes. I’ve been riding for many years and I�
 I’ve recently started collecting watches; specifically Casio watches. I love the vintage and simplistic look of many of their watches. They just scream nostalgia to me. I also like the fact that many of their models are very cheap, so can have lots of watches, but also not worry too much about damaging them.
 
 My favourite watch is probably the [F-91W](/the-casio-f-91w-is-the-best-smartwatch/) as I currently have 6 of them, but that may well change as my collection grows.
+
+<div class="phone-chat">
+    <div class="phone-reply"><p>Um, hi Kev...me again. 👋 Can I just interject for a second?</p></div>
+    <div style="clear: both;"></div>
+    <div class="phone-message"><p>Oh, hi again, reader person! Sure, how can I help?</p></div>
+    <div class="phone-reply"><p>Soooooo I kinda like what I'm readin' here, but I probably won't remember to come back and check for new posts.</p></div>
+    <div class="phone-reply"><p>Is there a way I can subscribe to your shizzle?</p></div>
+    <div style="clear: both;"></div>
+    <div class="phone-message"><p>Of course there is! I have an <a href="https://kevquirk.com/feed">RSS feed</a>, or you can subscribe via email.</p></div>
+    <div class="phone-message"><p>If you want to subscribe via email, there's a sign up form at the bottom of every post.</p></div>
+    <div class="phone-message"><p>Actually, you know what, I'll put a sign up form right after this chat for you so you don't have to go hunting. How's that?</p></div>
+    <div class="phone-reply"><p>K thx. Bye.</p></div>
+    <div style="clear: both;"></div>
+    <div class="phone-message"><p>No problem. Ok, back to the about page...</p></div>
+</div>
+
+<details>
+    <summary>Here's that sign up form I was talking about...</summary>
+    <p>Simply enter your email address below and you will get an email whenever new posts are published.</p>
+    <form
+        action="https://buttondown.email/api/emails/embed-subscribe/kev"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.email/kev', 'popupwindow')"
+        class="embeddable-buttondown-form" >
+        <label class="visuallyhidden" for="bd-email">Enter your email</label>
+        <input type="email" name="email" id="bd-email" placeholder="jane@example.com" />
+        <input class="brutal-shadow" type="submit" value="Subscribe" />
+      </form>
+</details>
 
 ### Pets
 

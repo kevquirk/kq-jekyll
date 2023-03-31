@@ -602,6 +602,7 @@ ul.post-meta li:last-child {
 
 .button,
 #submit {
+  color: var(--text);
   border: var(--standard-border);
   background: var(--bg);
   margin: 1rem 0;
@@ -664,7 +665,7 @@ a.button {
   margin: 1.5rem auto;
 }
 
-.subscribe-form input[type="submit"] {
+input[type="submit"] {
   background: var(--bg);
   color: var(--text);
   border: var(--standard-border);
