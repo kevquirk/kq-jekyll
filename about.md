@@ -19,6 +19,7 @@ description: Who is Kev Quirk? You can find more out about me on this page.
     <div class="phone-message"><p>You can check out <a href="https://kevquirk.com">my blog</a> for all kinds of interesting post, or you can peruse <a href="https://qrk.social">my microblog</a> for more Twitter-like hot takes.</p></div>
     <div class="phone-message"><p>If you're so inclined, you can also keep on scrollin' down this page to learn a little more about me.</p></div>
     <div class="phone-reply"><p>This was weird, but I suppose I'll go check out your stuff. Thanks...</p></div>
+    <div style=“clear:both;”></div>
 </div>
 
 {: .medium }
