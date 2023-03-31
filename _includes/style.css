@@ -96,7 +96,7 @@ nav a,
 nav a:visited {
   font-size: 1.1rem;
   margin-left: 12px;
-  padding: 0 3px;
+  padding: 5px;
 }
 
 nav a:hover,
@@ -233,7 +233,7 @@ a,
 a:visited {
   color: var(--text);
   text-decoration-thickness: .15rem;
-  transition: color .1s ease-in-out,background-color .1s ease-in-out;
+  transition: color .1s ease-in-out, .1s ease-in-out;
 }
 
 a:hover {
