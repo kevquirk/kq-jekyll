@@ -20,6 +20,7 @@
 /** Global colour variables **/
 :root {
 	--text: #000;
+  --dark-text: #000;
 	--bg: #fafafa;
 	--accent-bg: #efefef;
   --input-bg: white;
@@ -41,12 +42,7 @@
    --text: #eee;
    --bg: #222;
    --accent-bg: #2d2d2d;
-   --input-bg: black;
-   --yellow: #923733;
-   --blue: #3070D0;
-   --pink: #92064E;
-   --purple: #58389F;
-   --green: #42591C;
+   --input-bg: #2d2d2d;
    img {
     opacity: 70%;
    }
@@ -102,6 +98,7 @@ nav a:visited {
 nav a:hover,
 nav a#current {
   background: var(--pink);
+  color: var(--dark-text);
   text-decoration: none;
 }
 
@@ -176,6 +173,10 @@ h6 code {
   margin: 1rem 0;
 }
 
+.post-list:hover h2 {
+  color: var(--dark-text);
+}
+
 .page-title {
   margin-top: 1.5rem;
 }
@@ -237,6 +238,7 @@ a:visited {
 }
 
 a:hover {
+  color: var(--dark-text);
   background: var(--pink);
   text-decoration: none;
 }
@@ -308,6 +310,7 @@ cite {
 .notice-red::before,
 .warning::before,
 .tip::before {
+  color: var(--dark-text);
   border-right: 3px solid var(--text);
   border-bottom: 3px solid var(--text);
   display: block;
@@ -417,6 +420,7 @@ th {
   text-align: left;
   padding: .2rem .4rem;
   background: var(--purple);
+  color: var(--dark-text);
 }
 
 td {
@@ -499,6 +503,7 @@ ul#results-container {
 
 /* Format the details/summary box */
 details {
+  color: var(--dark-text);
   background: var(--green);
   border: var(--standard-border);
   margin-bottom: 1rem;
@@ -612,6 +617,7 @@ ul.post-meta li:last-child {
 .button:hover,
 #submit:hover {
   background: var(--bg);
+  color: var(--dark-text);
 }
 
 a.button {
@@ -637,6 +643,7 @@ a.button {
 }
 
 .contribute-box {
+  color: var(--dark-text);
   background: var(--green);
   padding: 1rem;
 }
@@ -652,8 +659,14 @@ a.button {
 
 /* Format the subsribe form */
 .subscribe-form {
+  color: var(--dark-text);
   background: var(--purple);
   padding: 1rem;
+}
+
+.subscribe-form a,
+.contribute-box a {
+  color: var(--dark-text);
 }
 
 .subscribe-form h2 {
@@ -679,6 +692,7 @@ input[type="submit"] {
 }
 
 .brutal-shadow:hover {
+  color: var(--dark-text);
   box-shadow: 0px 0px 0 0 var(--text);
   background: var(--pink) !important;
   border-color: var(--text) !important;
@@ -741,7 +755,8 @@ a.button.brutal-shadow {
 }
 
 .link {
-  background: var(--puple);
+  color: var(--dark-text);
+  background: var(--purple);
   border: 3px solid var(--text);
   padding: 1.5rem;
   margin: 2.5rem 0;
