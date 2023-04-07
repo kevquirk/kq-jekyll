@@ -21,9 +21,9 @@ Email is the easiest way to get in touch with me. I’ll usually respond fairly 
 
 ## The Feidverse
 
-[I have two accounts on the Fediverse](https://kevquirk.com/fediverse-backup/), one on [Fosstodon](https://fosstodon.org/), a Mastodon instance of which I'm one of the admins, and another that's hosted via [Micro.blog](https://micro.blog).
+[I have two accounts on the Fediverse](https://kevquirk.com/fediverse-backup/), one on [Fosstodon](https://fosstodon.org/), a Mastodon instance of which I'm one of the admins, and another that's [self-hosted](https://kevquirk.com/self-hosted-microblog/).
 
 If you want to follow me on either account (I'd diggest following on both as I post different things on each), here's the links:
 
 * [Follow me on Fosstodon](https://fosstodon.org/@kev) (or search for `@kev@fosstodon.org` on the Fediverse)
-* [Follow me on Micro.blog](https://micro.blog/kq) (or search for `@kev@qrk.social` on the Fediverse)
+* [Follow my self-hosted Microblog](https://log.kevquirk.com/subscribe) (or search for `@kev@log.kevquirk.com` on the Fediverse)
