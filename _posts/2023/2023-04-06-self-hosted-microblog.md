@@ -81,8 +81,11 @@ I'm also exploring whether I should setup cross-posting from my Microblog to my 
 
 Overall I've *really* happy with the solution I've come up with. It's easy for me to post and manage, and I control it all. Winner, winner, chicken dinner!
 
-If you want to follow my microblog on the fediverse, just search for `@kev@log.kevquirk.com` you can also [add the RSS feed to your reader](https://log.kevquirk.com/feed) if you so wish.
+If you want to follow my microblog on the fediverse, just search for `@kev@qrk.social` you can also [add the RSS feed to your reader](https://qrk.social/feed.xml) if you so wish.
 
 Finally, I'm sure you wanna peruse my little microblog, right? If you do, hit the button below!
 
-[Visit my microblog](https://log.kevquirk.com){: .button .brutal-shadow}
+[Visit my microblog](https://quirk.social){: .button .brutal-shadow}
+
+{: .notice}
+Plugging it all together is too much of a pain in the arse, so I've decided to go back to Micro.blog. I'd rather pay Manton to manage it all for me. :-)
