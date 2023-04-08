@@ -44,7 +44,7 @@ Plus, to me at least, blogging and *microblogging* are 2 different use cases, so
 
 So Jekyll was out. What else was there out there? Well, I'd already researched a number of [alternative blogging platforms](https://kevquirk.com/my-blogging-utopia/), so I decided to start with that list and I ended up narrowing it down to 2 options:
 
-1. **[Hyblog](https://github.com/colin-walker/hyblog)** is a custom built, PHP based blogging platform, by Colin Walker. It's actually what he uses on [his blog](https://colinwalker.blog). It ticked pretty much all the boxes, and I very nearly went with it
+1. **[Hyblog](https://github.com/colin-walker/hyblog)** is a custom built, PHP based blogging platform, by Colin Walker. It's based on what he uses on [his blog](https://colinwalker.blog). It ticked pretty much all the boxes, and I very nearly went with it
 2. **[Good old WordPress](https://wordpress.org)** is what I ended up going with, as I know it well and could integrate it with all the services I wanted, very easily. I even had a theme that I'd built which is 90% the same as the theme on this blog
 
 ## Winning with WordPress
