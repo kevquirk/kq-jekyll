@@ -12,7 +12,7 @@ description: Who is Kev Quirk? You can find more out about me on this page.
     <div class="phone-message"><p>Oh, hi there, I'm <b>Kev</b>. See that grayscale guy just up there? Well, that's me. (I'm full colour IRL)</p></div>
     <div class="phone-message"><p>How are you doing?</p></div>
     <div class="phone-reply"><p>Um, I'm good thanks, but what am I doing here and why are you chatting to me?</p></div>
-    <div class="phone-message"><p>How am I supposed to know? You came here of your own accord, but I assume you're here to read all my great posts?</p></div>
+    <div class="phone-message"><p>How am I supposed to know what you're doing here? You came here of your own accord, but I assume you're here to read all my great posts?</p></div>
     <div class="phone-message"><p>Whatever the reason for your visit here, welcome to my site. 🙃</p></div>
     <div class="phone-message"><p>...and we're chatting because <a href="https://kevquirk.com/online-conversations-website-engagement/">I enjoy talking with the people who read this blog</a>.</p></div>
     <div class="phone-reply"><p>Okay...so where do I find your posts?</p></div>
