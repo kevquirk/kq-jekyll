@@ -85,7 +85,7 @@ If you want to follow my microblog on the fediverse, just search for `@kev@qrk.s
 
 Finally, I'm sure you wanna peruse my little microblog, right? If you do, hit the button below!
 
-[Visit my microblog](https://quirk.social){: .button .brutal-shadow}
+[Visit my microblog](https://qrk.social){: .button .brutal-shadow}
 
 {: .notice}
 Plugging it all together is too much of a pain in the arse, so I've decided to go back to Micro.blog. I'd rather pay Manton to manage it all for me. :-)
