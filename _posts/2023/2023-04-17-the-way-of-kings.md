@@ -20,7 +20,7 @@ The Radiants turned against mankind. Kings strive to win more Shardblades, each 
 Why did the Radiants turn against mankind, and what happened to the magic they used to wield?</p>'
 %}
 
-[https://amzn.eu/d/92n2ZUS](Buy on Amazon){: .button .brutal-shadow} &nbsp; [Buy on Kobo](https://www.kobo.com/gb/en/ebook/the-way-of-kings){: .button .brutal-shadow}
+[Buy on Amazon](https://amzn.eu/d/92n2ZUS){: .button .brutal-shadow} &nbsp; [Buy on Kobo](https://www.kobo.com/gb/en/ebook/the-way-of-kings){: .button .brutal-shadow}
 
 I really can't describe how much I loved this book. I think I may have enjoyed it more than the [Mistborn series](https://kevquirk.com/the-mistborn-trilogy-book-recommendation), and that says a lot.
 
