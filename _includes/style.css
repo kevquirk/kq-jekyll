@@ -797,6 +797,12 @@ a.button.brutal-shadow {
   margin-bottom: 1.5rem;
 }
 
+/* Hide all but the first 5 recent posts */
+.recent-posts li:nth-child(-n+5) {
+  display: none;
+}
+
+
 /* Format the phone on my about page */
 .about-img {
   width: 40%;

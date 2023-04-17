@@ -5,21 +5,21 @@ layout: page-hidden-title
 permalink: /about/
 description: Who is Kev Quirk? You can find more out about me on this page.
 ---
-
-<img class="about-img" src="/assets/images/kevs-face.webp" alt="Kev's Face" />
+<img class="about-img" alt="Kev's Face" src='/_assets/images/kevs-face.webp' onmouseover="this.src='/_assets/images/kevs-face-colour.webp';" onmouseout="this.src='/_assets/images/kevs-face.webp';" />
 
 <div class="phone-chat">
-    <div class="phone-message"><p>Oh, hi there, I'm <b>Kev</b>. See that grayscale guy just up there? Well, that's me. (I'm full colour IRL)</p></div>
-    <div class="phone-message"><p>How are you doing?</p></div>
-    <div class="phone-reply"><p>Um, I'm good thanks, but what am I doing here and why are you chatting to me?</p></div>
-    <div class="phone-message"><p>How am I supposed to know what you're doing here? You came here of your own accord, but I assume you're here to read all my great posts?</p></div>
-    <div class="phone-message"><p>Whatever the reason for your visit here, welcome to my site. 🙃</p></div>
-    <div class="phone-message"><p>...and we're chatting because <a href="https://kevquirk.com/online-conversations-website-engagement/">I enjoy talking with the people who read this blog</a>.</p></div>
-    <div class="phone-reply"><p>Okay...so where do I find your posts?</p></div>
-    <div class="phone-message"><p>You can check out <a href="https://kevquirk.com">my blog</a> for all kinds of interesting post, or you can peruse <a href="https://qrk.social">my microblog</a> for more Twitter-like hot takes.</p></div>
-    <div class="phone-message"><p>If you're so inclined, you can also keep on scrollin' down this page to learn a little more about me.</p></div>
-    <div class="phone-reply"><p>This was weird, but I suppose I'll go check out your stuff. Thanks...</p></div>
-    <div style="clear: both;"></div>
+<div class="phone-message"><p>Oh, hi there, I'm <b>Kev</b>. See that grayscale guy just up there? Well, that's me. (I'm full colour IRL)</p></div>
+<div class="phone-message"><p>Don't believe me? Try hovering over (or tapping) the image above and you will see proof that I am, in fact, full colour!</p></div>
+<div class="phone-message"><p>Anyway...how are you doing?</p></div>
+<div class="phone-reply"><p>Um, I'm good thanks, but what am I doing here and why are you chatting to me?</p></div>
+<div class="phone-message"><p>How am I supposed to know what you're doing here? You came here of your own accord, but I assume you're here to read all my great posts?</p></div>
+<div class="phone-message"><p>Whatever the reason for your visit, welcome! 🙃</p></div>
+<div class="phone-message"><p>...and we're chatting because <a href="https://kevquirk.com/online-conversations-website-engagement/">I enjoy talking with the people who read this blog</a>.</p></div>
+<div class="phone-reply"><p>Okay...so where do I find all these "great" posts?</p></div>
+<div class="phone-message"><p>Fantastic question, dear reader! You can check out <a href="https://kevquirk.com">my blog</a> for all kinds of interesting post, or you can peruse <a href="https://qrk.social">my microblog</a> for more Twitter-like hot takes.</p></div>
+<div class="phone-message"><p>If you're so inclined, you can also keep on scrollin' down this page to learn a little more about me.</p></div>
+<div class="phone-reply"><p>This was weird, but thanks...I think. 🤷‍♂️</p></div>
+<div style="clear: both;"></div>
 </div>
 
 {: .medium }
