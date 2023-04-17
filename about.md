@@ -64,7 +64,8 @@ My favourite watch is probably the [F-91W](/the-casio-f-91w-is-the-best-smartwat
     <div class="phone-message"><p>If you want to subscribe via email, there's a sign up form at the bottom of every post.</p></div>
     <div class="phone-message"><p>Actually, you know what, I'll put a sign up form right after this chat for you so you don't have to go hunting. How's that?</p></div>
     <div class="phone-reply"><p>K thx. Bye.</p></div>
-    <div class="phone-message"><p>No problem. Ok, back to the about page...</p></div>
+    <div class="phone-message"><p>No problem.</p></div>
+    <div class="phone-message"><p>Ok, back to the about page...</p></div>
 </div>
 
 <details>
