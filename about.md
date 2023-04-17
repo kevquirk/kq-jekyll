@@ -5,7 +5,7 @@ layout: page-hidden-title
 permalink: /about/
 description: Who is Kev Quirk? You can find more out about me on this page.
 ---
-<img class="about-img" alt="Kev's Face" src='/_assets/images/kevs-face.webp' onmouseover="this.src='/_assets/images/kevs-face-colour.webp';" onmouseout="this.src='/_assets/images/kevs-face.webp';" />
+<img class="about-img" alt="Kev's Face" src='/assets/images/kevs-face.webp' onmouseover="this.src='/assets/images/kevs-face-colour.webp';" onmouseout="this.src='/assets/images/kevs-face.webp';" />
 
 <div class="phone-chat">
 <div class="phone-message"><p>Oh, hi there, I'm <b>Kev</b>. See that grayscale guy just up there? Well, that's me. (I'm full colour IRL)</p></div>
