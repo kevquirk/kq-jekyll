@@ -740,6 +740,7 @@ a.button.brutal-shadow {
   background: var(--green);
   border: 3px solid var(--text);
   color: var(--dark-text);
+  margin: var(--bigger-content-margin);
   padding: 1.5rem;
   font-size: 1rem;
 }

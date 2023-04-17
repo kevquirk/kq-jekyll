@@ -20,6 +20,8 @@ The Radiants turned against mankind. Kings strive to win more Shardblades, each 
 Why did the Radiants turn against mankind, and what happened to the magic they used to wield?</p>'
 %}
 
+[https://amzn.eu/d/92n2ZUS](Buy on Amazon){: .button .brutal-shadow} &nbsp; [Buy on Kobo](https://www.kobo.com/gb/en/ebook/the-way-of-kings){: .button .brutal-shadow}
+
 I really can't describe how much I loved this book. I think I may have enjoyed it more than the [Mistborn series](https://kevquirk.com/the-mistborn-trilogy-book-recommendation), and that says a lot.
 
 The story follows 3 main storylines, all of which start to converge toward the end of the book. By far the best storyline though, is that of Kaladin, a soldier who ends up a slave, but the worst kind of slave...a bridgeman.
