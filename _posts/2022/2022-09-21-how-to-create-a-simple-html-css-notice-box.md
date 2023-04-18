@@ -69,7 +69,7 @@ As you can see, our work in progress notice box is looking pretty sorry for itse
   background-color: #EFEFEF;
   border: 3px solid #444;
   padding: 1rem;
-  margin: 2rem 0;
+  margin: 2rem 0; 
 }
 ```
 
