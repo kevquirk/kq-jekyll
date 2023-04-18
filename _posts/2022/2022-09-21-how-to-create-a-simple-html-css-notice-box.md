@@ -81,9 +81,9 @@ Here’s what it looks like with the `padding` and `margin` applied:
 
 We now have a box that would function perfectly well as a basic notice box because it’s different enough from the standard body text to draw the reader’s eye. You could even give the notice box a different background colour, like this:
 
-<p style="background-color:var(--notice);color:#000;border:3px solid #000;padding:1rem;margin:2rem 0;">Here be dragons! This is my <b>NOTICE</b> box!</p>
+<p style="background-color:var(--blue);color:#000;border:3px solid #000;padding:1rem;margin:2rem 0;">Here be dragons! This is my <b>NOTICE</b> box!</p>
 
-<p style="background-color:var(--warning);color:#000;border:3px solid #000;padding:1rem;margin:2rem 0;">Here be dragons! This is my <b>WARNING</b> box!</p>
+<p style="background-color:var(--yellow);color:#000;border:3px solid #000;padding:1rem;margin:2rem 0;">Here be dragons! This is my <b>WARNING</b> box!</p>
 
 But we want to take things a little further here, and add the little message boxes that say `NOTE` and `WARNING`, just like my notices. To do this, we will use the `::before` [pseudo element](https://www.w3docs.com/learn-css/before.html).
 
