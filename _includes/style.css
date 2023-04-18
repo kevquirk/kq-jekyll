@@ -30,7 +30,7 @@
   --purple: #929cf9;
   --green: #c3ec81;
   --highlight: #ffdd55;
-	--sans: 'GeneralSans', Avenir, 'Avenir Next LT Pro', Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+	--sans: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
 	--mono: Menlo, Consolas, Monaco, "Liberation Mono", Lucida Console, monospace;
   --content-margin: 1.5rem auto;
   --bigger-content-margin: 2.5rem auto;
