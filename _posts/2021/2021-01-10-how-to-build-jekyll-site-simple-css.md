@@ -2,9 +2,8 @@
 id: 4269
 title: How To Build A Jekyll Site Using Simple.css
 date: 2021-01-10T16:30:00+00:00
-author: Kev Quirk
-layout: post
-guid: https://kevq.uk/?p=4269
+
+layout: post 
 permalink: /how-to-build-jekyll-site-simple-css/
 description:
   - A complete and verbose guide on how to build a Jekyll site using Simple.css. Building a site with Jekyll can be difficult, this guide...
@@ -22,7 +21,7 @@ By the end of this guide you should have a Jekyll based website with a blog that
 
 Here&#8217;s an example of what the site will look like once we&#8217;re done:
 
-<img loading="lazy" width="1063" height="634" src="/assets/images/wp-images/2021/01/jekyll-simple-css-homepage-1.png" alt="Jekyll running simple.css" class="wp-image-4270" srcset="/assets/images/wp-images/2021/01/jekyll-simple-css-homepage-1.png 1063w, /assets/images/wp-images/2021/01/jekyll-simple-css-homepage-1-610x364.png 610w, /assets/images/wp-images/2021/01/jekyll-simple-css-homepage-1-768x458.png 768w" sizes="(max-width: 1063px) 100vw, 1063px" />
+![](/assets/images/jekyll-simple-css-homepage.png)
 
 ## Table of contents
 
@@ -160,7 +159,7 @@ Sign into your new (or existing) GitHub account and create a new repository usin
   * **Add a README file** &#8211; I always like to check this so a `README.md` file is created that contains the repository name and description.
   * **Add .gitignore** &#8211; Check this box then search for and add the `jekyll` template. This is so your local cache isn&#8217;t synced with your GitHub repository when you build your Jekyll site.
 
-<img loading="lazy" width="900" height="784" src="/assets/images/wp-images/2021/01/github-create-repository.png" alt="GitHub create repository" class="wp-image-4271" srcset="/assets/images/wp-images/2021/01/github-create-repository.png 900w, /assets/images/wp-images/2021/01/github-create-repository-610x531.png 610w, /assets/images/wp-images/2021/01/github-create-repository-768x669.png 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/github-create-repository.png)   
 
 Once you&#8217;re happy, click on the green **Create repository** button and your new GitHub repository will be built.
 
@@ -172,7 +171,7 @@ To do that, click on the green **Code** button and hit the copy icon (highlighte
   <strong>Note:</strong> I would recommend setting up SSH keys and cloning the repository that way, but that is outside of the scope of this guide, so we will just use HTTPS.
 </p>
 
-<img loading="lazy" width="912" height="784" src="/assets/images/wp-images/2021/01/github-repository-link.png" alt="GitHub repository link" class="wp-image-4272" srcset="/assets/images/wp-images/2021/01/github-repository-link.png 912w, /assets/images/wp-images/2021/01/github-repository-link-610x524.png 610w, /assets/images/wp-images/2021/01/github-repository-link-768x660.png 768w" sizes="(max-width: 912px) 100vw, 912px" />  
+![](/assets/images/github-repository-link.png) 
 
 Once you have the link to your GitHub repository copied to your clipboard, find the location where your GitHub repository will live on your machine &#8211; I personally keep all my repositories in a folder called `GitHub` in my home directory.
 
@@ -289,7 +288,7 @@ Anything that is wrapped in `<...>` above needs to be edited by you. So my compl
   - jekyll-sitemap
 
 # SEO Stuff
-author: Kev Quirk
+
 description: This is my Jekyll website that is running Simple.css
 lang: en
 locale: en_GB
@@ -302,7 +301,7 @@ feed:
 
 Now that&#8217;s all setup, you should have a GitHub repository that looks something like this:
 
-<img loading="lazy" width="887" height="595" src="/assets/images/wp-images/2021/01/jekyll-github-repo-folder-structure.png" alt="Jekyll folder structure" class="wp-image-4273" srcset="/assets/images/wp-images/2021/01/jekyll-github-repo-folder-structure.png 887w, /assets/images/wp-images/2021/01/jekyll-github-repo-folder-structure-610x409.png 610w, /assets/images/wp-images/2021/01/jekyll-github-repo-folder-structure-768x515.png 768w" sizes="(max-width: 887px) 100vw, 887px" />  
+![](/assets/images/jekyll-github-repo-folder-structure.png)  
 
 We now need to run a single command so that Ruby, which Jekyll is based on, installs all the pre-requisites and plugins we need to run our site. So back to your terminal window and run:
 
@@ -314,7 +313,7 @@ We now need to run a single command so that Ruby, which Jekyll is based on, inst
 
 We&#8217;re cooking on gas now, folks! We have our GitHub repository all setup, as well as the basic folder structure for Jekyll and all of our plugins installed. We&#8217;re now ready to actually build our Jekyll site.
 
-<p class="has-medium-font-size">
+<p class="tldr">
   This is the fun bit!
 </p>
 
@@ -365,9 +364,7 @@ Your `<head>` should now look like this:
 
 If you don&#8217;t know, the favicon is the icon that displays in the top line of your browser window, among other places. Here&#8217;s a look at the favicon for this site &#8211; it&#8217;s the dark grey square with &#8220;KQ&#8221; written in it:
 
-<div class="wp-block-image">
-  <img loading="lazy" width="218" height="29" src="/assets/images/wp-images/2021/01/favicon-example.png" alt="Favicon example" class="wp-image-4274" />
-</div>
+![](/assets/images/favicon-example.png) 
 
 ### Step 4b &#8211; title & description {#h-step-4b-title-description}
 
@@ -755,7 +752,7 @@ Configuration file: /home/kev/GitHub/jekyll-simple.css/_config.yml
 
 If you now visit `http://127.0.0.1:4000` in your browser, you should be greeted with a website that looks something like this:
 
-<img loading="lazy" width="1063" height="634" src="/assets/images/wp-images/2021/01/jekyll-simple-css-homepage.png" alt="Simple CSS homepage" class="wp-image-4266" srcset="/assets/images/wp-images/2021/01/jekyll-simple-css-homepage.png 1063w, /assets/images/wp-images/2021/01/jekyll-simple-css-homepage-610x364.png 610w, /assets/images/wp-images/2021/01/jekyll-simple-css-homepage-768x458.png 768w" sizes="(max-width: 1063px) 100vw, 1063px" />  
+![](/assets/images/jekyll-simple-css-homepage.png) 
 
 Well would you look at that, Ma! We just built ourselves our very own Jekyll website, from scratch, using Simple.css.
 
@@ -763,7 +760,7 @@ Well would you look at that, Ma! We just built ourselves our very own Jekyll web
 
 If we then go look at the blog page, we see that our posts are all present and correct. Doesn&#8217;t this stuff make you feel good? I know it does me!
 
-<img loading="lazy" width="1063" height="634" src="/assets/images/wp-images/2021/01/jekyll-simple-css-blog.png" alt="Jekyll simple.css blog" class="wp-image-4275" srcset="/assets/images/wp-images/2021/01/jekyll-simple-css-blog.png 1063w, /assets/images/wp-images/2021/01/jekyll-simple-css-blog-610x364.png 610w, /assets/images/wp-images/2021/01/jekyll-simple-css-blog-768x458.png 768w" sizes="(max-width: 1063px) 100vw, 1063px" />  
+![](/assets/images/jekyll-simple-css-blog.png)
 
 From here, if you want to add some custom CSS to your site, you can. Just open up the `custom.css` file within `/assets/css` that you made earlier and start hacking away!
 
@@ -804,7 +801,7 @@ So what did we just do there? Well, we first staged all of our new files to be p
 
 Login to your Netlify account and on the right of the screen you will see a button that says **New site from Git**. Click that button.
 
-<img loading="lazy" width="1000" height="594" src="/assets/images/wp-images/2021/01/netlify-dashboard-new-site-button.png" alt="Netlify dasjboard" class="wp-image-4276" srcset="/assets/images/wp-images/2021/01/netlify-dashboard-new-site-button.png 1000w, /assets/images/wp-images/2021/01/netlify-dashboard-new-site-button-610x362.png 610w, /assets/images/wp-images/2021/01/netlify-dashboard-new-site-button-768x456.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />  
+![](/assets/images/netlify-dashboard-new-site-button.png)   
 
 You will now be asked to connect your GitHub account to Netlify. This is so Netlify can keep an eye on your GitHub repository and build/deploy the site if you make changes.
 
@@ -812,11 +809,11 @@ So, click on the **GitHub** button and authenticate Netlify. You will then be as
 
 One the third and final step, Netlify should realise that this GitHub repository contains a Jekyll site and will populate the `Build Command` and `Publish Directory` fields for you. Leave everything at its default setting and click on the **Deploy site** button.
 
-<img loading="lazy" width="1000" height="594" src="/assets/images/wp-images/2021/01/jekyll-netlify-deploy.png" alt="Netlify deploy" class="wp-image-4277" srcset="/assets/images/wp-images/2021/01/jekyll-netlify-deploy.png 1000w, /assets/images/wp-images/2021/01/jekyll-netlify-deploy-610x362.png 610w, /assets/images/wp-images/2021/01/jekyll-netlify-deploy-768x456.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />  
+![](/assets/images/jekyll-netlify-deploy.png)
 
 Netlify will now go ahead and pull the data from your repository and build/deploy your site. This may take a few minutes, so keep an eye on the status and when it changes to a URL that looks something like `<random-string>.netlify.app` your site is now live at this URL. Kinda like this:
 
-<img loading="lazy" width="1000" height="677" src="/assets/images/wp-images/2021/01/jekyll-simple-netlify.png" alt="Jekyll simple.css on Netlify" class="wp-image-4278" srcset="/assets/images/wp-images/2021/01/jekyll-simple-netlify.png 1000w, /assets/images/wp-images/2021/01/jekyll-simple-netlify-610x413.png 610w, /assets/images/wp-images/2021/01/jekyll-simple-netlify-768x520.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />  
+![](/assets/images/jekyll-simple-netlify.png)
 
 **WOOHOO!** We now have a Simple.css based Jekyll site that is hosted online for the world to see. You can stop here and use the `netlify.app` sub-domain if you like, but [I strongly recommend having your own domain](/why-you-should-own-your-own-domain/). So let&#8217;s set one up, shall we?
 
@@ -826,7 +823,7 @@ So back on Netlify&#8217;s **Site overview** page, click on the **Domain setting
 
 You will now get a message asking if you&#8217;re the owner of the domain, assuming you are, click on the **Yes, add domain** button. You will now see a screen that looks like the one below where Netlify complains that it can&#8217;t provision an SSL certificate:
 
-<img loading="lazy" width="1000" height="619" src="/assets/images/wp-images/2021/01/netlify-ssl-error.png" alt="Netlify SSL error" class="wp-image-4279" srcset="/assets/images/wp-images/2021/01/netlify-ssl-error.png 1000w, /assets/images/wp-images/2021/01/netlify-ssl-error-610x378.png 610w, /assets/images/wp-images/2021/01/netlify-ssl-error-768x475.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />  
+![](/assets/images/netlify-ssl-error.png)  
 
 Let&#8217;s fix this error. To do that you need to log in to wherever you host the DNS for your domain. For most people that&#8217;s going to be the company you registered your domain with.
 
@@ -836,11 +833,11 @@ If you&#8217;re using an **APEX** domain, for example `simplecss.org`, you will 
 
 Since I&#8217;m using a **sub-domain** I&#8217;m going to create a `CNAME` record that points to the `<random-string>.netlify.app` URL that Netlify automatically provisioned:
 
-<img loading="lazy" width="700" height="485" src="/assets/images/wp-images/2021/01/netlify-cname-config.png" alt="Netlify CNAME config" class="wp-image-4280" srcset="/assets/images/wp-images/2021/01/netlify-cname-config.png 700w, /assets/images/wp-images/2021/01/netlify-cname-config-610x423.png 610w" sizes="(max-width: 700px) 100vw, 700px" />  
+![](/assets/images/netlify-cname-config.png) 
 
 If you were to configure an `ALIAS` record for an **APEX** domain, the record would look like this:
 
-<img loading="lazy" width="700" height="485" src="/assets/images/wp-images/2021/01/netlify-alias-config.png" alt="Netlify ALIAS config" class="wp-image-4281" srcset="/assets/images/wp-images/2021/01/netlify-alias-config.png 700w, /assets/images/wp-images/2021/01/netlify-alias-config-610x423.png 610w" sizes="(max-width: 700px) 100vw, 700px" />  
+![](/assets/images/netlify-alias-config.png) 
 
 <p class="notice">
   <strong>Note:</strong> The TTL can be anything you like. I like to have it short so propagation doesn&#8217;t take too long.
@@ -914,7 +911,7 @@ This has been a mammoth amount of work to produce, so if you did find it useful,
 
 By the way, if you&#8217;re wondering, the site we just built together [gets pretty good scores on Lighthouse](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fjekyll.simplecss.org%2F) tests.
 
-<img loading="lazy" width="958" height="179" src="/assets/images/wp-images/2021/01/lighthouse-results.png" alt="Lighthouse results" class="wp-image-4282" srcset="/assets/images/wp-images/2021/01/lighthouse-results.png 958w, /assets/images/wp-images/2021/01/lighthouse-results-610x114.png 610w, /assets/images/wp-images/2021/01/lighthouse-results-768x143.png 768w" sizes="(max-width: 958px) 100vw, 958px" />  
+![](/assets/images/lighthouse-results.png) 
 
 **Until next time folks; Kev, out.**
 

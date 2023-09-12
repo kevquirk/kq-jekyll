@@ -27,13 +27,15 @@ For example, I have extensions that will search DuckDuckGo, manage tracks in Spo
 
 Hit a predefined shortcut key (ctrl+space by default); Ulauncher will then popup that allows me to search for files, skip tracks, generate password and a whole lot more. All without lifting my hands from the keyboard.
 
-<img loading="lazy" width="1024" height="576" src="/assets/images/wp-images/2019/11/ulauncher-spotify-1024x576.jpg" alt="" class="wp-image-344" srcset="/assets/images/wp-images/2019/11/ulauncher-spotify-1024x576.jpg 1024w, /assets/images/wp-images/2019/11/ulauncher-spotify-300x169.jpg 300w, /assets/images/wp-images/2019/11/ulauncher-spotify-768x432.jpg 768w, /assets/images/wp-images/2019/11/ulauncher-spotify-1536x864.jpg 1536w, /assets/images/wp-images/2019/11/ulauncher-spotify.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![](/assets/images/ulauncher-spotify.jpg)
 
-<img loading="lazy" width="1024" height="576" src="/assets/images/wp-images/2019/11/ulauncher-pwgen-1024x576.jpg" alt="" class="wp-image-345" srcset="/assets/images/wp-images/2019/11/ulauncher-pwgen-1024x576.jpg 1024w, /assets/images/wp-images/2019/11/ulauncher-pwgen-300x169.jpg 300w, /assets/images/wp-images/2019/11/ulauncher-pwgen-768x432.jpg 768w, /assets/images/wp-images/2019/11/ulauncher-pwgen-1536x864.jpg 1536w, /assets/images/wp-images/2019/11/ulauncher-pwgen.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![](/assets/images/ulauncher-pwgen.jpg)
 
-<pre class="wp-block-code"><code>sudo add-apt-repository ppa:agornostal/ulauncher
+```
+sudo add-apt-repository ppa:agornostal/ulauncher
 sudo apt-get update
-sudo apt-get install ulauncher</code></pre>
+sudo apt-get install ulauncher
+```
 
 ## Guake {#h-guake}
 
@@ -41,12 +43,14 @@ Simply put, Guake is a pop-down terminal. So just like Ulauncher, I hit a specif
 
 I don’t even need to keep the terminal window open. I hit the shortcut key – in my case tilde (~). Guake pops up and I enter my command. I hit tilde again and the terminal window hides, allowing me to get on with what I was doing while the terminal command chugs away in the background.
 
-<img loading="lazy" width="1024" height="576" src="/assets/images/wp-images/2019/11/guake-1024x576.jpg" alt="" class="wp-image-343" srcset="/assets/images/wp-images/2019/11/guake-1024x576.jpg 1024w, /assets/images/wp-images/2019/11/guake-300x169.jpg 300w, /assets/images/wp-images/2019/11/guake-768x432.jpg 768w, /assets/images/wp-images/2019/11/guake-1536x864.jpg 1536w, /assets/images/wp-images/2019/11/guake.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" />  
+![](/assets/images/guake.jpg)  
 
 If I hit the same shortcut a few minutes later, I can get see the history of what my command was doing.
 
-<pre class="wp-block-code"><code># Guake is already in the Ubuntu repositories
-sudo apt-get install guake</code></pre>
+```
+# Guake is already in the Ubuntu repositories
+sudo apt-get install guake
+```
 
 ## Conclusion {#h-conclusion}
 

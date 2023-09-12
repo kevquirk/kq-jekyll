@@ -1,7 +1,6 @@
 ---
 title: More or Less WordPress Theme
 layout: post
-guid: https://kevq.uk/?p=366
 permalink: /more-or-less-wordpress-theme/
 categories:
   - Technology

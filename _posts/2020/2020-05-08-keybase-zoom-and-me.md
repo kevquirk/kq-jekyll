@@ -2,9 +2,8 @@
 id: 1900
 title: Keybase, Zoom and Me
 date: 2020-05-08T18:39:33+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=1900
 permalink: /keybase-zoom-and-me/
 description:
   - Keybase have been acquired by Zoom and a lot of people have decided to delete their Keybase profiles as a result. Will I be doing the same?

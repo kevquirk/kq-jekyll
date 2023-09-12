@@ -2,9 +2,8 @@
 id: 2079
 title: Was Creating A Dedicated Niche Blog A Bad Idea?
 date: 2020-05-25T08:39:11+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=2079
 permalink: /was-creating-a-dedicated-niche-blog-a-bad-idea/
 description:
   - I recently launched a niche blog, but now I'm having second thoughts. This post explains some of my thoughts and concerns about making a second niche blog.

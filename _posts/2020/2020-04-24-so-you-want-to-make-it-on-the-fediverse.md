@@ -2,9 +2,8 @@
 id: 5348
 title: So You Want To Make It On The Fediverse?
 date: 2020-04-24T12:11:00+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5348'
 permalink: /so-you-want-to-make-it-on-the-fediverse/
 categories:
   - Notes

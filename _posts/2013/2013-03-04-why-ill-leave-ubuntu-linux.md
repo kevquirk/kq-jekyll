@@ -20,7 +20,8 @@ I’ve already made [my feelings on the Amazon Lens](https://web.archive.org/web
 
 I’ve already touched on this above. Adding the Amazon lens instead of a more useful lens like a Google (or even Bing!) lens doesn’t make sense to me; unless of course the justification for such a decision is profit over user requirements. [Canonical said](https://web.archive.org/web/20130707182348/http://www.markshuttleworth.com/archives/1182) they wanted to make Unity a place where a user can search for “anything anywhere” this simply isn’t possible with an Amazon lens. So why add it?
 
-***NOTE:*** This is my opinion only – this may be wrong and nothing may have changed internally for Ubuntu. Nevertheless, this is my blog and I am entitled to express my opinion (as are you in the comments section). ![:)](https://web.archive.org/web/20130707182348im_/http://kevquirk.com/wp-includes/images/smilies/icon_smile.gif)
+{: .notice}
+This is my opinion only – this may be wrong and nothing may have changed internally for Ubuntu. Nevertheless, this is my blog and I am entitled to express my opinion (as are you in the comments section). :)
 
 ## Ubuntu doesn’t work for me anymore…
 

@@ -21,7 +21,7 @@ I plug it in, switch it on, and the disk doesn’t spin up. Just like the Synolo
 
 At this point I’m really worried. You see, I cancelled my off-site Amazon Glacier backups around 6 months ago. What are the chances of both a 4 disk RAID failing AND a USB drive at the same time? Not likely, I thought. Boy was I wrong.
 
-<img loading="lazy" width="1000" height="600" src="/assets/images/wp-images/2019/11/old-data-setup.png" alt="" class="wp-image-349" srcset="/assets/images/wp-images/2019/11/old-data-setup.png 1000w, /assets/images/wp-images/2019/11/old-data-setup-300x180.png 300w, /assets/images/wp-images/2019/11/old-data-setup-768x461.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />  
+![](/assets/images/old-data-setup.png)
 
 My Synology stored all of my data, all of my partner’s data, all of our videos, pictures, music etc. plus a tonne of other stuff, like website backups. Problem is, only my data and my partner’s data backed up to the USB. Just the crucial stuff.
 
@@ -35,7 +35,7 @@ I hit Amazon Prime, order a SATA card for next day delivery, then spend the next
 
 Fast forward 24 hours, I get home from work and my Amazon Prime box is waiting for me. I rush up stairs, setup the drives and run through the Synology restore guide.
 
-<img loading="lazy" width="1000" height="750" src="/assets/images/wp-images/2019/11/synology-drive-desktop.jpg" alt="" class="wp-image-348" srcset="/assets/images/wp-images/2019/11/synology-drive-desktop.jpg 1000w, /assets/images/wp-images/2019/11/synology-drive-desktop-300x225.jpg 300w, /assets/images/wp-images/2019/11/synology-drive-desktop-768x576.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />  
+![](/assets/images/synology-drive-desktop.jpg)
 
 I hit the power button on the desktop. **_Please work, please work, please effing work!_** I’m saying to myself over and over. I hear all 4 drives start to spin up – we’re half way there, folks!
 

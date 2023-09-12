@@ -2,9 +2,8 @@
 id: 4296
 title: 'Pull &#038; Backup Multiple GitHub Repositories With This Script'
 date: 2021-01-17T19:06:00+00:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=4296
 permalink: /pull-and-backup-multiple-github-repositories-script/
 description:
   - This is a simple script I created to pull multiple GitHub repositories and back them up so that they're protected.

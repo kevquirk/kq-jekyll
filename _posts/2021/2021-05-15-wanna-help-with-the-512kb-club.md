@@ -2,9 +2,8 @@
 id: 5398
 title: Wanna Help With The 512KB Club?
 date: 2021-05-15T12:44:47+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5398'
 permalink: /wanna-help-with-the-512kb-club/
 categories:
   - Notes

@@ -2,9 +2,8 @@
 id: 6218
 title: 'Adding A &#8216;Uses&#8217; Page'
 date: 2021-07-25T13:43:38+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=6218'
 permalink: /adding-a-uses-page/
 categories:
   - Notes

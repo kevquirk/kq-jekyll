@@ -19,9 +19,7 @@ I wouldn’t expect an average user to be able to manage their own SSH keys, let
 
 On the whole, I think they are – they are definitely more secure than having nothing, or those stupid swipe patterns that Android uses.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="400" height="492" src="/assets/images/wp-images/2019/11/android-pattern-unlock.jpg" alt="" class="wp-image-146" srcset="/assets/images/wp-images/2019/11/android-pattern-unlock.jpg 400w, /assets/images/wp-images/2019/11/android-pattern-unlock-244x300.jpg 244w" sizes="(max-width: 400px) 100vw, 400px" />
-</div>
+![](/assets/images/android-pattern-unlock.webp)
 
 But what if a threat actor released a zero-day vulnerability that compromises the fingerprint algorithm that many devices uses? Or maybe Apple’s face recognition gets popped. What then?
 

@@ -2,9 +2,8 @@
 id: 5372
 title: 'Is There A Better Term Than &#8220;Google It&#8221;?'
 date: 2021-01-12T12:23:00+00:00
-author: Kev Quirk
-layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5372'
+
+layout: post 
 permalink: /is-there-a-better-term-than-google-it/
 categories:
   - Notes

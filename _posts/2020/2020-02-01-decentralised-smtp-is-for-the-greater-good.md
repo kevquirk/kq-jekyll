@@ -1,9 +1,7 @@
 ---
 title: Decentralised SMTP Is For The Greater Good
 date: 2020-02-01T12:03:00+00:00
-author: Kev Quirk
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5336'
 permalink: /decentralised-smtp-is-for-the-greater-good/
 categories:
   - Notes

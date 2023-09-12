@@ -2,7 +2,7 @@
 id: 5362
 title: Why Does Logitech Hate Left Handed People?
 date: 2020-06-15T12:18:00+01:00
-author: Kev Quirk
+
 layout: post
 permalink: /why-does-logitech-hate-left-handed-people/
 ---

@@ -2,9 +2,8 @@
 id: 5370
 title: 'If It&#8217;s Free, You&#8217;re The Product'
 date: 2020-12-18T12:22:00+00:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5370'
 permalink: /if-its-free-youre-the-product/
 categories:
   - Notes

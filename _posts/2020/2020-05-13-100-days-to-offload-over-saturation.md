@@ -2,9 +2,8 @@
 id: 1956
 title: '100 Days To Offload &#038; Over-Saturation'
 date: 2020-05-13T10:54:55+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=1956
 permalink: /100-days-to-offload-over-saturation/
 description:
   - I've made some changes to the 100 Days To Offload challenge. It's still very difficult to complete, but gives people a little more time to produce content.

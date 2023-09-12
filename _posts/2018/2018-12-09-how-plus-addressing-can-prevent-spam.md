@@ -10,7 +10,7 @@ I noticed recently that I appear to be getting a lot more spam to my mailbox tha
 
 It quickly became apparent that most of the spam was being delivered to a legacy account that I keep around. According to [Have I Been Pwned](https://haveibeenpwned.com), the email was included in the recent [Apollo data breach](https://www.wired.com/story/apollo-breach-linkedin-salesforce-data). Damn.
 
-<img loading="lazy" width="900" height="424" src="/assets/images/wp-images/2019/11/spam-email.jpg" alt="" class="wp-image-293" srcset="/assets/images/wp-images/2019/11/spam-email.jpg 900w, /assets/images/wp-images/2019/11/spam-email-300x141.jpg 300w, /assets/images/wp-images/2019/11/spam-email-768x362.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/spam-email.jpg)
 
 I’ve talked about [why you should own your own domain](/why-you-should-own-your-own-domain) before, but in this instance having my own domain didn’t offer much advantage. Back then I was using the same email address everywhere, but now I use plus addressing to provide unique email addresses for services I sign up for. So if a site I’m signed for gets popped, I’m still relatively safe from spam.
 

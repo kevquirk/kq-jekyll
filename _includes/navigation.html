@@ -1,7 +1,18 @@
-<div class="nav">
+<details> <!-- Hides on desktop screens -->
+<summary>Menu</summary>
   <nav>
-    {% for item in site.data.navigation %}
-    <a {% if page.url == item.link %}id="current"{% endif %} class="{{ item.class }}" href="{{ item.link }}" >{{ item.name }}</a>
-    {% endfor %}
+    <ul class="nav-menu">
+      {% for item in site.data.navigation %}
+      <li><a {% if page.url == item.link %}class="current"{% endif %} class="{{ item.class }}" href="{{ item.link }}" >{{ item.name }}</a></li>
+      {% endfor %}
+    </ul>
   </nav>
-</div>
+</details>
+
+<nav class="mobile-hide"> <!-- Hides on mobile screens -->
+  <ul class="nav-menu">
+    {% for item in site.data.navigation %}
+    <li><a {% if page.url == item.link %}class="current"{% endif %} class="{{ item.class }}" href="{{ item.link }}" >{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

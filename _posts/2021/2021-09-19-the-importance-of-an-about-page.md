@@ -2,11 +2,9 @@
 id: 7667
 title: The Importance Of An About Page
 date: 2021-09-19T09:47:09+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=7667
 permalink: /the-importance-of-an-about-page/
-image: /assets/images/wp-images/uploads/2021/09/about-page-feature.png
 categories:
   - Blogging
   - Web

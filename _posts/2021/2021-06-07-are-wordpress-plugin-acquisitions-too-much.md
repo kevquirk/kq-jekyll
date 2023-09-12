@@ -2,11 +2,9 @@
 id: 5727
 title: Are WordPress Plugin Acquisitions Too Much?
 date: 2021-06-07T21:41:56+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5727'
 permalink: /are-wordpress-plugin-acquisitions-too-much/
-image: /assets/images/wp-images/uploads/2021/06/default-feature.png
 categories:
   - Notes
 ---

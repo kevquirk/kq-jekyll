@@ -32,13 +32,11 @@ The base version of the Jupiter laptop comes with some really high quality hardw
 
 The price of the base version is £698 ($900 approx). There are a number of upgrade options available, such as even more RAM, more storage and a Core i7 CPU upgrade. Fully tricked out the Jupiter costs £1,248 ($1,600 approx). My review unit came with 16GB RAM.
 
-<img loading="lazy" width="904" height="610" src="/assets/images/wp-images/2019/11/Juno-Laptop-Neofetch.png" alt="" class="wp-image-126" srcset="/assets/images/wp-images/2019/11/Juno-Laptop-Neofetch.png 904w, /assets/images/wp-images/2019/11/Juno-Laptop-Neofetch-300x202.png 300w, /assets/images/wp-images/2019/11/Juno-Laptop-Neofetch-768x518.png 768w" sizes="(max-width: 904px) 100vw, 904px" />
+![](/assets/images/Juno-Laptop-Neofetch.webp)
 
 ## Performance {#h-performance}
 
 With the specs above, the Juno Computers Jupiter laptop performed extremely well. At no point did I notice any lag whatsoever and the whole experience was really pleasant.
-
-Personally, I’m not a fan of benchmarking stats as I prefer to go on how a device feels when in use. Having said that, I did run some benchmarks for those of you who love numbers. You can [look at the benchmark report here](https://files.kevq.uk/Juno-Laptop-Benchmark-Report.html).
 
 ## Look & Feel {#h-look-feel}
 
@@ -52,7 +50,7 @@ I was disappointed that the Jupiter’s keyboard came with a Windows logo on the
 
 Whilst using the trackpad, I found it clunky and awkward to use, but I tend to find that with most trackpads; I’m yet to find one that really impresses me. Personal bias aside, it was business as usual with the trackpad with multi-finger gestures being present and correct.
 
-<img loading="lazy" width="900" height="675" src="/assets/images/wp-images/2019/11/Jupiter-Keyboard.jpg" alt="" class="wp-image-127" srcset="/assets/images/wp-images/2019/11/Jupiter-Keyboard.jpg 900w, /assets/images/wp-images/2019/11/Jupiter-Keyboard-300x225.jpg 300w, /assets/images/wp-images/2019/11/Jupiter-Keyboard-768x576.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/Jupiter-Keyboard.webp)
 
 When trying to compare the Jupiter to the competition, I noticed that both the [Entroware Apollo](https://www.entroware.com/store/laptops/apollo) and the [System76 Galago Pro](https://system76.com/laptops/galago) appear to share the exact same laptop chassis as the Jupiter. With all three set to the same spec as the basic Jupiter laptop, the prices come out as:
 
@@ -68,7 +66,7 @@ The Jupiter review unit that I received came bundled with both Ubuntu 18.04.1 an
 
 The guys at Juno do add a couple of extra programs by default though; mostly under-the-hood stuff for performance, they also have their own app store, Kronos.
 
-<img loading="lazy" width="958" height="748" src="/assets/images/wp-images/2019/11/Juno-Kronos-App.png" alt="" class="wp-image-128" srcset="/assets/images/wp-images/2019/11/Juno-Kronos-App.png 958w, /assets/images/wp-images/2019/11/Juno-Kronos-App-300x234.png 300w, /assets/images/wp-images/2019/11/Juno-Kronos-App-768x600.png 768w" sizes="(max-width: 958px) 100vw, 958px" />  
+![](/assets/images/Juno-Kronos-App.webp)
 
 Kronos is a very simple application, but it does have some really useful applications in there. One which I was surprised to see was a Google Drive client. I did find myself using Kronos for many of the application I installed, as most where there.
 
@@ -76,19 +74,19 @@ The Elementary AppCentre is also included in this build of Juno, so you can stil
 
 One thing I didn’t like about Kronos was the icon. It looked completely out of place within Elementary OS. Whilst it’s a tiny issue, that lack of attention to detail is where many distributions fail.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="227" height="250" src="/assets/images/wp-images/2019/11/kronos-icon.png" alt="" class="wp-image-129" />
-</div>
+![](/assets/images/kronos-icon.webp)
 
 I asked the guys at Juno if Kronos was available for other distros, they said you can add [their PPA](https://launchpad.net/~junocomp/+archive/ubuntu/juno-apps) and install Kronos, but it has not been tested on any distros apart from Ubuntu and Juno.
 
-<p class="has-white-color has-red-background-color has-text-color has-background">
-  <strong>Try this at your own risk</strong>
-</p>
+{: .warning}
+Try this at your own risk
 
-<pre class="wp-block-code"><code>sudo add-apt-repository ppa:junocomp/juno-apps
+
+```
+sudo add-apt-repository ppa:junocomp/juno-apps
 sudo apt update
-sudo apt install kronos</code></pre>
+sudo apt install kronos
+```
 
 Overall, I think the additional tweaks and software that the guys over at Juno added have most definitely been for the better. The experience was always buttery smooth, and I’d expect no less from such a high-spec machine running Elementary OS.
 
@@ -108,7 +106,7 @@ I wanted to finish up this review by mentioning some high level good and bad poi
   * **Power Button** – the power button on the Jupiter did annoy me. For some reason it’s right in the middle of the left hand edge of the device. I found that every time I moved the laptop, or picked it up, I was hitting the power button too.
   * **Webcam** – I found the quality of the webcam to be ok at best. Not a major thing for many people, but I do a lot of telepresence conference calls for my job, so a good webcam is necessary. Like I said, it’s ok, but I would have expected better for a laptop at this price point. Here’s an example in a very bright room (try not to have nightmares):
 
-<img loading="lazy" width="900" height="506" src="/assets/images/wp-images/2019/11/Juno-Laptop-Webcam.jpg" alt="" class="wp-image-130" srcset="/assets/images/wp-images/2019/11/Juno-Laptop-Webcam.jpg 900w, /assets/images/wp-images/2019/11/Juno-Laptop-Webcam-300x169.jpg 300w, /assets/images/wp-images/2019/11/Juno-Laptop-Webcam-768x432.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/Juno-Laptop-Webcam.jpg)
 
 ## Conclusion {#h-conclusion}
 
@@ -128,12 +126,12 @@ _**Disclaimer**: The Jupiter laptop that was sent to me was a loan device for re
 
 ## Gallery {#h-gallery}
 
-<img loading="lazy" width="1024" height="768" src="/assets/images/wp-images/2018/10/Jupiter-Front-1024x768.jpg" alt="" data-id="121" data-full-url="/assets/images/wp-images/2018/10/Jupiter-Front.jpg" data-link="https://kevq.uk/juno-computers-jupiter-laptop-review/edf-2/" class="wp-image-121" srcset="/assets/images/wp-images/2018/10/Jupiter-Front-1024x768.jpg 1024w, /assets/images/wp-images/2018/10/Jupiter-Front-300x225.jpg 300w, /assets/images/wp-images/2018/10/Jupiter-Front-768x576.jpg 768w, /assets/images/wp-images/2018/10/Jupiter-Front.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![](/assets/images/Jupiter-Front.jpg)
 
-<img loading="lazy" width="1000" height="750" src="/assets/images/wp-images/2019/11/Jupiter-Laptop-Table.jpg" alt="" data-id="119" data-full-url="/assets/images/wp-images/2019/11/Jupiter-Laptop-Table.jpg" data-link="https://kevq.uk/juno-computers-jupiter-laptop-review/edf/" class="wp-image-119" srcset="/assets/images/wp-images/2019/11/Jupiter-Laptop-Table.jpg 1000w, /assets/images/wp-images/2019/11/Jupiter-Laptop-Table-300x225.jpg 300w, /assets/images/wp-images/2019/11/Jupiter-Laptop-Table-768x576.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />
+![](/assets/images/Jupiter-Laptop-Table.jpg)
 
-<img loading="lazy" width="1024" height="768" src="/assets/images/wp-images/2018/10/Jupiter-RHS-1024x768.jpg" alt="" data-id="122" data-full-url="/assets/images/wp-images/2018/10/Jupiter-RHS.jpg" data-link="https://kevq.uk/juno-computers-jupiter-laptop-review/edf-3/" class="wp-image-122" srcset="/assets/images/wp-images/2018/10/Jupiter-RHS-1024x768.jpg 1024w, /assets/images/wp-images/2018/10/Jupiter-RHS-300x225.jpg 300w, /assets/images/wp-images/2018/10/Jupiter-RHS-768x576.jpg 768w, /assets/images/wp-images/2018/10/Jupiter-RHS.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![](/assets/images/Jupiter-RHS.jpg)
 
-<img loading="lazy" width="1024" height="768" src="/assets/images/wp-images/2018/10/Jupiter-LHS-1024x768.jpg" alt="" data-id="123" data-full-url="/assets/images/wp-images/2018/10/Jupiter-LHS.jpg" data-link="https://kevq.uk/juno-computers-jupiter-laptop-review/edf-4/" class="wp-image-123" srcset="/assets/images/wp-images/2018/10/Jupiter-LHS-1024x768.jpg 1024w, /assets/images/wp-images/2018/10/Jupiter-LHS-300x225.jpg 300w, /assets/images/wp-images/2018/10/Jupiter-LHS-768x576.jpg 768w, /assets/images/wp-images/2018/10/Jupiter-LHS.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![](/assets/images/Jupiter-LHS.jpg)
 
-<img loading="lazy" width="1024" height="768" src="/assets/images/wp-images/2018/10/Jupiter-Top-1024x768.jpg" alt="" data-id="124" data-full-url="/assets/images/wp-images/2018/10/Jupiter-Top.jpg" data-link="https://kevq.uk/juno-computers-jupiter-laptop-review/edf-5/" class="wp-image-124" srcset="/assets/images/wp-images/2018/10/Jupiter-Top-1024x768.jpg 1024w, /assets/images/wp-images/2018/10/Jupiter-Top-300x225.jpg 300w, /assets/images/wp-images/2018/10/Jupiter-Top-768x576.jpg 768w, /assets/images/wp-images/2018/10/Jupiter-Top.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![](/assets/images/Jupiter-Top.jpg)

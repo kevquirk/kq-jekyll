@@ -2,9 +2,8 @@
 id: 1863
 title: Adding A Scroll To Top Button Without JavaScript
 date: 2020-05-06T11:53:43+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=1863
 permalink: /adding-a-scroll-to-top-button-without-javascript/
 description:
   - I was using a plugin for my scroll to top button, but I've now replaced that with a simple HTML/CSS solution that doesn't use any JavaScript. Here's how...

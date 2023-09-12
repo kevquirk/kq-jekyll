@@ -32,7 +32,7 @@ The first thing you need to do is log in to your shared hosting account (in this
 
 Find the `MySQL Database Wizard` within your cPanel account, click it and follow the on-screen instructions to setup the database. Make sure you note down the database name, user and password as you will need those later.
 
-<img loading="lazy" width="895" height="625" src="/assets/images/wp-images/2019/11/cpanel-db-wizard.jpg" alt="" class="wp-image-312" srcset="/assets/images/wp-images/2019/11/cpanel-db-wizard.jpg 895w, /assets/images/wp-images/2019/11/cpanel-db-wizard-300x209.jpg 300w, /assets/images/wp-images/2019/11/cpanel-db-wizard-768x536.jpg 768w" sizes="(max-width: 895px) 100vw, 895px" />  
+![](/assets/images/cpanel-db-wizard.jpg)
 
 ## Domain {#h-domain}
 
@@ -40,7 +40,7 @@ Now we have create the database, we need to setup a domain, or sub-domain, for t
 
 Again in cPanel, go to the `Subdomains` section and add the subdomain you wish to use. In this example, my subdomain is `nextcloud.kevq.uk`.
 
-<img loading="lazy" width="895" height="642" src="/assets/images/wp-images/2019/11/cpanel-subdomain.jpg" alt="" class="wp-image-313" srcset="/assets/images/wp-images/2019/11/cpanel-subdomain.jpg 895w, /assets/images/wp-images/2019/11/cpanel-subdomain-300x215.jpg 300w, /assets/images/wp-images/2019/11/cpanel-subdomain-768x551.jpg 768w" sizes="(max-width: 895px) 100vw, 895px" />  
+![](/assets/images/cpanel-subdomain.jpg)
 
 <p class="notice">
   Both cPanel and Plesk support free TLS certificates; make sure you configure this so your Nextcloud domain is using HTTPS before you run the web installer.
@@ -56,7 +56,7 @@ Now we have the domain, database and TLS certificate configured, it’s time to 
 
 Click _Next_ on the welcome screen to get started with the install wizard.
 
-<img loading="lazy" width="1024" height="687" src="/assets/images/wp-images/2019/11/nextcloud-web-installer-1-1024x687.jpg" alt="" class="wp-image-314" srcset="/assets/images/wp-images/2019/11/nextcloud-web-installer-1-1024x687.jpg 1024w, /assets/images/wp-images/2019/11/nextcloud-web-installer-1-300x201.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-web-installer-1-768x515.jpg 768w, /assets/images/wp-images/2019/11/nextcloud-web-installer-1.jpg 1044w" sizes="(max-width: 1024px) 100vw, 1024px" />  
+![](/assets/images/nextcloud-web-installer-1.jpg) 
 
 The installer will then run a dependency check to make sure your shared hosting account has everything it needs for Nextcloud to work.
 
@@ -64,7 +64,7 @@ You will also be asked which directory you want to install Nextcloud in. By defa
 
 That way, you don’t need to go to `/nextcloud` every time you want to visit your instance.
 
-<img loading="lazy" width="1024" height="687" src="/assets/images/wp-images/2019/11/nextcloud-web-installer-2-1024x687.jpg" alt="" class="wp-image-315" srcset="/assets/images/wp-images/2019/11/nextcloud-web-installer-2-1024x687.jpg 1024w, /assets/images/wp-images/2019/11/nextcloud-web-installer-2-300x201.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-web-installer-2-768x515.jpg 768w, /assets/images/wp-images/2019/11/nextcloud-web-installer-2.jpg 1044w" sizes="(max-width: 1024px) 100vw, 1024px" />  
+![](/assets/images/nextcloud-web-installer-2.jpg)
 
 After a minute or so, you should see a message saying the installation was successful.
 
@@ -72,7 +72,7 @@ Click next again to configure your admin account, then click on the down arrow n
 
 Leave the data folder unchanged, select `MySQL/MariaDB` and enter the database details you noted down earlier.
 
-<img loading="lazy" width="1024" height="687" src="/assets/images/wp-images/2019/11/nextcloud-web-installer-3-1024x687.jpg" alt="" class="wp-image-316" srcset="/assets/images/wp-images/2019/11/nextcloud-web-installer-3-1024x687.jpg 1024w, /assets/images/wp-images/2019/11/nextcloud-web-installer-3-300x201.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-web-installer-3-768x515.jpg 768w, /assets/images/wp-images/2019/11/nextcloud-web-installer-3.jpg 1044w" sizes="(max-width: 1024px) 100vw, 1024px" />  
+![](/assets/images/nextcloud-web-installer-3.jpg)
 
 Finally, click _Finish Setup_ and after a minute or so, you should be greeted with the files interface for your brand new Nextcloud instance.
 

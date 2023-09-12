@@ -7,8 +7,6 @@ categories:
   - De-Googling
   - Privacy
 ---
-<img loading="lazy" width="1024" height="491" src="/assets/images/wp-images/2019/11/android-feature-1024x491.jpg" alt="" class="wp-image-241" srcset="/assets/images/wp-images/2019/11/android-feature-1024x491.jpg 1024w, /assets/images/wp-images/2019/11/android-feature-300x144.jpg 300w, /assets/images/wp-images/2019/11/android-feature-768x368.jpg 768w, /assets/images/wp-images/2019/11/android-feature.jpg 1503w" sizes="(max-width: 1024px) 100vw, 1024px" />
-
 Around 6 weeks ago I decided I was [ditching Android](/why-im-ditching-android) in favour of iOS. I bought myself a cheap iPhone SE and set about migrating from Android. I don’t really want to drag this out, but I did promise in the last article that I would provide an update, so here it is.
 
 Long story short, I’m really enjoying iOS. It works really well and I’ve been able to replace every app I used on Android. Overall, I actually prefer the workflow of iOS.

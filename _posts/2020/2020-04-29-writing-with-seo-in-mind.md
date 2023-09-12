@@ -2,9 +2,8 @@
 id: 5352
 title: Writing With SEO In Mind
 date: 2020-04-29T12:12:00+01:00
-author: Kev Quirk
-layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5352'
+
+layout: post d
 permalink: /writing-with-seo-in-mind/
 categories:
   - Notes

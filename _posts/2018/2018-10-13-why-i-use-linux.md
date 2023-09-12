@@ -20,7 +20,7 @@ Personally, I will use the OS, application or tool that I feel is best for the j
 
 For example, a lot of Linux distributions come bundled with the open source office application, [LibreOffice](https://www.libreoffice.org), and whilst it’s a good application I feel there are better alternatives out there. Personally, I use [SoftMaker Office](https://www.softmaker.com/en/softmaker-office). If Microsoft Office was available for Linux, I’d use that as I feel it’s head and shoulders above any of the alternatives.
 
-<img loading="lazy" width="1024" height="639" src="/assets/images/wp-images/2019/11/SoftMaker-Spreadsheet-1024x639.png" alt="" class="wp-image-416" srcset="/assets/images/wp-images/2019/11/SoftMaker-Spreadsheet-1024x639.png 1024w, /assets/images/wp-images/2019/11/SoftMaker-Spreadsheet-300x187.png 300w, /assets/images/wp-images/2019/11/SoftMaker-Spreadsheet-768x479.png 768w, /assets/images/wp-images/2019/11/SoftMaker-Spreadsheet.png 1199w" sizes="(max-width: 1024px) 100vw, 1024px" />  
+![](/assets/images/SoftMaker-Spreadsheet-1024x639.webp)  
 
 For me, the requirements I have from an application far outweigh the idealism of always running FOSS. Having said that, my privacy will generally take precedence over everything else, but more on that later.
 
@@ -48,7 +48,7 @@ Like most technical people, I have a very specific way in which I prefer to work
 
 I like my main panel at the top of the screen with a list of my open applications, and a dock at the bottom that acts as shortcuts to my favourite applications. On top of this, I like to have a Windows style application menu.
 
-<img loading="lazy" width="1024" height="576" src="/assets/images/wp-images/2019/11/Linux-Desktop-With-Menu-1024x576.png" alt="" class="wp-image-417" srcset="/assets/images/wp-images/2019/11/Linux-Desktop-With-Menu-1024x576.png 1024w, /assets/images/wp-images/2019/11/Linux-Desktop-With-Menu-300x169.png 300w, /assets/images/wp-images/2019/11/Linux-Desktop-With-Menu-768x432.png 768w, /assets/images/wp-images/2019/11/Linux-Desktop-With-Menu-1536x864.png 1536w, /assets/images/wp-images/2019/11/Linux-Desktop-With-Menu.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" />  
+![](/assets/images/Linux-Desktop-With-Menu.webp)
 
 In Mac and Windows, I don’t have much freedom when it comes to setting up my workspace. To be fair, I can get it pretty close in Windows, but there are nuances in both Windows and Mac that I don’t really like. There are also niggles in Linux, but I can change them.
 
@@ -62,11 +62,11 @@ Having said that, Linux can also be extremely ugly and extremely difficult to us
 
 One the one hand, you can have download and install Elementary OS, which actually has a lot of the look and feel of Mac. It’s super simple to use, it’s gorgeous, and you never have to touch a terminal window if you don’t want to.
 
-<img loading="lazy" width="900" height="506" src="/assets/images/wp-images/2019/11/Juno-Desktop-1.jpg" alt="" class="wp-image-418" srcset="/assets/images/wp-images/2019/11/Juno-Desktop-1.jpg 900w, /assets/images/wp-images/2019/11/Juno-Desktop-1-300x169.jpg 300w, /assets/images/wp-images/2019/11/Juno-Desktop-1-768x432.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/Juno-Desktop.webp)
 
 The on the flip side of the coin you have something like Gentoo that requires a hell of a lot of Linux expertise. Basically, you build Gentoo from scratch, from the kernel up. Where Elementary OS may take around 15-20 minutes to install, Gentoo can take days!
 
-<img loading="lazy" width="900" height="600" src="/assets/images/wp-images/2019/11/gentoo.jpg" alt="" class="wp-image-419" srcset="/assets/images/wp-images/2019/11/gentoo.jpg 900w, /assets/images/wp-images/2019/11/gentoo-300x200.jpg 300w, /assets/images/wp-images/2019/11/gentoo-768x512.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/gentoo.webp)
 
 Personally, I opt for the easier end of the scale, as I just want to get on with my work without having to tweak every little piece of the operating system. I currently use [Ubuntu MATE](https://ubuntu-mate.org).
 

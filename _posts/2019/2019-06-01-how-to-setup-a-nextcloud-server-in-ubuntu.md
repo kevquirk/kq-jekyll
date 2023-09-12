@@ -34,7 +34,8 @@ If you’re interested, this is [why HTTPS is important](/why-https-is-important
 
 To install the Nextcloud snap and configure Let’s Encrypt, you will need to run the following commands:
 
-<pre class="wp-block-code"><code>sudo snap install nextcloud
+```
+sudo snap install nextcloud
 
 # Enable HTTPS via Let's Encrypt
 sudo nextcloud.enable-https lets-encrypt
@@ -43,7 +44,8 @@ sudo nextcloud.enable-https lets-encrypt
 sudo snap run nextcloud.occ config:system:set trusted_domains 1 --value=nextcloud.domain.com
 
 # Restart the snap to apply the changes
-sudo snap restart nextcloud</code></pre>
+sudo snap restart nextcloud
+```
 
 <p class="notice">
   Remember to update <code>nextcloud.domain.com</code> to reflect your own domain.
@@ -55,25 +57,30 @@ The snap package is a quick and easy way to getting Nextcloud up and running, bu
 
 The first thing we need to do is get the download link for the Nextcloud server package. At the time of writing this guide, the latest version of Nextcloud is 16.0.1.
 
-<img loading="lazy" width="937" height="648" src="/assets/images/wp-images/2019/11/nextcloud-server-download-page.jpg" alt="" class="wp-image-328" srcset="/assets/images/wp-images/2019/11/nextcloud-server-download-page.jpg 937w, /assets/images/wp-images/2019/11/nextcloud-server-download-page-300x207.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-server-download-page-768x531.jpg 768w" sizes="(max-width: 937px) 100vw, 937px" />  
+![](/assets/images/nextcloud-server-download-page.jpg)
 
 Go to [this link](https://nextcloud.com/install/#instructions-server), right click on the blue **_Download_** button and select **_Copy link location_**. Then let’s head to our server and start work:
 
-<pre class="wp-block-code"><code>get https://download.nextcloud.com/server/releases/nextcloud-16.0.1.zip
+```
+get https://download.nextcloud.com/server/releases/nextcloud-16.0.1.zip
 
 # Install unzip and extract the Nextcloud package
 sudo apt-get install unzip
-sudo unzip nextcloud-16.0.1.zip -d /usr/share/nginx/</code></pre>
+sudo unzip nextcloud-16.0.1.zip -d /usr/share/nginx/
+```
 
 The Nginx user (www-data) needs to be given ownership of the Nextcloud directory, and everything within it, so Nginx can write to the Nextcloud folder:
 
-<pre class="wp-block-code"><code>sudo chown www-data:www-data /usr/share/nginx/nextcloud/ -R</code></pre>
+```
+sudo chown www-data:www-data /usr/share/nginx/nextcloud/ -R
+```
 
 ## Setup A Database (MariaDB) {#h-setup-a-database-mariadb}
 
 Nextcloud requires a database to store administrative data. I personally went with MariaDB, which is a fork of MySQL.
 
-<pre class="wp-block-code"><code># Connect to MariaDB server
+```
+# Connect to MariaDB server
 sudo mariadb
 
 # Create a database & user
@@ -85,7 +92,8 @@ grant all privileges on nextcloud.* to nextclouduser@localhost identified by 'so
 
 # Flush privileges and exit
 flush privileges;
-exit;</code></pre>
+exit;
+```
 
 ## Configure Nginx {#h-configure-nginx}
 
@@ -93,11 +101,14 @@ At this point, we have the Nextcloud files copied over and a database ready and 
 
 Let’s start by creating a Nextcloud config file, so Nginx knows what to do with requests that are destined for our Nextcloud URL.
 
-<pre class="wp-block-code"><code>sudo nano /etc/nginx/conf.d/nextcloud.conf</code></pre>
+```
+sudo nano /etc/nginx/conf.d/nextcloud.conf
+```
 
 Now paste the following into the file, editing the domain name and Nextcloud folder path as needed. If you don’t know how to use Nano, [this link might help](https://linux.die.net/man/1/nano).
 
-<pre class="wp-block-code"><code>server {
+```
+server {
     listen 80;
     server_name nextcloud.domain.com;
 
@@ -190,24 +201,29 @@ Now paste the following into the file, editing the domain name and Nextcloud fol
 # Don't log access to assets (optional)
         access_log off;
    }
-}</code></pre>
+}
+```
 
 Test the Nginx config to ensure the new config will work as expected. We should see a `test is successful` message.
 
-<pre class="wp-block-code"><code>sudo nginx -t
+```
+sudo nginx -t
 nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
 nginx: configuration file /etc/nginx/nginx.conf test is successful
 
 # Config is fine, restart Nginx to apply the config
-sudo systemctl reload nginx</code></pre>
+sudo systemctl reload nginx
+```
 
 The final step of the installation process is to install all of the PHP modules we will need for our Nextcloud server:
 
-<pre class="wp-block-code"><code>sudo apt-get install php-imagick php7.2-common php7.2-gd php7.2-json php7.2-curl  php7.2-zip php7.2-xml php7.2-mbstring php7.2-bz2 php7.2-intl</code></pre>
+```
+sudo apt-get install php-imagick php7.2-common php7.2-gd php7.2-json php7.2-curl  php7.2-zip php7.2-xml php7.2-mbstring php7.2-bz2 php7.2-intl
+```
 
 At this point, everything is installed and we should be able to navigate to our Nextcloud URL:
 
-<img loading="lazy" width="937" height="648" src="/assets/images/wp-images/2019/11/nextcloud-home-1.jpg" alt="" class="wp-image-329" srcset="/assets/images/wp-images/2019/11/nextcloud-home-1.jpg 937w, /assets/images/wp-images/2019/11/nextcloud-home-1-300x207.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-home-1-768x531.jpg 768w" sizes="(max-width: 937px) 100vw, 937px" />  
+![](/assets/images/nextcloud-home-1.jpg)
 
 <p class="notice-red">
   DO NOT configure anything at this point, as the connection is currently insecure.
@@ -217,21 +233,26 @@ At this point, everything is installed and we should be able to navigate to our 
 
 Now we have Nextcloud running, it’s time to secure it with a TLS certificate. We will do this using Let’s Encrypt.
 
-<pre class="wp-block-code"><code># Install Let's Encrypt certbot and the required Nginx plugin
+```
+# Install Let's Encrypt certbot and the required Nginx plugin
 sudo apt-get install certbot python3-certbot-nginx
 
 # Generate the certificate
-sudo certbot --nginx --agree-tos --redirect --hsts --staple-ocsp --email your@email.com -d nextcloud.domain.com</code></pre>
+sudo certbot --nginx --agree-tos --redirect --hsts --staple-ocsp --email your@email.com -d nextcloud.domain.com
+```
 
 Once the certificate has been generated, you will get a warning that says *we were unable to set up enhancement ensure-http-header for your server, however, we successfully installed your certificate.*
 
 Don’t worry, this is normal and expected behaviour when installing a Let’s Encrypt certificate with Nginx. Let’s fix that by heading back to our Nginx configuration:
 
-<pre class="wp-block-code"><code>sudo nano /etc/nginx/conf.d/nextcloud.conf</code></pre>
+```
+sudo nano /etc/nginx/conf.d/nextcloud.conf
+```
 
 We need to tell Nginx to use the Let’s Encrypt certificates, redirect HTTP requests to HTTPS, and add the HSTS header configuration. So let’s change the Nginx config from this:
 
-<pre class="wp-block-code"><code>server {
+```
+server {
     listen 80;
     server_name nextcloud.domain.com;
 
@@ -242,11 +263,13 @@ We need to tell Nginx to use the Let’s Encrypt certificates, redirect HTTP req
     add_header X-Download-Options noopen;
     add_header X-Permitted-Cross-Domain-Policies none;
 
-**** REST OF THE CONFIG ****</code></pre>
+**** REST OF THE CONFIG ****
+```
 
 To this:
 
-<pre class="wp-block-code"><code>server {
+```
+server {
     listen 80;
     server_name nextcloud.domain.com;
     return 301 https://nextcloud.domain.com$request_uri;
@@ -267,19 +290,22 @@ server {
     add_header X-Download-Options noopen;
     add_header X-Permitted-Cross-Domain-Policies none;
 
-**** REST OF THE CONFIG ****</code></pre>
+**** REST OF THE CONFIG ****
+```
 
 Let’s test the Nginx configuration again and restart Nginx to apply the changes:
 
-<pre class="wp-block-code"><code>sudo nginx -t
+```
+sudo nginx -t
 nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
 nginx: configuration file /etc/nginx/nginx.conf test is successful
 
-sudo systemctl reload nginx</code></pre>
+sudo systemctl reload nginx
+```
 
 Back to the browser window and hit the refresh button, we should be redirected to HTTPS and see a valid certificate. Life is good!
 
-<img loading="lazy" width="937" height="648" src="/assets/images/wp-images/2019/11/nextcloud-home-https.jpg" alt="" class="wp-image-330" srcset="/assets/images/wp-images/2019/11/nextcloud-home-https.jpg 937w, /assets/images/wp-images/2019/11/nextcloud-home-https-300x207.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-home-https-768x531.jpg 768w" sizes="(max-width: 937px) 100vw, 937px" />  
+![](/assets/images/nextcloud-home-https.jpg)  
 
 ## Setup A Data Folder {#h-setup-a-data-folder}
 
@@ -287,20 +313,23 @@ Our Nextcloud server is now more secure, so we can configure the admin account a
 
 In the example below I called the data folder `ncdata`, but you can call it whatever you want.
 
-<pre class="wp-block-code"><code>sudo mkdir /usr/share/nginx/ncdata
+```
+sudo mkdir /usr/share/nginx/ncdata
 
 # Make Nginx user the owner of the folder
-sudo chown www-data:www-data /usr/share/nginx/ncdata -R</code></pre>
+sudo chown www-data:www-data /usr/share/nginx/ncdata -R
+```
 
 Whichever path you created and specified above, make sure you put that in the `data folder` field on the Nextcloud setup page. We also need to enter the database name, user and password that we created earlier.
 
-<img loading="lazy" width="937" height="785" src="/assets/images/wp-images/2019/11/nextcloud-home-config.jpg" alt="" class="wp-image-331" srcset="/assets/images/wp-images/2019/11/nextcloud-home-config.jpg 937w, /assets/images/wp-images/2019/11/nextcloud-home-config-300x251.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-home-config-768x643.jpg 768w" sizes="(max-width: 937px) 100vw, 937px" />  
+![](/assets/images/nextcloud-home-config.jpg)  
 
 Once we have entered the admin credentials, data folder path and the database details, we hit the finish button, and hey presto! We’re presented with Nextcloud interface complete with files. Life is getting better!
 
-#### Congratulations, you have just setup and configured your very own Nextcloud server! {#h-congratulations-you-have-just-setup-and-configured-your-very-own-nextcloud-server}
+{: .medium}
+Congratulations, you have just setup and configured your very own Nextcloud server!
 
-<img loading="lazy" width="937" height="612" src="/assets/images/wp-images/2019/11/nextcloud-home-logged-in.jpg" alt="" class="wp-image-332" srcset="/assets/images/wp-images/2019/11/nextcloud-home-logged-in.jpg 937w, /assets/images/wp-images/2019/11/nextcloud-home-logged-in-300x196.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-home-logged-in-768x502.jpg 768w" sizes="(max-width: 937px) 100vw, 937px" />  
+![](/assets/images/nextcloud-home-logged-in.jpg)
 
 ## Next Steps {#h-next-steps}
 
@@ -316,40 +345,50 @@ From the settings screen, go to `Administration > Overview` from the right-hand 
 
 The solution to this is to enable some environment variables within PHP’s `www.conf` file.
 
-<pre class="wp-block-code"><code>sudo nano /etc/php/7.2/fpm/pool.d/www.conf</code></pre>
+```
+sudo nano /etc/php/7.2/fpm/pool.d/www.conf
+```
 
 Now look for the section of the file shown in the code below and remove the preceding semicolon from all the lines.
 
-<pre class="wp-block-code"><code>;env&#91;HOSTNAME] = $HOSTNAME
+```
+;env&#91;HOSTNAME] = $HOSTNAME
 ;env&#91;PATH] = /usr/local/bin:/usr/bin:/bin
 ;env&#91;TMP] = /tmp
 ;env&#91;TMPDIR] = /tmp
-;env&#91;TEMP] = /tmp</code></pre>
+;env&#91;TEMP] = /tmp
+```
 
 Save the file and restart PHP:
 
-<pre class="wp-block-code"><code>sudo systemctl reload php7.2-fpm.service</code></pre>
+```
+sudo systemctl reload php7.2-fpm.service
+```
 
 ## Warning 2: Small PHP memory limit {#h-warning-2-small-php-memory-limit}
 
 ***The PHP memory limit is below the recommended value of 512MB.***
 
-To fix this we need to edit the &#8216;php.ini&#8217; file to increase the maximum amount of memory that the PHP process can consume. While we’re there, we might as well increase the maximum upload limit too.
+To fix this we need to edit the &#8216;php.ini' file to increase the maximum amount of memory that the PHP process can consume. While we’re there, we might as well increase the maximum upload limit too.
 
-<pre class="wp-block-code"><code>sudo nano /etc/php/7.2/fpm/php.ini</code></pre>
+```
+sudo nano /etc/php/7.2/fpm/php.ini
+```
 
 Now look for the following values within the php.ini file and change them as needed. You can increase the PHP memory limit above 512MB if you wish.
 
 On my production server, I have the PHP memory limit set to 1GB, as my server has 4GB RAM.
 
-<pre class="wp-block-code"><code># Default is 128M
+```
+# Default is 128M
 memory_limit = 512M
 
 # Default is 2M
 upload_max_filesize = 100M
 
 # Restart PHP service again
-sudo systemctl reload php7.2-fpm.service</code></pre>
+sudo systemctl reload php7.2-fpm.service
+```
 
 Restart PHP again to apply the new settings and head back to the admin overview screen. Hit refresh and hey presto! Two of the warnings are already gone. Life is getting better all the time!
 
@@ -359,10 +398,12 @@ Restart PHP again to apply the new settings and head back to the admin overview 
 
 The final error that we need to resolve is to enable 4-byte character support. We can do this by using Nextcloud’s command line utility, occ. Run the commands below to enable 4-byte support.
 
-<pre class="wp-block-code"><code>cd /usr/share/nginx/nextcloud
+```
+cd /usr/share/nginx/nextcloud
 sudo -u www-data php occ config:system:set mysql.utf8mb4 --type boolean --value="true"
 sudo -u www-data php occ maintenance:repair
-sudo -u www-data php occ maintenance:mode --off</code></pre>
+sudo -u www-data php occ maintenance:mode --off
+```
 
 Refresh the admin overview screen again and we see that all the warnings are cleared. There may be other warnings about caching and referrer policies, but these are nothing to worry about really.
 
@@ -382,9 +423,9 @@ The scoring is graded as follows:
   * **A** = This server has no known vulnerabilities but there are additional hardening capabilities available in newer versions making it harder for an attacker to exploit unknown vulnerabilities to break in.
   * **A+** = This server is up to date, well configured and has industry leading hardening features applied, making it harder for an attacker to exploit unknown vulnerabilities to break in.
 
-As you can see, our server gets an A+, so we know we’re pretty secure. Life is really good! ?
+As you can see, our server gets an A+, so we know we’re pretty secure. Life is really good!
 
-<img loading="lazy" width="1024" height="567" src="/assets/images/wp-images/2019/11/nextcloud-security-scan-1024x567.jpg" alt="" class="wp-image-333" srcset="/assets/images/wp-images/2019/11/nextcloud-security-scan-1024x567.jpg 1024w, /assets/images/wp-images/2019/11/nextcloud-security-scan-300x166.jpg 300w, /assets/images/wp-images/2019/11/nextcloud-security-scan-768x425.jpg 768w, /assets/images/wp-images/2019/11/nextcloud-security-scan.jpg 1131w" sizes="(max-width: 1024px) 100vw, 1024px" />  
+![](/assets/images/nextcloud-security-scan.jpg)
 
 ## That’s It {#h-that-s-it}
 

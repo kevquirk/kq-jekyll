@@ -13,7 +13,7 @@ Two Factor Authentication, or 2FA as many call it, is the latest buzz word when 
 
 Let’s start with the basics – authentication is the method of proving that you are entitled to have access to a particular resource. That resource could be a computer, server, online account, or something like a folder share. The most common type of authentication that many of us use every single day, is the tried and not so trusted, username and password. What 2FA does is add an additional layer of authentication to the normal username and password, in order to make unauthorised access to that resource exponentially more difficult.
 
-<img loading="lazy" width="880" height="500" src="/assets/images/wp-images/2019/11/2fa-feature.png" alt="" class="wp-image-403" srcset="/assets/images/wp-images/2019/11/2fa-feature.png 880w, /assets/images/wp-images/2019/11/2fa-feature-300x170.png 300w, /assets/images/wp-images/2019/11/2fa-feature-768x436.png 768w" sizes="(max-width: 880px) 100vw, 880px" />  
+![](/assets/images/2fa-feature.webp)
 
 ## The 2FA Concept {#h-the-2fa-concept}
 

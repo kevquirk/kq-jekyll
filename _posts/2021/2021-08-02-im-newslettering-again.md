@@ -2,9 +2,8 @@
 id: 6331
 title: 'I&#8217;m Newslettering Again!'
 date: 2021-08-02T14:14:14+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=6331'
 permalink: /im-newslettering-again/
 categories:
   - Notes

@@ -2,9 +2,8 @@
 id: 5358
 title: I Now Know How To use Git
 date: 2020-05-11T12:16:00+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5358'
 permalink: /i-now-know-how-to-use-git/
 categories:
   - Notes

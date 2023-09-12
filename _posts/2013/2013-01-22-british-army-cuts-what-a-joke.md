@@ -1,5 +1,5 @@
 ---
-title: 'British Army Cuts &#8211; What a Joke'
+title: 'British Army Cuts - What a Joke'
 date: '2013-01-22T10:29:00+00:00'
 layout: post
 permalink: /british-army-cuts-what-a-joke/

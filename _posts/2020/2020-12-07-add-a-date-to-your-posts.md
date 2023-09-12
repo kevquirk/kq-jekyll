@@ -2,9 +2,8 @@
 id: 5368
 title: Add A Date To Your Posts!
 date: 2020-12-07T12:21:00+00:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5368'
 permalink: /add-a-date-to-your-posts/
 categories:
   - Notes

@@ -41,11 +41,8 @@
  :root {
    --text: #eee;
    --bg: #222;
-   --accent-bg: #2d2d2d;
+   --accent-bg: #111;
    --input-bg: #2d2d2d;
-   img {
-    opacity: 70%;
-   }
  }
 }
 
@@ -64,18 +61,18 @@ body {
   margin: 0;
 }
 
-main,
-header,
-footer,
-.post-nav {
+.container {
   display: block;
   max-width: 39rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
 
-header {
-  text-align: center;
+.header-container {
+  display: block;
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
 p,
@@ -84,35 +81,68 @@ table {
 }
 
 /****** Format the nav bar ******/
-nav {
-  font-weight: 600;
+
+/* Hide mobile menu on desktop */
+@media only screen and (min-width: 750px) {
+  header details {
+    display: none;
+  }
 }
 
-nav a,
-nav a:visited {
-  font-size: 1.1rem;
-  margin-left: 12px;
-  padding: 5px;
+/**** Header elements ****/
+header {
+  margin-bottom: 3rem;
+  background: var(--accent-bg);
+  padding: 0.5rem 0;
+  border-bottom: var(--standard-border);
 }
 
-nav a:hover,
-nav a#current {
-  background: var(--pink);
-  color: var(--dark-text);
-  text-decoration: none;
-}
-
-/****** Header elements ******/
 .site-logo {
-  vertical-align: sub;
-  display: inline-block;
-  margin: 1.5rem 0;
-  width: 3.5rem;
+  width: 2.5rem;
+  display: inline-flex;
   height: auto;
   stroke-width: 0;
   stroke: var(--text);
   fill: var(--text);
- }
+  padding-right: 1.5rem;
+  vertical-align: middle;
+}
+
+nav {
+  display: inline-flex;
+  float: right;
+}
+
+ul.nav-menu {
+    padding-inline-start: 0;
+    margin: 0;
+    line-height: 2;
+}
+
+ul.nav-menu li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 0.75rem;
+}
+
+ul.nav-menu li:first-child {
+    margin-left: 0;
+}
+
+ul.nav-menu li a {
+    padding: 5px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+footer {
+    margin-top: 5rem;
+    padding: 1rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    background-color: var(--accent-bg);
+    border-top: var(--standard-border)
+}
 
 /****** Typography elements ******/
 h1, h2, h3, h4, h5, h6 {
@@ -167,14 +197,20 @@ h6 code {
 }
 
 .post-list h2 {
-  font-size: 2.25rem;
-  font-weight: bold;
-  color: var(--text);
-  margin: 1rem 0;
+  font-size: 2rem;
+  margin: 0;
 }
 
-.post-list:hover h2 {
-  color: var(--dark-text);
+.post-list p {
+  margin: 0;
+}
+
+.post-list {
+  margin-bottom: 3rem;
+}
+
+.post-list .post-date {
+    font-size: 1.1rem;
 }
 
 .page-title {
@@ -187,7 +223,43 @@ h6 code {
 
 /* Reduce header size on mobile */
 @media only screen and (max-width: 750px) {
-  header,
+  header {
+    text-align: center;
+  }
+
+  header details {
+    display: block;
+  }
+
+  header details[open] {
+    padding: .6rem 0 .75rem 0;
+    width: 100%;
+  }
+
+  .mobile-hide { /* Hide name menu as mobile menu is shown */
+    display: none
+  }
+
+  nav {
+    display: block;
+    text-align: center;
+    line-height: 1.8;
+    float: none;
+  }
+
+  .nav-menu {
+    padding-left: 0;
+  }
+
+  ul.nav-menu li {
+    display: block;
+    margin-left: 0;
+  }
+
+  .site-logo {
+    padding-right: 0;
+  }
+
   .post-nav {
     max-width: 100%;
     padding: 0;
@@ -237,8 +309,10 @@ a:visited {
   transition: color .1s ease-in-out, .1s ease-in-out;
 }
 
-a:hover {
-  color: var(--dark-text);
+a:hover,
+.current {
+  color: var(--dark-text) !important;
+  text-decoration-color: var(--pink);
   background: var(--pink);
   text-decoration: none;
 }
@@ -437,14 +511,6 @@ hr {
   max-width: 60%;
 }
 
-/****** Format the Footer ******/
-footer {
-  text-align: center;
-  font-size: 0.9rem;
-  border-top: 3px solid;
-  margin-top: 2rem;
-}
-
 input {
   font-family: var(--sans);
   font-size: 1.25rem !important;
@@ -528,6 +594,14 @@ details[open]>*:last-child {
   margin-bottom: 0;
 }
 
+/* Format the details box on the mobile menu */
+header details {
+  color: var(--text);
+  background: none;
+  border: none;
+  margin: 0;
+}
+
 /* Format the prev & next links on posts */
 .post-nav {
   display: flex;
@@ -551,33 +625,6 @@ details[open]>*:last-child {
 
 .post-nav-next {
   text-align: right;
-}
-
-/****** Format the posts list & meta data ******/
-.post-list {
-  border: var(--standard-border);
-  text-align: center;
-  cursor: pointer;
-  position: relative;
-  margin: 3rem auto;
-}
-
-.post-list-inner-container {
-  padding: 0 1rem;
-}
-
-.post-link {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: 1;
-}
-
-.post-date {
-  font-size: 1rem;
-  margin-top: 0.5rem;
 }
 
 .post-meta {
@@ -614,7 +661,17 @@ ul.post-meta li:last-child {
   padding: 10px 12px;
 }
 
+.dark-button {
+  color: black;
+  border: 3px solid black;
+  background: #fafafa;
+  display: inline-block;
+  margin: 1rem 0;
+  padding: 10px 12px;
+}
+
 .button:hover,
+.dark-button:hover,
 #submit:hover {
   background: var(--bg);
   color: var(--dark-text);
@@ -622,6 +679,11 @@ ul.post-meta li:last-child {
 
 a.button {
   color: var(--text);
+  text-decoration: none;
+}
+
+a.dark-button {
+  color: black;
   text-decoration: none;
 }
 
@@ -638,13 +700,13 @@ a.button {
 
 .contribute-box,
 .subscribe-form {
-  border: var(--standard-border);
+  border: 3px solid var(--dark-text);
   margin: 4rem 0;
 }
 
 .contribute-box {
   color: var(--dark-text);
-  background: var(--green);
+  background: var(--yellow);
   padding: 1rem;
 }
 
@@ -660,7 +722,7 @@ a.button {
 /* Format the subsribe form */
 .subscribe-form {
   color: var(--dark-text);
-  background: var(--purple);
+  background: var(--blue);
   padding: 1rem;
 }
 
@@ -703,6 +765,27 @@ a.button.brutal-shadow {
   margin: 1rem 0;
 }
 
+.dark-brutal-shadow {
+  background: #fafafa !important;
+  border-color: black !important;
+  color: black !important;
+  box-shadow: 6px 6px 0 0 black;
+  transition: all 0.1s ease;
+}
+
+.dark-brutal-shadow:hover {
+  color: var(--dark-text);
+  box-shadow: 0px 0px 0 0 black;
+  background: var(--pink) !important;
+  border-color: black !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .subscribe-form input#bd-email {
+    border-color: var(--bg);
+  }
+}
+
 /* Pagination formatting */
 .pagination-links {
   padding: 2rem 0.5rem;
@@ -738,7 +821,7 @@ a.button.brutal-shadow {
 .book,
 .watch {
   background: var(--green);
-  border: 3px solid var(--text);
+  border: 3px solid var(--dark-text);
   color: var(--dark-text);
   margin: var(--content-margin);
   padding: 1.5rem;
@@ -753,12 +836,24 @@ a.button.brutal-shadow {
 .book img,
 .watch img {
   margin: 0 1.5rem 0.75rem 0;
+  border: 3px solid var(--dark-text);
+}
+
+.watch img {
+  float: left;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.watch h2 {
+  margin-top: 0;
+  font-size: 1.75rem;
 }
 
 .link {
   color: var(--dark-text);
-  background: var(--purple);
-  border: 3px solid var(--text);
+  background: var(--yellow);
+  border: 3px solid var(--dark-text);
   padding: 1.5rem;
   margin: 2.5rem 0;
 }
@@ -871,4 +966,29 @@ a.button.brutal-shadow {
     float: right;
   }
 
+}
+
+/* Background colours */
+.yellow {
+  background: var(--yellow);
+}
+
+.blue {
+  background: var(--blue);
+}
+
+.pink {
+  background: var(--pink);
+}
+
+.pink a.dark-brutal-shadow:hover {
+  background: var(--yellow) !important;
+}
+
+.purple {
+  background: var(--purple);
+}
+
+.green {
+  background: var(--green);
 }

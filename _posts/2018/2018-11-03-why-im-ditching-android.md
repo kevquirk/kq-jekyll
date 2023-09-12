@@ -8,8 +8,6 @@ categories:
   - Privacy
   - Technology
 ---
-
-
 Regular readers of this blog will know that I went through a process of [de-Googling my life](/categories/de-googling) a while ago. For the most part I think the process was pretty successful, however there were some [things that I couldn’t replace](/de-googling-my-life-06-what-i-cant-replace).
 
 Fast forward a year, and after a lot of trial and error I’m ready to now take the next step in removing Google from my life – I’m ditching Android.
@@ -24,11 +22,11 @@ Unless you’ve been living under a rock for the last decade, I’m sure you’r
 
 On the other hand, Apple’s business model is based around hardware. Yes their hardware is grossly overpriced, but the flagship Android phones are pretty much inline with Apple these days. So it’s a moot point really.
 
-Because Google make their money from advertising, it’s in their best interest to get as much information about you as possible. You only need to look at the recent [Digital Content Next paper](https://digitalcontentnext.org/assets/images/wp-images/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf), where they proved Android sends 10x more data about you back to Google than Apple does.
+Because Google make their money from advertising, it’s in their best interest to get as much information about you as possible. You only need to look at the recent [Digital Content Next paper](https://digitalcontentnext.org/_assets/images/wp-images/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf), where they proved Android sends 10x more data about you back to Google than Apple does.
 
 Here’s a good [summary about the paper on Bleeping Computer](https://www.bleepingcomputer.com/news/google/idle-android-phones-send-data-to-google-ten-times-more-often-than-ios-devices-to-apple/) if you can’t be bothered reading all 55 pages.
 
-<img loading="lazy" width="792" height="472" src="/assets/images/wp-images/2019/11/DCN-google-apple-stats.png" alt="Google vs Apple data stats" class="wp-image-115" srcset="/assets/images/wp-images/2019/11/DCN-google-apple-stats.png 792w, /assets/images/wp-images/2019/11/DCN-google-apple-stats-300x179.png 300w, /assets/images/wp-images/2019/11/DCN-google-apple-stats-768x458.png 768w" sizes="(max-width: 792px) 100vw, 792px" />  
+![](/assets/images/DCN-google-apple-stats.png)
 
 ## Bloatware {#h-bloatware}
 
@@ -36,7 +34,7 @@ Android vendors are almost as bad as Windows when it comes to bundling additiona
 
 And if you want to remove Google’s proprietary apps like Google Drive, Google Search, or Google Photos, forget it. They’re all “system apps” that cannot be uninstalled.
 
-<img loading="lazy" width="900" height="500" src="/assets/images/wp-images/2019/11/android-system-apps.png" alt="Android system apps" class="wp-image-114" srcset="/assets/images/wp-images/2019/11/android-system-apps.png 900w, /assets/images/wp-images/2019/11/android-system-apps-300x167.png 300w, /assets/images/wp-images/2019/11/android-system-apps-768x427.png 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/android-system-apps.png)
 
 The same is also true of iOS to a certain degree. However, on Android it’s much more prevalent. I don’t use HiCare, or Huawei Weather, or Huawei Music – let me bloody remove them!
 
@@ -54,7 +52,7 @@ If I’m gonna flip to Apple, why not get the latest device, right? Well, one of
 
 The iPhone SE is actually a phone sized device. It’s cheap, and it’s still supported by Apple. It’s seemed like a no-brainer to give it a try.
 
-<img loading="lazy" width="900" height="506" src="/assets/images/wp-images/2019/11/iPhone-SE.jpg" alt="" class="wp-image-116" srcset="/assets/images/wp-images/2019/11/iPhone-SE.jpg 900w, /assets/images/wp-images/2019/11/iPhone-SE-300x169.jpg 300w, /assets/images/wp-images/2019/11/iPhone-SE-768x432.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/iPhone-SE.jpg)
 
 ## Conclusion {#h-conclusion}
 

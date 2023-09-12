@@ -31,7 +31,7 @@ So, how did I manage to actually migrate from Disqus to WordPress? Well, that pr
 
 Assuming you already have the Disqus plugin installed and configured. The first thing you need to do is go in to the settings for the Disqus plugin and carry out either an automatic or manual sync. Personally, I went for a manual sync, as I was intending to remove the Disqus plugin ASAP.
 
-<img loading="lazy" width="729" height="502" src="/assets/images/wp-images/2019/11/enable-disqus-comment-syncing.png" alt="" class="wp-image-283" srcset="/assets/images/wp-images/2019/11/enable-disqus-comment-syncing.png 729w, /assets/images/wp-images/2019/11/enable-disqus-comment-syncing-300x207.png 300w" sizes="(max-width: 729px) 100vw, 729px" />  
+![](/assets/images/enable-disqus-comment-syncing.webp)  
 
 Here’s the first limitation from good old Disqus – you can only sync a maximum of 1 year’s worth of comments. So if you’ve been running your blog for longer than that, you’re out of luck.
 
@@ -43,9 +43,7 @@ For me 80% of my comments were not assigned to a post, and by default there is n
 
 Once Tako is installed, go to your comments, click on the edit button, then scroll down to the bottom of the edit page. Here you will be able to assign a comment to a post:
 
-<div class="wp-block-image">
-  <img loading="lazy" width="1024" height="164" src="/assets/images/wp-images/2019/11/tako-comment-move-1024x164.png" alt="" class="wp-image-284" srcset="/assets/images/wp-images/2019/11/tako-comment-move-1024x164.png 1024w, /assets/images/wp-images/2019/11/tako-comment-move-300x48.png 300w, /assets/images/wp-images/2019/11/tako-comment-move-768x123.png 768w, /assets/images/wp-images/2019/11/tako-comment-move.png 1102w" sizes="(max-width: 1024px) 100vw, 1024px" />
-</div>
+![](/assets/images/tako-comment-move.webp)
 
 Finally, rinse and repeat for any other comments that aren’t assigned to a post.
 
@@ -55,19 +53,10 @@ So, why have I decided to migrate from Disqus to WordPress? After all, I could j
 
 There are a number of reasons why I’ve wanted to move away from Disqus for while. The biggest being the widely reported [privacy and security issues](https://en.wikipedia.org/wiki/Disqus#Criticism,_privacy,_and_security_concerns) that have plagued Disqus. Secondly, I also want to be in control of all the data on my site where possible.
 
-<blockquote class="wp-block-quote">
-  <p>
-    As with other embedded web widgets, such as like buttons, the Disqus widget acts as a web bug which tracks a user’s activities, even when they are not logged in, across different sites that use the Disqus commenting system. Information tracked by Disqus, which may be disclosed to third parties, includes pseudonymous analytics data, such as a user’s IP address, their web browser version and installed add-ons, and their referring pages and exit links. Although these data are referred to by Disqus as “Non-Personally Identifiable Information”, such data, when aggregated, has been shown to be usable for de-anonymizing users.
-  </p>
-
-  <p>
-    Disqus has also been criticized for publishing its registered users’ entire commenting histories, along with a list of connected blogs and services, on the publicly viewable user profile pages. The option to keep profile activity private was later added.
-  </p>
-
-  <p>
-    — Wikipedia
-  </p>
-</blockquote>
+> As with other embedded web widgets, such as like buttons, the Disqus widget acts as a web bug which tracks a user’s activities, even when they are not logged in, across different sites that use the Disqus commenting system. Information tracked by Disqus, which may be disclosed to third parties, includes pseudonymous analytics data, such as a user’s IP address, their web browser version and installed add-ons, and their referring pages and exit links. Although these data are referred to by Disqus as “Non-Personally Identifiable Information”, such data, when aggregated, has been shown to be usable for de-anonymizing users.
+>
+> Disqus has also been criticized for publishing its registered users’ entire commenting histories, along with a list of connected blogs and services, on the publicly viewable user profile pages. The option to keep profile activity private was later added.
+> <cite>— Wikipedia</cite>
 
 ## Final Thoughts {#h-final-thoughts}
 

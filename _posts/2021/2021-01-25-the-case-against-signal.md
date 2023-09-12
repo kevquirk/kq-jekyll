@@ -2,9 +2,8 @@
 id: 5326
 title: The Case Against Signal
 date: 2021-01-25T11:56:00+00:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5326'
 permalink: /the-case-against-signal/
 categories:
   - Notes

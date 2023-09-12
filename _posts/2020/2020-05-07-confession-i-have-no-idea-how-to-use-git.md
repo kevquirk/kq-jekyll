@@ -2,9 +2,8 @@
 id: 1773
 title: 'Confession: I Have No Idea How To Use Git'
 date: 2020-05-07T12:47:17+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=1773
 permalink: /confession-i-have-no-idea-how-to-use-git/
 categories:
   - Opinion

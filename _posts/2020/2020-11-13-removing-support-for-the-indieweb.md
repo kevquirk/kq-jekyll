@@ -2,9 +2,8 @@
 id: 3533
 title: Removing Support For The IndieWeb
 date: 2020-11-13T15:25:06+00:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=3533
 permalink: /removing-support-for-the-indieweb/
 description:
   - I recently redesigned this website and when I did, I removed all of the IndieWeb functionality from it. This post talks about why I did that.
@@ -13,7 +12,7 @@ categories:
   - Technology
   - Web
 ---
-<p class="has-medium-font-size">
+<p class="tldr">
   I recently <a href="https://kevq.uk/a-nod-to-the-90s-web/">redesigned this website</a>. When I did, I removed all of the IndieWeb functionality from it. This post talks about why I did that.
 </p>
 

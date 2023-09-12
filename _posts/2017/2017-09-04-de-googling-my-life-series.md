@@ -1,6 +1,6 @@
 ---
 title: De-Googling My Life Series
-author: Kev Quirk
+
 layout: post
 permalink: /de-googling-my-life-series/
 categories:

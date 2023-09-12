@@ -6,7 +6,7 @@ description: Talking about my writing workflow for producing content on this blo
 categories:
   - Blogging
 ---
-<p class="has-medium-font-size">
+<p class="tldr">
   I recently <a href="/goodbye-wordpress-switched-to-jekyll/">flipped from WordPress to Jekyll</a>, which had an impact on my writing workflow. This post talks about how that workflow has changed.
 </p>
 
@@ -28,7 +28,8 @@ This site is managed through Git. I write a post, do a `git push` and my host ([
 
 To get around this I bought an app called [Working Copy](https://apps.apple.com/gb/app/working-copy/id896694807) for my iOS devices. _Working Copy_ is an excellent Git repository manager for iOS, so I can not only edit content, I can also edit my **entire** site.
 
-<img loading="lazy" width="1000" height="750" src="/assets/images/wp-images/2021/01/working-copy-example.jpg" alt="My stylesheet on Working Copy" class="wp-image-4261" srcset="/assets/images/wp-images/2021/01/working-copy-example.jpg 1000w, /assets/images/wp-images/2021/01/working-copy-example-610x458.jpg 610w, /assets/images/wp-images/2021/01/working-copy-example-768x576.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /> *My stylesheet on Working Copy*
+![](/assets/images/working-copy-example.jpg)
+*My stylesheet on Working Copy*
 
 Now, I could stop there and use _Working Copy_ to write and publish my posts, but I wanted a better experience for writing content on my iOS devices. For this I bought [iWriter Pro](https://apps.apple.com/us/app/iwriter-pro/id892374380), which is a superb Markdown editor for iOS.
 
@@ -48,16 +49,16 @@ The added advantage of this, which my previous workflow didn’t offer, is that 
 
 Now sure, I know I could have edited content offline with WordPress too, but I would have had to transfer anything I had written offline into the WordPress editor, so this new workflow is more seamless.
 
-Actually, it’s completely seamless &#8211; the process is exactly the same, I just defer the `git push` part until I’m back online.
+Actually, it’s completely seamless - the process is exactly the same, I just defer the `git push` part until I’m back online.
 
 ## Conclusion {#h-conclusion}
 
-I’ve always been a bit of a naysayer when it comes to static site generators and their associated workflow. But I’m happy to say that I was wrong &#8211; I’m really enjoying the ease and flexibility that using Jekyll (or any SSG for that matter) offers.
+I’ve always been a bit of a naysayer when it comes to static site generators and their associated workflow. But I’m happy to say that I was wrong - I’m really enjoying the ease and flexibility that using Jekyll (or any SSG for that matter) offers.
 
 A perfect example of the flexibility of this new workflow is what I’m doing right now. I’m currently in a soft play centre with my wife and two sons. My wife is reading a book, and the kids are going wild. I’m happily sitting here, on my iPad (which is tethered from my iPhone), writing away.
 
 The best bit is that even though I’ve spent the last hour or so writing this post, I’ve not been wasting any of my 4G data because I’m not logged into a web dashboard. It’s. All. Local. The only actual data transfer is when I push to my Git repository.
 
-I still love WordPress &#8211; I think it’s a fantastic content management system and I continue to recommend it to many people, and sing its praises. But for my needs, this new SSG workflow is more flexible and works better.
+I still love WordPress - I think it’s a fantastic content management system and I continue to recommend it to many people, and sing its praises. But for my needs, this new SSG workflow is more flexible and works better.
 
 **How does your writing workflow work? Feel free to write a response to this post and let me know either by [contacting me](/contact) or posting a link on [my guestbook](/guestbook).**

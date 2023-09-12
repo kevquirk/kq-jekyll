@@ -27,7 +27,7 @@ Let’s start with a quick re-cap – last time I ended up sticking with my self
 
 My intention was to cut costs, while keeping performance up. With this setup I was getting a perfect score on [Google’s Lighthouse](https://web.dev/measure), so the new solution had to be really performant too. Because, you know, [WordPress isn’t slow](/the-case-for-wordpress/)!
 
-![Perfect Google lighthouse score](/assets/images/wp-images/2021/09/perfect-lighthouse-score.png)
+![Perfect Google lighthouse score](/assets/images/perfect-lighthouse-score.png)
 
 I’m sure you will agree that $30/month to run what is effectively a hobby website isn’t great. Especially when I could [host a static site for free](/how-to-build-jekyll-site-simple-css/). But I’m happy to report, dear reader, that I have made some changes which have saved me some 💰, *and* kept performance up.
 

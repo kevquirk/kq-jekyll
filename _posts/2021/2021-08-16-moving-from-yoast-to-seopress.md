@@ -2,9 +2,8 @@
 id: 6701
 title: Moving From Yoast To SEOPress
 date: 2021-08-16T22:16:12+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=6701'
 permalink: /moving-from-yoast-to-seopress/
 categories:
   - Notes

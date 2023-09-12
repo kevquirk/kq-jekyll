@@ -5,7 +5,7 @@ permalink: /my-home-server-2-months-on/
 categories:
   - Technology
 ---
-<img loading="lazy" width="880" height="501" src="/assets/images/wp-images/2019/11/server-update-feature.jpg" alt="" class="wp-image-376" srcset="/assets/images/wp-images/2019/11/server-update-feature.jpg 880w, /assets/images/wp-images/2019/11/server-update-feature-300x171.jpg 300w, /assets/images/wp-images/2019/11/server-update-feature-768x437.jpg 768w" sizes="(max-width: 880px) 100vw, 880px" />
+![](/assets/images/server-update-feature.jpg)
 
 I recently wrote about how [I nearly lost all my data](/i-nearly-lost-all-of-my-data), then later I wrote about how I recovered from that by [building a new server](/building-my-home-server). The new server has now been in place for a couple of months, so I thought I would give you guys an update.
 
@@ -17,9 +17,8 @@ If you look at the [building my home server post](/building-my-home-server), you
 
 After a week or so of use, I noticed that I was having stability issues where my server would completely lock up and stop responding. After some investigation, it was clear that the issue was Cloudberry. I removed Cloudberry and replaced it with Duplicati – no crashes since.
 
-<p class="has-white-color has-blue-background-color has-text-color has-background">
-  Pro tip: don’t waste your money on a Cloudberry license. Install <a href="https://www.duplicati.com">Duplicati</a> instead and donate the license fee to them.
-</p>
+{: .tip}
+Don’t waste your money on a Cloudberry license. Install <a href="https://www.duplicati.com">Duplicati</a> instead and donate the license fee to them.
 
 ## Other changes {#h-other-changes}
 
@@ -51,7 +50,7 @@ Duplicati is configured to send me backup reports via email (guide coming soon o
 
 You may have noticed that I haven’t mentioned Plex during this entire post. That’s because it has been faultless; you just set it and forget it. Yes, it’s proprietary software, but it works **_really_** well.
 
-<img loading="lazy" width="1000" height="460" src="/assets/images/wp-images/2019/11/plex-webui.jpg" alt="" class="wp-image-377" srcset="/assets/images/wp-images/2019/11/plex-webui.jpg 1000w, /assets/images/wp-images/2019/11/plex-webui-300x138.jpg 300w, /assets/images/wp-images/2019/11/plex-webui-768x353.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />  
+![](/assets/images/plex-webui.jpg)
 
 I’ve now been running Plex, Nextcloud, Duplicati and Backblaze B2 together for around 6 weeks without issue.
 

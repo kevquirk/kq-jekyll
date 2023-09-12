@@ -2,13 +2,11 @@
 id: 6048
 title: 'Online Conversations &#038; Website Engagement'
 date: 2021-07-03T12:33:53+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=6048
 permalink: /online-conversations-website-engagement/
 description:
   - Online conversations and the measure of website engagement are broken in my opinion. This post talks about my approach to all this.
-image: /assets/images/wp-images/uploads/2021/07/online-conversations-feature.png
 categories:
   - Blogging
   - Opinion
@@ -27,7 +25,7 @@ categories:
 
 A couple of years ago, I removed all comments from this site. It&#8217;s a WordPress site, so enabling comments is trivial. However, I found that the vast majority of the comments I was getting were along the lines of this:
 
-<img loading="lazy" width="594" height="184" src="/assets/images/wp-images/2021/07/some-internet-guy-comment.png" alt="" class="wp-image-6229" />  
+![](/assets/images/some-internet-guy-comment.png)   
 
 If it wasn&#8217;t my pal _Some Internet Guy_ it was spam comments, usually about viagra, or sometimes trolls wishing me dead. Which is always nice. 😍
 

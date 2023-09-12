@@ -2,9 +2,8 @@
 id: 5374
 title: My Typical Day
 date: 2021-01-15T12:24:00+00:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5374'
 permalink: /my-typical-day/
 categories:
   - Notes

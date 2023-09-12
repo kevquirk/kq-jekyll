@@ -2,7 +2,7 @@
 id: 5360
 title: 'Git Lecture [video]'
 date: 2020-05-12T12:17:00+01:00
-author: Kev Quirk
+
 layout: post
 permalink: /git-lecture-video/
 categories:

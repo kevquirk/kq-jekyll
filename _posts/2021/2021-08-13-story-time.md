@@ -2,9 +2,8 @@
 id: 6405
 title: Story Time
 date: 2021-08-13T12:26:17+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=6405'
 permalink: /story-time/
 categories:
   - Notes

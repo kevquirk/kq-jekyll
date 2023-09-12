@@ -2,11 +2,9 @@
 id: 6236
 title: Migrating From Yoast To RankMath Broke My Site
 date: 2021-07-28T12:24:22+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=6236
 permalink: /migrating-from-yoast-to-rankmath-broke-my-site/
-image: /assets/images/wp-images/uploads/2021/07/yoast-rankmath-feature.png
 categories:
   - Blogging
   - Web
@@ -37,7 +35,7 @@ I went ahead and bought RankMath Pro and installed it on my site. It migrated ev
 
 The next morning I woke up to a number of people contacting me on <a href="https://fosstodon.org/@kev" target="_blank" rel="noreferrer noopener">Fosstodon</a> informing me that my RSS feed was broken.
 
-<img loading="lazy" width="1124" height="370" src="/assets/images/wp-images/2021/07/rankmath-rss-error.jpeg" alt="RSS feed error" class="wp-image-6242" srcset="/assets/images/wp-images/2021/07/rankmath-rss-error.jpeg 1124w, /assets/images/wp-images/2021/07/rankmath-rss-error-610x201.jpeg 610w, /assets/images/wp-images/2021/07/rankmath-rss-error-768x253.jpeg 768w" sizes="(max-width: 1124px) 100vw, 1124px" />  
+![](/assets/images/rankmath-rss-error.jpeg)  
 
 Fan-bloody-tastic. The only change I had made was replacing Yoast with RankMath, so I jumped on my staging site to do some testing and sure enough, RankMath was the problem.
 

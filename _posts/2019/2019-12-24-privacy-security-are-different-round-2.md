@@ -6,11 +6,11 @@ categories:
   - Privacy
   - Security
 ---
-I recently wrote a post explaining that I think [Privacy & Security Are Different](https://kevq.uk/privacy-security-are-different/). Following that post I&#8217;ve received some feedback questioning my rationale. This post is a response to some of that feedback.
+I recently wrote a post explaining that I think [Privacy & Security Are Different](/privacy-security-are-different/). Following that post I've received some feedback questioning my rationale. This post is a response to some of that feedback.
 
 ## Privacy is part of security {#h-privacy-is-part-of-security}
 
-A lot of the feedback I received was stating that privacy is part of security, and without security you can&#8217;t have privacy. I don&#8217;t feel that is the case. I like analogies, so let&#8217;s look at an analogy to explain how I see privacy vs security:
+A lot of the feedback I received was stating that privacy is part of security, and without security you can't have privacy. I don't feel that is the case. I like analogies, so let's look at an analogy to explain how I see privacy vs security:
 
 The bank sends a letter marked _private and confidential_ to me. Only I should open the letter because it is private and addressed to me.
 
@@ -26,10 +26,10 @@ I would need to log in to my online banking before being able to read the letter
 
 A couple of people mentioned that privacy is part of security because _Confidentiality_ is part of the <a rel="noreferrer noopener" aria-label="CIA Triad (opens in a new tab)" href="https://en.wikipedia.org/wiki/CIA_triad" target="_blank">CIA Triad</a> that I mentioned in the previous post. **Confidentiality and privacy are not the same thing.**
 
-![CIA Triad](/assets/images/wp-images/2019/12/cia-triad.png)
+![CIA Triad](/assets/images/cia-triad.png)
 *The CIA triad*
 
-<a rel="noreferrer noopener" aria-label="This post on findlaw.com (opens in a new tab)" href="https://criminal.findlaw.com/criminal-rights/is-there-a-difference-between-confidentiality-and-privacy.html" target="_blank">This post on findlaw.com</a> explains the differences between confidentiality and privacy really well. But if you don&#8217;t want to read the post, I&#8217;ll sum up the differences below:
+<a rel="noreferrer noopener" aria-label="This post on findlaw.com (opens in a new tab)" href="https://criminal.findlaw.com/criminal-rights/is-there-a-difference-between-confidentiality-and-privacy.html" target="_blank">This post on findlaw.com</a> explains the differences between confidentiality and privacy really well. But if you don't want to read the post, I'll sum up the differences below:
 
 _**Confidentiality**_ refers to personal or sensitive information that is shared with a person or group. For example medical records or a document that contains sensitive business information. The expectation is that confidential information is not shared any further without express permission.
 
@@ -45,4 +45,4 @@ Hopefully this post helps clarify my position on the differences between privacy
 
 I considered editing the original post, but ultimately I feel that a second post was a better way to go.
 
-As with all the posts I put out on this site, this is just my opinion. If you think I&#8217;m wrong, feel free to get in touch and I will be happy to discuss the matter further.
+As with all the posts I put out on this site, this is just my opinion. If you think I'm wrong, feel free to get in touch and I will be happy to discuss the matter further.

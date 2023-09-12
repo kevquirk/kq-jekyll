@@ -2,9 +2,8 @@
 id: 5346
 title: Why I Have A Blog
 date: 2020-04-22T12:10:00+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5346'
 permalink: /why-i-have-a-blog/
 categories:
   - Notes

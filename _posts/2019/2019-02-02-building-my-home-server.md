@@ -42,7 +42,7 @@ So I went shopping again and bought an ITX rig with the following specs:
   * 1TB HDD for media (Synology donor)
   * 1TB USB HDD for local backups (Synology donor)
 
-<img loading="lazy" width="1000" height="750" src="/assets/images/wp-images/2019/11/server-hardware.jpg" alt="" class="wp-image-188" srcset="/assets/images/wp-images/2019/11/server-hardware.jpg 1000w, /assets/images/wp-images/2019/11/server-hardware-300x225.jpg 300w, /assets/images/wp-images/2019/11/server-hardware-768x576.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />  
+![](/assets/images/server-hardware.jpg)
 
 ## The software {#h-the-software}
 

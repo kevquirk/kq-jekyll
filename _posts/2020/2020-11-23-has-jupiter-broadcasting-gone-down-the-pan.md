@@ -2,9 +2,8 @@
 id: 5366
 title: Has Jupiter Broadcasting Gone Down The Pan?
 date: 2020-11-23T12:20:00+00:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5366'
 permalink: /has-jupiter-broadcasting-gone-down-the-pan/
 categories:
   - Notes
@@ -13,7 +12,7 @@ I feel like Jupiter Broadcasting (<a href="https://jupiterbroadcasting.com" targ
 
 For example, I just listened to <a rel="noreferrer noopener" href="https://www.jupiterbroadcasting.com/143452/linux-action-news-164/" target="_blank">the latest Linux Action News</a>, which is 29 minutes long. That episode includes two adverts. The first is for Linode, which is 3 minutes long (09:00 &#8211; 12:05), and the other for Ting which is 2 minutes long (20:35 &#8211; 22:35).
 
-<p class="has-medium-font-size">
+<p class="tldr">
   That&#8217;s 5 minutes of adverts in a 29 minute show!
 </p>
 

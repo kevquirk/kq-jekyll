@@ -2,22 +2,21 @@
 id: 4942
 title: 'My Thoughts On Richard Stallman&#8217;s Return To the FSF Board'
 date: 2021-03-22T12:53:34+00:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=4942
 permalink: /my-thoughts-on-richard-stallmans-return-to-the-fsf-board/
 description:
   - Richard Stallman has re-joined the board of the Free Software Foundation (FSF) here's my thoughts on the whole thing.
 categories:
   - Opinion
 ---
-<p class="has-medium-font-size">
+<p class="tldr">
   If you haven&#8217;t heard, Richard Stallman recently announced that he will be returning to the board of directors of the <a href="https://www.fsf.org/" target="_blank" rel="noreferrer noopener">Free Software Foundation</a> (FSF).
 </p>
 
 In case you missed it, here&#8217;s the announcement from the man himself:
 
-<video controls src="/assets/images/wp-images/2021/03/stallman-is-back.mp4"></video>
+<video controls src="/_assets/images/stallman-is-back.mp4"></video>
 
 ## My thoughts on Richard Stallman {#h-my-thoughts-on-richard-stallman}
 

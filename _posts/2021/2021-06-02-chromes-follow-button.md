@@ -2,11 +2,9 @@
 id: 5692
 title: Chrome’s Follow Button
 date: 2021-06-02T23:27:35+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5692'
 permalink: /chromes-follow-button/
-image: /assets/images/wp-images/uploads/2021/06/default-feature.png
 categories:
   - Notes
 ---

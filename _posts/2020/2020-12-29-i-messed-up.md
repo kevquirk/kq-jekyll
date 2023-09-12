@@ -2,9 +2,8 @@
 id: 4263
 title: I Messed Up
 date: 2020-12-29T16:17:00+00:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=4263
 permalink: /i-messed-up/
 description:
   - You may have noticed that something changed with my site today...yeah, sorry about that - I messed up and published a development site.

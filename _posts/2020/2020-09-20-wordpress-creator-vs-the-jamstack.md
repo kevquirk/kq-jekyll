@@ -2,9 +2,8 @@
 id: 2968
 title: WordPress Creator Vs The Jamstack
 date: 2020-09-20T15:11:58+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=2968
 permalink: /wordpress-creator-vs-the-jamstack/
 categories:
   - Opinion

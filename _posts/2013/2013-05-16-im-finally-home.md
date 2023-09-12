@@ -28,6 +28,7 @@ Elementary Luna is an operating system that is very loosely based on Ubuntu. How
 
 Elementary OS Luna Beta 2 is so stable that I think if it were an Ubuntu release, the Canonical team would have no problem in calling this a stable, or even LTS release. It’s a great operating system and I can’t recommend it enough. I’ve migrated all of my machines over to it and I will be here for a long time to come yet I think!
 
-## Long live Linux!
+{: .medium}
+Long live Linux!
 
 ***NOTE:** Even though Luna is extremely stable and awesome. It’s still a development release. Just because I’ve had positive experiences of Luna doesn’t mean that yours will be the same. So if you install this OS and your machine blows up, you cannot blame anyone but yourself.*

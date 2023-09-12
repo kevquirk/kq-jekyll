@@ -2,9 +2,8 @@
 id: 4772
 title: The Wonderful World Of WordPress Wizardry For Working With Websites
 date: 2021-03-07T15:44:44+00:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=4772
 permalink: /the-wonderful-world-of-wordpress-wizardry-for-working-with-websites/
 description:
   - A month ago I flipped back from Jekyll to WordPress and nobody noticed. That, my friends, is how performant WordPress can be.

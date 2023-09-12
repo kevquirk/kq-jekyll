@@ -16,7 +16,7 @@ I think this is probably an obvious step; but you need to sign up for an instanc
 
 The only thing you need in order to sign up for an account on Mastodon, is a valid email address. This is because a validation email is sent to your email address and you need to click a link to activate. This is purely to try and reduce spam bot accounts.
 
-<img loading="lazy" width="790" height="517" src="/assets/images/wp-images/2019/11/Fosstodon-Signup.png" alt="" class="wp-image-254" srcset="/assets/images/wp-images/2019/11/Fosstodon-Signup.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Signup-300x196.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Signup-768x503.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![Fosstodon signup](/assets/images/Fosstodon-Signup.webp)  
 
 Once you have chosen a username and entered your email address and password, hit the `Sign up` button. You will then receive an activation link in to your mailbox. If you don’t, check your spam folder. Once you have verified your email, it’s time to log in and see what’s happening.
 
@@ -26,11 +26,11 @@ The first time you log in to your new Mastodon, you will be taken through a quic
 
 Once you have gone through the wizard, you are then greeted with the Mastodon UI. It will likely look pretty barren to begin with, but hopefully that will change after some usage.
 
-<img loading="lazy" width="790" height="409" src="/assets/images/wp-images/2019/11/Fosstodon-Default-UI.png" alt="" class="wp-image-255" srcset="/assets/images/wp-images/2019/11/Fosstodon-Default-UI.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Default-UI-300x155.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Default-UI-768x398.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![](/assets/images/Fosstodon-Default-UI.webp)
 
 So let’s break down the UI into its sections and explain what they are. Once we have a better understanding, we can start looking at setting things up just how we want them.
 
-<img loading="lazy" width="790" height="409" src="/assets/images/wp-images/2019/11/Fosstodon-UI-Sections.png" alt="" class="wp-image-256" srcset="/assets/images/wp-images/2019/11/Fosstodon-UI-Sections.png 790w, /assets/images/wp-images/2019/11/Fosstodon-UI-Sections-300x155.png 300w, /assets/images/wp-images/2019/11/Fosstodon-UI-Sections-768x398.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![](/assets/images/Fosstodon-UI-Sections.webp)
 
 ## User Area {#h-user-area}
 
@@ -44,15 +44,14 @@ Let’s start by editing our profile. To do this, click on the `Edit profile` li
   * Lock your account so you have to approve any follow requests from other users.
   * Set profile metadata – these are basically links to other places on the Internet. Useful for other social accounts or websites.
 
-<p class="has-white-color has-blue-background-color has-text-color has-background">
-  <strong>Side note:</strong> I’d suggest you upload an avatar as soon as possible, as accounts without avatars are less personable and tend to look like spam accounts. Especially if you have chosen an obscure username. Here’s my profile after a little editing:
-</p>
+{: .notice}
+I’d suggest you upload an avatar as soon as possible, as accounts without avatars are less personable and tend to look like spam accounts. Especially if you have chosen an obscure username.
 
-<img loading="lazy" width="790" height="409" src="/assets/images/wp-images/2019/11/Fosstodon-Profile-Edit.png" alt="" class="wp-image-257" srcset="/assets/images/wp-images/2019/11/Fosstodon-Profile-Edit.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Profile-Edit-300x155.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Profile-Edit-768x398.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![](/assets/images/Fosstodon-Profile-Edit.webp)
 
 As well as editing our profile, we can also use the User Area to search for other people or hashtags within the Fediverse, as well as composing Toots; but more on that later.
 
-<img loading="lazy" width="790" height="409" src="/assets/images/wp-images/2019/11/Fosstodon-Search-Results.png" alt="" class="wp-image-258" srcset="/assets/images/wp-images/2019/11/Fosstodon-Search-Results.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Search-Results-300x155.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Search-Results-768x398.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![](/assets/images/Fosstodon-Search-Results.webp)
 
 ## Home Feed {#h-home-feed}
 
@@ -68,9 +67,7 @@ Again, this one is pretty self-explanatory really as it works in much the same w
 
 You will receive a notification when someone interacts with your account. That could be a new follower, a boost or like of one of your Toots, an `@mention`, or a reply to one of your Toots. Oh look, I got a mention!
 
-<div class="wp-block-image">
-  <img loading="lazy" width="204" height="343" src="/assets/images/wp-images/2019/11/Fosstodon-Mention-Notification.png" alt="" class="wp-image-264" srcset="/assets/images/wp-images/2019/11/Fosstodon-Mention-Notification.png 204w, /assets/images/wp-images/2019/11/Fosstodon-Mention-Notification-178x300.png 178w" sizes="(max-width: 204px) 100vw, 204px" />
-</div>
+![](/assets/images/Fosstodon-Mention-Notification.webp)
 
 As you can see in the image above, Mike mentioned me in a Toot, so that shows up in my Notifications, but it also shows in my Home Feed as I’m following Mike.
 
@@ -80,7 +77,7 @@ The last part of the Mastodon UI is the Getting Started section. From here you c
 
 If you click on the Local or Federated Timeline links, the Getting Started section will turn in to a feed of those timelines. Here is the local timeline from Fosstodon:
 
-<img loading="lazy" width="790" height="409" src="/assets/images/wp-images/2019/11/Fosstodon-Local-Timeline.png" alt="" class="wp-image-260" srcset="/assets/images/wp-images/2019/11/Fosstodon-Local-Timeline.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Local-Timeline-300x155.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Local-Timeline-768x398.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![](/assets/images/Fosstodon-Local-Timeline.webp)
 
 The Local and Federated Timelines are a great place for new users to start hunting for people to follow. If at any point you want to go back to the Getting Started section, you simply need to click on the `Back` link at the top of the timeline.
 
@@ -90,11 +87,11 @@ Now, you may well decide, for example, that you want to always have the Local Ti
 
 First, click on the `Settings Icon` next to the Back link. A popup will then appear that will allow you to pin that feed. Once done, that feed will be permanently displayed and the Getting Started section will shift over to a new section.
 
-<img loading="lazy" width="790" height="409" src="/assets/images/wp-images/2019/11/Fosstodon-Pin.png" alt="" class="wp-image-261" srcset="/assets/images/wp-images/2019/11/Fosstodon-Pin.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Pin-300x155.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Pin-768x398.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  <img loading="lazy" width="790" height="327" src="/assets/images/wp-images/2019/11/Fosstodon-Pin-2.png" alt="" class="wp-image-262" srcset="/assets/images/wp-images/2019/11/Fosstodon-Pin-2.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Pin-2-300x124.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Pin-2-768x318.png 768w" sizes="(max-width: 790px) 100vw, 790px" />
+![](/assets/images/Fosstodon-Pin.webp)
 
 If you wish, you can also re-order the sections that you have pinned by using the left and right arrows within the same settings popup that you use to pin a section. If you want to remove a section, simply reverse the process above.
 
-<img loading="lazy" width="790" height="412" src="/assets/images/wp-images/2019/11/Fosstodon-Pin-3.png" alt="" class="wp-image-263" srcset="/assets/images/wp-images/2019/11/Fosstodon-Pin-3.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Pin-3-300x156.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Pin-3-768x401.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![](/assets/images/Fosstodon-Pin-3.webp) 
 
 ## Composing Toots {#h-composing-toots}
 
@@ -113,7 +110,7 @@ These work in a similar way to Twitter. If you want to mention another person th
 
 Lucky for you Mastodon has an auto-complete feature when it detects an @mention, so you won’t need to remember the username and instance of everyone you want to mention. Better still, the auto-complete checks both people’s username and their display name.
 
-<img loading="lazy" width="790" height="412" src="/assets/images/wp-images/2019/11/Fosstodon-Mention.png" alt="" class="wp-image-259" srcset="/assets/images/wp-images/2019/11/Fosstodon-Mention.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Mention-300x156.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Mention-768x401.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![](/assets/images/Fosstodon-Mention.webp)
 
 ### Media {#h-media}
 
@@ -123,7 +120,7 @@ Hashtags work in the exact same way as Twitter – just use #YourHastag within y
 
 If you want to add an image (or multiple images) to your Toots, just hit the camera icon.
 
-<img loading="lazy" width="790" height="412" src="/assets/images/wp-images/2019/11/Fosstodon-Media.png" alt="" class="wp-image-265" srcset="/assets/images/wp-images/2019/11/Fosstodon-Media.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Media-300x156.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Media-768x401.png 768w" sizes="(max-width: 790px) 100vw, 790px" />  
+![](/assets/images/Fosstodon-Media.webp)
 
 Media can also be marked as sensitive using the Eye icon. This will hide the image behind a Content Wall explaining that the image is sensitive and that they need to click in order to view the image. This can be useful when posting images that could be offensive to some people.
 
@@ -133,17 +130,13 @@ You can set the privacy of all the Toots you send; to do this, use the globe ico
 
 **Full disclosure** – even for direct messages, your Toots are not completely private; the instance admins can see these within the admin interface also. This is to stop spam and abuse within private messages. However, most instance admins will not look at user DMs unless one is reported.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="790" height="450" src="/assets/images/wp-images/2019/11/Fosstodon-Privacy.png" alt="" class="wp-image-266" srcset="/assets/images/wp-images/2019/11/Fosstodon-Privacy.png 790w, /assets/images/wp-images/2019/11/Fosstodon-Privacy-300x171.png 300w, /assets/images/wp-images/2019/11/Fosstodon-Privacy-768x437.png 768w" sizes="(max-width: 790px) 100vw, 790px" />
-</div>
+![](/assets/images/Fosstodon-Privacy.webp)
 
 Content Walls are another way of ensuring your Toots stay somewhat private, in that other users will need to click an approval before being shown your Toot. This comes in useful when posting things that could be controversial, such as politics, religion or things like movie spoilers.
 
 When posting behind a Content Wall, you can set a title/summary, but the bulk of your Toot is hidden behind the wall and people who see the Toot will only see a message asking them to click to view more.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="790" height="450" src="/assets/images/wp-images/2019/11/Fosstodon-CW.png" alt="" class="wp-image-267" srcset="/assets/images/wp-images/2019/11/Fosstodon-CW.png 790w, /assets/images/wp-images/2019/11/Fosstodon-CW-300x171.png 300w, /assets/images/wp-images/2019/11/Fosstodon-CW-768x437.png 768w" sizes="(max-width: 790px) 100vw, 790px" />
-</div>
+![](/assets/images/Fosstodon-CW.webp)
 
 ## Final Thoughts {#h-final-thoughts}
 

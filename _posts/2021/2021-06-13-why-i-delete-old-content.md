@@ -2,13 +2,11 @@
 id: 5774
 title: Why I Delete Old Content
 date: 2021-06-13T15:04:03+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=5774
 permalink: /why-i-delete-old-content/
 description:
   - I regularly delete content from Twitter, Mastodon and this blog. This may seem strange to many people, so this post explains why I do that.
-image: /assets/images/wp-images/uploads/2021/06/delete-old-content-feature.png
 categories:
   - Opinion
   - Privacy

@@ -1,10 +1,7 @@
 ---
-id: 269
 title: How Does Mastodon Work?
 date: 2020-06-11T11:54:00+01:00
-author: Kev Quirk
 layout: post
-guid: https://kevq.uk/?p=269
 permalink: /how-does-mastodon-work/
 description:
   - Mastodon is a de-centralised Twitter-like social network, but it can be confusing to get started. This post answers the question, how does Mastodon work?
@@ -14,7 +11,7 @@ categories:
 {: .notice}
   &#8220;How Does Mastodon Work?&#8221; was originally written on 04th August 2018, but I have updated it on 11th June 2020.
 
-**Before going through this post, I&#8217;d recommend reading my post on [getting started with Mastodon](/getting-started-with-mastodon/).**
+**Before going through this post, I'd recommend reading my post on [getting started with Mastodon](/getting-started-with-mastodon/).**
 
 I’ve spoken about [Mastodon](https://joinmastodon.org) numerous times on this blog. It is the social media platform I use more than any other, but for a new user it can be confusing because it doesn’t work like other social media sites.
 
@@ -30,9 +27,7 @@ Let’s start with the basics; Mastodon works like Twitter, but with a few key d
   * You can set the privacy of a Toot. The default is public, but they can also be unlisted, follower only, or direct.
   * You can also `@mention` other users, as well as add media, links and hashtags to your Toots.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="475" height="713" src="/assets/images/wp-images/2018/08/mastodon-new-toot-privacy.png" alt="Mastodon new toot privacy" class="wp-image-2396" srcset="/assets/images/wp-images/2018/08/mastodon-new-toot-privacy.png 475w, /assets/images/wp-images/2018/08/mastodon-new-toot-privacy-200x300.png 200w" sizes="(max-width: 475px) 100vw, 475px" />
-</div>
+![](/assets/images/mastodon-new-toot-privacy.png)
 
 ### Reply {#h-reply}
 
@@ -52,9 +47,7 @@ You can also favourite a Toot. Which basically means that you support or agree w
 
 All Toots have a set of icons below them that allow you reply, boost or favourite. The icons look like this:
 
-<div class="wp-block-image">
-  <img loading="lazy" width="1024" height="608" src="/assets/images/wp-images/2018/08/mastodon-toot-actions-1024x608.jpg" alt="Mastodon toot actions" class="wp-image-2397" srcset="/assets/images/wp-images/2018/08/mastodon-toot-actions-1024x608.jpg 1024w, /assets/images/wp-images/2018/08/mastodon-toot-actions-300x178.jpg 300w, /assets/images/wp-images/2018/08/mastodon-toot-actions-768x456.jpg 768w, /assets/images/wp-images/2018/08/mastodon-toot-actions.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />
-</div>
+![](/assets/images/mastodon-toot-actions.jpg)
 
 ## The Fediverse {#h-the-fediverse}
 
@@ -70,7 +63,7 @@ Here’s a quick video that introduces the concept of Mastodon’s federation:
 
 <iframe width="100%" height="350px" src="https://www.youtube-nocookie.com/embed/IPSbNdBmWKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To explain Mastodon federation a little better, I’m going to use email as an analogy &#8211; hopefully this will make things easier to digest.
+To explain Mastodon federation a little better, I’m going to use email as an analogy - hopefully this will make things easier to digest.
 
 The Mastodon network is made up of individual servers, called Instances. If we use our email analogy; think of Mastodon as email as a whole. So if Mastodon is “email”, then an Instance would be an email provider. For example, Gmail, Hotmail, or Zoho.
 
@@ -86,15 +79,11 @@ But what if I want to mention someone else on another Mastodon instance? Well, I
 
 For example, I interact with [Basil](https://sarcasm.stream/@basil) quite a lot on Mastodon, but he’s on a different instance to me. So if I want to mention him in a Toot, I would add `@basil@sarcasm.stream` to my Toot. If Basil wanted to mention me, he would add `@kev@fosstodon.org` to his Toot.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="438" height="445" src="/assets/images/wp-images/2018/08/mention-basil-toot.png" alt="Mention Basil in a toot" class="wp-image-2398" srcset="/assets/images/wp-images/2018/08/mention-basil-toot.png 438w, /assets/images/wp-images/2018/08/mention-basil-toot-295x300.png 295w" sizes="(max-width: 438px) 100vw, 438px" />
-</div>
+![](/assets/images/mention-basil-toot.png)
 
 Don’t worry about having to remember people’s username and instance names though. Mastodon has an auto-complete feature that helps to populate a person’s handle/instance once you start typing an `@mention`.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="438" height="566" src="/assets/images/wp-images/2018/08/basil-mention-autocomplete.jpg" alt="Basil mention auto-complete" class="wp-image-2399" srcset="/assets/images/wp-images/2018/08/basil-mention-autocomplete.jpg 438w, /assets/images/wp-images/2018/08/basil-mention-autocomplete-232x300.jpg 232w" sizes="(max-width: 438px) 100vw, 438px" />
-</div>
+![](/assets/images/basil-mention-autocomplete.jpg)
 
 ## How do instances connect? {#h-how-do-instances-connect}
 
@@ -106,9 +95,13 @@ Instance A may not be aware of instance B, but if a user on instance A follows a
 
 Furthermore, instance A may not have known that instance C existed, but B did. So a user in instance A could then follow a user on instance C, at which point instances A and C are also federated.
 
-I know that&#8217;s difficult to follow in text, so let&#8217;s break it down with a few diagrams:
+I know that's difficult to follow in text, so let's break it down with a few diagrams:
 
-<img loading="lazy" width="1024" height="608" src="/assets/images/wp-images/2018/08/instance-a-b-federation-1024x608.jpg" alt="Instance A to B federation" class="wp-image-2400" srcset="/assets/images/wp-images/2018/08/instance-a-b-federation-1024x608.jpg 1024w, /assets/images/wp-images/2018/08/instance-a-b-federation-300x178.jpg 300w, /assets/images/wp-images/2018/08/instance-a-b-federation-768x456.jpg 768w, /assets/images/wp-images/2018/08/instance-a-b-federation.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />  <img loading="lazy" width="1024" height="608" src="/assets/images/wp-images/2018/08/instance-b-c-federation-1024x608.jpg" alt="Instance B to C federation" class="wp-image-2401" srcset="/assets/images/wp-images/2018/08/instance-b-c-federation-1024x608.jpg 1024w, /assets/images/wp-images/2018/08/instance-b-c-federation-300x178.jpg 300w, /assets/images/wp-images/2018/08/instance-b-c-federation-768x456.jpg 768w, /assets/images/wp-images/2018/08/instance-b-c-federation.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /> <img loading="lazy" width="1024" height="608" src="/assets/images/wp-images/2018/08/instance-a-b-c-federation-1024x608.jpg" alt="Instance A, B & C federation" class="wp-image-2402" srcset="/assets/images/wp-images/2018/08/instance-a-b-c-federation-1024x608.jpg 1024w, /assets/images/wp-images/2018/08/instance-a-b-c-federation-300x178.jpg 300w, /assets/images/wp-images/2018/08/instance-a-b-c-federation-768x456.jpg 768w, /assets/images/wp-images/2018/08/instance-a-b-c-federation.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![](/assets/images/instance-a-b-federation.jpg)
+
+![](/assets/images/instance-b-c-federation.jpg)
+
+![](/assets/images/instance-a-b-c-federation.jpg)
 
 This process goes on and on, which causes a snowball effect of exponential growth of the Fediverse.
 
@@ -124,7 +117,7 @@ Talking of potentially offensive Toots, that brings us quite nicely onto the nex
 
 ## Moderation tools {#h-moderation-tools}
 
-If you find something you don’t want to see on Mastodon, there are a number of ways to deal with it. If the Toot is particularly egregious, I would recommend reporting the Toots to your instance&#8217;s staff. They can then review the report and take appropriate action.
+If you find something you don’t want to see on Mastodon, there are a number of ways to deal with it. If the Toot is particularly egregious, I would recommend reporting the Toots to your instance's staff. They can then review the report and take appropriate action.
 
 If you feel that a Toot is just something that you would rather not see, then there are personal moderation options available on Mastodon too.
 
@@ -134,25 +127,21 @@ You can see all moderation options using the three dots icon below any Toot. Wit
   * **Block** – This will prevent that account from being able to interact with you. It will also Mute their Toots.
   * **Report** – This will send a report to the staff of an Instance. They should then review the report and take appropriate action. This can be no action, a warning to the user, or banning them from the Instance.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="835" height="851" src="/assets/images/wp-images/2018/08/mastodon-personal-moderation-options.jpg" alt="Personal moderation options" class="wp-image-2406" srcset="/assets/images/wp-images/2018/08/mastodon-personal-moderation-options.jpg 835w, /assets/images/wp-images/2018/08/mastodon-personal-moderation-options-294x300.jpg 294w, /assets/images/wp-images/2018/08/mastodon-personal-moderation-options-768x783.jpg 768w" sizes="(max-width: 835px) 100vw, 835px" />
-</div>
+![](/assets/images/mastodon-personal-moderation-options.jpg)
 
-_Don&#8217;t worry Yarmo, I&#8217;m not going to block you!_ 🙂
+_Don't worry Yarmo, I'm not going to block you!_ 🙂
 
 ### Filters {#h-filters}
 
-You can&#8217;t really talk about how Mastodon moderation works without talking about filters.
+You can't really talk about how Mastodon moderation works without talking about filters.
 
-Filters are great, because they allow you to filter out certain keywords globally. This can be swear words, or just topics you don&#8217;t&#8217; want to hear about.
+Filters are great, because they allow you to filter out certain keywords globally. This can be swear words, or just topics you don't' want to hear about.
 
-For example, when COVID-19 first started there was **lots** of chatter about it on the Fediverse. I totally understand why, but I didn&#8217;t really want to read about it on Mastodon, so I decided to filter it out until things died down.
+For example, when COVID-19 first started there was **lots** of chatter about it on the Fediverse. I totally understand why, but I didn't really want to read about it on Mastodon, so I decided to filter it out until things died down.
 
 I also filter out the `#WeAreNameless` hashtag, mainly because I find it confusing. To add a filter, just go to `yourinstance.com/filters`
 
-<div class="wp-block-image">
-  <img loading="lazy" width="1024" height="591" src="/assets/images/wp-images/2020/06/mastodon-filters-1024x591.png" alt="Mastodon filters" class="wp-image-2407" srcset="/assets/images/wp-images/2020/06/mastodon-filters-1024x591.png 1024w, /assets/images/wp-images/2020/06/mastodon-filters-300x173.png 300w, /assets/images/wp-images/2020/06/mastodon-filters-768x443.png 768w, /assets/images/wp-images/2020/06/mastodon-filters.png 1216w" sizes="(max-width: 1024px) 100vw, 1024px" />
-</div>
+![](/assets/images/mastodon-filters.png)
 
 ## Why Mastodon? {#h-why-mastodon}
 
@@ -215,8 +204,8 @@ However, if you want to check out all the other apps that are available, includi
 
 Hopefully by now you have a decent grasp on how Mastodon works. Mastodon is awesome; it’s full of friendly, interesting people. There is no tracking and no adverts which is bonus.
 
-Like most social sites, there are trolls out there &#8211; it wouldn&#8217;t be the Internet without them! But the moderation tools within Mastodon make it a great place to be generally.
+Like most social sites, there are trolls out there - it wouldn't be the Internet without them! But the moderation tools within Mastodon make it a great place to be generally.
 
-Hopefully this guide will help get you started with Mastodon, but if you have any other questions that this guide doesn’t cover, feel free to leave a comment below, [or get in touch](https://kevq.uk/contact/), and I’ll do my best to help.
+Hopefully this guide will help get you started with Mastodon, but if you have any other questions that this guide doesn’t cover, feel free to leave a comment below, [or get in touch](/contact/), and I’ll do my best to help.
 
 Finally, if you’re already on Mastodon and want to follow me, you can do so [here](https://fosstodon.org/@kev).

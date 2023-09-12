@@ -7,12 +7,9 @@ layout: default
 
   {% assign paginator = page.paginator %}
   {% for post in paginator.posts limit:paginator.per_page %}
-    <div class="post-list brutal-shadow" aria-labe="{{ post.title }}" href="{{ post.url }}">
-    <a href="{{ post.url }}" aria-label="Link to post"><span class="post-link"></span></a>
-      <div class="post-list-inner-container">
-        <h2>{{ post.title }}</h2>
-        <p class="post-date">{{ post.date | date_to_string }}</p>
-      </div>
+    <div class="post-list">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-date">{{ post.date | date_to_string }}</p>
     </div>
   {% endfor %}
 </main>

@@ -2,9 +2,8 @@
 id: 2939
 title: The Apple Walled Garden
 date: 2020-09-30T19:05:18+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=2939
 permalink: /the-apple-walled-garden/
 description:
   - I recently posted about my new Apple Watch and I got some feedback about the Apple walled garden. Here are my thoughts on the matter.
@@ -12,7 +11,7 @@ categories:
   - Opinion
   - Technology
 ---
-<p class="has-medium-font-size">
+<p class="tldr">
   I recently posted about my new <a href="https://fosstodon.org/web/statuses/104881838711030743" target="_blank" rel="noreferrer noopener">Apple Watch on Fosstodon</a>. I assumed I&#8217;d get some feedback about the <em>Apple walled garden</em>, so I wanted to take some time to elaborate on my thoughts about the walled garden.
 </p>
 
@@ -39,7 +38,7 @@ After getting my first iPhone, it quickly became apparent to me that there was n
 
 Before switching I honestly had the impression that I would have to use Apple&#8217;s official apps and nothing else &#8211; I would be stuck in their lovely walled garden forever.
 
-<p class="has-medium-font-size">
+<p class="tldr">
   That&#8217;s complete bullshit.
 </p>
 

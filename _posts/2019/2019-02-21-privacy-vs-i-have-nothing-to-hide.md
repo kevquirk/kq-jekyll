@@ -10,15 +10,10 @@ I wrote an article a while ago about [why I’m ditching Android](/why-im-ditchi
 
 I want to take some time in this article to explain why each and every one of us has something to hide and should probably take privacy seriously.
 
-![Nothing to hide comment](/assets/images/wp-images/2019/11/hide-comment.jpg)
+![Nothing to hide comment](/assets/images/hide-comment.jpg)
 
-<blockquote class="wp-block-quote">
-  <p>
-    Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.
-  </p>
-
-  <cite>Edward Snowden </cite>
-</blockquote>
+> Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.
+><cite>Edward Snowden</cite>
 
 ## Privacy vs Security {#h-privacy-vs-security}
 
@@ -26,13 +21,8 @@ I wouldn’t want the world to know the details of the text conversations I have
 
 A lack of privacy tends to lead to a lack of candidness. If there’s one person in the world I should be able to be candid with, it’s my wife. But I wouldn’t be able to be candid with her if I thought our conversations were not private.
 
-<blockquote class="wp-block-quote">
-  <p>
-    No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
-  </p>
-
-  <cite>Article 12 of the <a href="http://www.un.org/en/universal-declaration-human-rights">Universal Declaration of Human Rights</a> </cite>
-</blockquote>
+> No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
+> <cite>Article 12 of the <a href="http://www.un.org/en/universal-declaration-human-rights">Universal Declaration of Human Rights</a></cite>
 
 ## Data Privacy {#h-data-privacy}
 
@@ -42,7 +32,7 @@ Please read that last paragraph again and let it sink in – that is probably mo
 
 [PayPal’s terms and conditions are longer than Hamlet](https://conversation.which.co.uk/technology/length-of-website-terms-and-conditions). The vast majority of people will not have the time, or inclination, to read and decipher thousands of words in legalese to work out where their data is going. Ipso facto, this data is being shared without our consent, regardless of whether we have accepted the terms and conditions or not.
 
-<img loading="lazy" width="848" height="398" src="/assets/images/wp-images/2019/11/tandc-hamlet.jpg" alt="" class="wp-image-386" srcset="/assets/images/wp-images/2019/11/tandc-hamlet.jpg 848w, /assets/images/wp-images/2019/11/tandc-hamlet-300x141.jpg 300w, /assets/images/wp-images/2019/11/tandc-hamlet-768x360.jpg 768w" sizes="(max-width: 848px) 100vw, 848px" />  
+![](/assets/images/tandc-hamlet.jpg) 
 
 If someone came up to you in the street, said they’re from an online service provider and requested you store all of the above data about you with them, I imagine for many the answer would be a resounding NO!
 
@@ -54,7 +44,7 @@ Plus, being bigger often makes them a bigger target. Just look at the [celebrity
 
 The image below shows my movements on Google Maps from 2014. I had no idea I was agreeing to be tracked with such veracity. The details show exactly where I went and when during a day off when I was running errands.
 
-<img loading="lazy" width="1024" height="470" src="/assets/images/wp-images/2019/11/Google-Tracking-1024x470.jpg" alt="" class="wp-image-387" srcset="/assets/images/wp-images/2019/11/Google-Tracking-1024x470.jpg 1024w, /assets/images/wp-images/2019/11/Google-Tracking-300x138.jpg 300w, /assets/images/wp-images/2019/11/Google-Tracking-768x353.jpg 768w, /assets/images/wp-images/2019/11/Google-Tracking-1536x705.jpg 1536w, /assets/images/wp-images/2019/11/Google-Tracking.jpg 1599w" sizes="(max-width: 1024px) 100vw, 1024px" />
+![](/assets/images/Google-Tracking.jpg)
 
 This may seem fairly benign to most, but what if Google were compromised and this data was leaked? An attacker would be able to pattern exactly where I go, when I’m likely to be out of the house and places I frequent.
 
@@ -68,7 +58,7 @@ That’s bad enough already, but what about 10 years from now? What if this tren
 
 Or what about your posts on social media? Remember the student who was fired from KFC for pretending to lick a tub of mash potato before posting a picture on Facebook?
 
-<img loading="lazy" width="634" height="890" src="/assets/images/wp-images/2019/11/kfc-fired.jpg" alt="" class="wp-image-388" srcset="/assets/images/wp-images/2019/11/kfc-fired.jpg 634w, /assets/images/wp-images/2019/11/kfc-fired-214x300.jpg 214w" sizes="(max-width: 634px) 100vw, 634px" />  
+![](/assets/images/kfc-fired.jpg)
 
 Funny, right? But this picture will haunt this person for the rest of her life. She will always be _that girl who was fired from KFC for licking the mashed potato_. That’s out there. Forever.
 

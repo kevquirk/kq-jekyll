@@ -17,7 +17,7 @@ There’s a lot to like about Elementary OS Juno; the default theme is nothing s
 
 I also really like the stock apps that Juno has. The Elementary team have been working really hard with developers to create a load of curated apps that abide by the Elementary style guide, so the experience is really crisp.
 
-<img loading="lazy" width="1024" height="698" src="/assets/images/wp-images/2019/11/Juno-App-Centre-1024x698.png" alt="" class="wp-image-138" srcset="/assets/images/wp-images/2019/11/Juno-App-Centre-1024x698.png 1024w, /assets/images/wp-images/2019/11/Juno-App-Centre-300x205.png 300w, /assets/images/wp-images/2019/11/Juno-App-Centre-768x524.png 768w, /assets/images/wp-images/2019/11/Juno-App-Centre.png 1258w" sizes="(max-width: 1024px) 100vw, 1024px" />  
+![](/assets/images/Juno-App-Centre.webp)
 
 Overall, Elementary OS Juno has everything a normal user needs to get going quickly – you don’t even need to touch the terminal if you don’t want to. However, for me personally, this simplicity has caused some initial frustrations, but they’re small and easy to overcome.
 
@@ -27,7 +27,7 @@ Personally, I like to have a dark theme on my computers so that my eye’s aren�
 
 You can install [Elementary Tweaks](https://github.com/elementary-tweaks/elementary-tweaks) which will has an option to “prefer dark mode” for any apps that support it, but there is no system-wide option for a dark theme.
 
-<img loading="lazy" width="1008" height="718" src="/assets/images/wp-images/2019/11/Juno-Night-Light.png" alt="" class="wp-image-139" srcset="/assets/images/wp-images/2019/11/Juno-Night-Light.png 1008w, /assets/images/wp-images/2019/11/Juno-Night-Light-300x214.png 300w, /assets/images/wp-images/2019/11/Juno-Night-Light-768x547.png 768w" sizes="(max-width: 1008px) 100vw, 1008px" />  
+![](/assets/images/Juno-Night-Light.webp)
 
 ## App Purchases {#h-app-purchases}
 
@@ -35,9 +35,7 @@ I mentioned earlier that the Elementary team have a load of curated apps that us
 
 This is all great, and I am NOT one of those people who thinks open source developers should be giving their time up for free – we should definitely be supporting these people financially where possible. However, I couldn’t seem to find an option to backup or sync any purchases that I have made. So if it comes to reinstalling Juno, I think I would have to re-purchase any apps that I have bought.
 
-<p class="has-grey-color has-orange-background-color has-text-color has-background">
-  <em><strong>Comment</strong>: Can anyone from the Elementary team confirm in the comments if it’s possible to backup purchases, and if there is a plan in place to make this task trivial?</em>
-</p>
+**Can anyone from the Elementary team** confirm in the comments if it’s possible to backup purchases, and if there is a plan in place to make this task trivial?
 
 At first this annoyed me, but I then realised that Juno has a Night Light feature that will add an orange hue to the screen as it gets dark. This seems to have satisfied the issue of not having a global dark theme.
 
@@ -47,9 +45,7 @@ That’s right. There’s no system tray in Elementary OS Juno by default. I hav
 
 There’s just no functionality in place within Juno to support system tray icons and that seems crazy to me. Luckily though (thanks to the awesome community on [Fosstodon](https://fosstodon.org)) I was able to add the functionality back with relative ease. [Here is a link to the fix](https://github.com/mdh34/elementary-indicators) that worked for me.
 
-<div class="wp-block-image">
-  <img loading="lazy" width="499" height="43" src="/assets/images/wp-images/2019/11/Juno-System-Tray.png" alt="" class="wp-image-136" srcset="/assets/images/wp-images/2019/11/Juno-System-Tray.png 499w, /assets/images/wp-images/2019/11/Juno-System-Tray-300x26.png 300w" sizes="(max-width: 499px) 100vw, 499px" />
-</div>
+![](/assets/images/Juno-System-Tray.webp)
 
 ## Will I keep Juno? {#h-will-i-keep-juno}
 
@@ -57,7 +53,7 @@ I’ve installed Elementary OS Juno on my ThinkPad, which is my main workhorse. 
 
 But now I’ve got my system working how I want it, I’m pretty happy overall with Juno. There are some workflow changes that I’m getting used to, but the whole experience is really pleasant.
 
-<img loading="lazy" width="900" height="506" src="/assets/images/wp-images/2019/11/Juno-Desktop.jpg" alt="" class="wp-image-137" srcset="/assets/images/wp-images/2019/11/Juno-Desktop.jpg 900w, /assets/images/wp-images/2019/11/Juno-Desktop-300x169.jpg 300w, /assets/images/wp-images/2019/11/Juno-Desktop-768x432.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />  
+![](/assets/images/Juno-Desktop.webp)
 
 Overall, I think I will be keeping Juno on my laptop for the time being. Whether it will be a long-term investment and make it on to my other machines, time will tell.
 

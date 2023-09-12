@@ -2,9 +2,8 @@
 id: 6265
 title: Killing The Meta Letter
 date: 2021-07-29T12:43:01+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=6265'
 permalink: /killing-the-meta-letter/
 categories:
   - Notes

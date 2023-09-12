@@ -2,9 +2,8 @@
 id: 1960
 title: My Approach To My Career
 date: 2020-05-14T11:25:30+01:00
-author: Kev Quirk
+
 layout: post
-guid: https://kevq.uk/?p=1960
 permalink: /my-approach-to-my-career/
 categories:
   - Opinion

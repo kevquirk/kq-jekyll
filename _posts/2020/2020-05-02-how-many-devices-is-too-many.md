@@ -2,9 +2,8 @@
 id: 5354
 title: How Many Devices Is Too Many?
 date: 2020-05-02T12:13:00+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5354'
 permalink: /how-many-devices-is-too-many/
 categories:
   - Notes

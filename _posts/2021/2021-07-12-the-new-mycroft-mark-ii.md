@@ -2,9 +2,8 @@
 id: 6160
 title: The New Mycroft Mark II
 date: 2021-07-12T22:12:25+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=6160'
 permalink: /the-new-mycroft-mark-ii/
 categories:
   - Notes

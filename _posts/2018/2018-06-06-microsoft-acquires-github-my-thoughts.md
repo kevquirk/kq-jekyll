@@ -1,7 +1,6 @@
 ---
 title: Microsoft Acquires GitHub – My Thoughts
 layout: post
-guid: https://kevq.uk/?p=356
 permalink: /microsoft-acquires-github-my-thoughts/
 categories:
   - Technology

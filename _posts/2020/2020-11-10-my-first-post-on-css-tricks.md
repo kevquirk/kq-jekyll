@@ -2,9 +2,8 @@
 id: 5364
 title: My First Post On CSS Tricks
 date: 2020-11-10T12:20:00+00:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5364'
 permalink: /my-first-post-on-css-tricks/
 categories:
   - Notes

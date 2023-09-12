@@ -2,9 +2,8 @@
 id: 5356
 title: Spotify For The Win
 date: 2020-05-01T12:14:00+01:00
-author: Kev Quirk
+
 layout: post
-guid: 'https://kevq.uk/?post_type=notes&#038;p=5356'
 permalink: /spotify-for-the-win/
 categories:
   - Notes
