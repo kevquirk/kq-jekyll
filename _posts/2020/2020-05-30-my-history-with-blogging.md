@@ -112,7 +112,7 @@ My personal blogging increased after I sold Refugeeks. Like Refugeeks, my person
 ![](/assets/images/kevquirk.com-v2.png)
 *My personal blog circa 2015*
 
-The 2017 blog is the site I still maintain as [my personal blog](https://kevq.uk) today.
+The 2017 blog is the site I still maintain as [my personal blog](https://kevquirk.com) today.
 
 ![](/assets/images/kevq.uk-current.png)
 *The current version of my personal blog*

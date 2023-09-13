@@ -12,7 +12,7 @@ categories:
   - Technology
 ---
 <p class="medium">
-  <a href="https://pi-hole.net/" target="_blank" rel="noreferrer noopener">PiHole</a> is awesome. I use it <a href="https://kevq.uk/how-to-setup-pi-hole-on-a-synology-nas/" data-type="post" data-id="2780">on my Synology via Docker</a> and it&#8217;s been working great for years. But what if you get a little too trigger happy with the block list and end up with too many? In this post I&#8217;ll show you how to restore the default PiHole block list.
+  <a href="https://pi-hole.net/" target="_blank" rel="noreferrer noopener">PiHole</a> is awesome. I use it <a href="https://kevquirk.com/how-to-setup-pi-hole-on-a-synology-nas/" data-type="post" data-id="2780">on my Synology via Docker</a> and it&#8217;s been working great for years. But what if you get a little too trigger happy with the block list and end up with too many? In this post I&#8217;ll show you how to restore the default PiHole block list.
 </p>
 
 <p class="notice">

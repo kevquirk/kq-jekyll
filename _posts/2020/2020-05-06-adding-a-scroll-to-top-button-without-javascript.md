@@ -12,7 +12,7 @@ categories:
 ---
 #### I _was_ using a plugin for my _Scroll To Top_ button, but I&#8217;ve now replaced that with a simple HTML/CSS solution that doesn&#8217;t use any JavaScript. {#h-i-was-using-a-plugin-for-my-scroll-to-top-button-but-i-ve-now-replaced-that-with-a-simple-html-css-solution-that-doesn-t-use-any-javascript}
 
-I recently wrote about [the plugins that I use on this site](https://kevq.uk/which-wordpress-plugins-i-use/). In that post I mentioned the [WPFront Scroll Top](https://wordpress.org/plugins/wpfront-scroll-top/) plugin that I was using for __the _Scroll To Top_ button on this site. I decided that was pretty lazy and relatively simple to fix, so the plugin had to go.
+I recently wrote about [the plugins that I use on this site](https://kevquirk.com/which-wordpress-plugins-i-use/). In that post I mentioned the [WPFront Scroll Top](https://wordpress.org/plugins/wpfront-scroll-top/) plugin that I was using for __the _Scroll To Top_ button on this site. I decided that was pretty lazy and relatively simple to fix, so the plugin had to go.
 
 I wanted a simple solution that didn&#8217;t use any JavaScript, as I&#8217;m trying to reduce the amount of JavaScript used on this site. I&#8217;ve managed to come up with a simple solution that doesn&#8217;t need _any_ JavaScript.
 

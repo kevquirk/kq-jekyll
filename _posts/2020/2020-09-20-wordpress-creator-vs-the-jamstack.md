@@ -9,7 +9,7 @@ categories:
   - Opinion
   - Web
 ---
-I read this post last night and found it **really** interesting. Especially since I&#8217;ve been <a href="https://kevq.uk/static-site-generators-revisited/" target="_blank" rel="noopener noreferrer">exploring Static Site Generators again</a> myself. Clearly <a href="https://ma.tt" target="_blank" rel="noopener noreferrer">Matt Mullenweg</a>, the creator of WordPress, doesn&#8217;t think that SSGs will hold much weight in the future.
+I read this post last night and found it **really** interesting. Especially since I&#8217;ve been <a href="https://kevquirk.com/static-site-generators-revisited/" target="_blank" rel="noopener noreferrer">exploring Static Site Generators again</a> myself. Clearly <a href="https://ma.tt" target="_blank" rel="noopener noreferrer">Matt Mullenweg</a>, the creator of WordPress, doesn&#8217;t think that SSGs will hold much weight in the future.
 
 To be honest, I can see where he&#8217;s coming from &#8211; SSGs are great fun to play with, but as I alluded to in my SSG post (linked above), anything more than a simple site/blog and the thing can become convoluted very quickly. Hell, <a href="https://dadsnotebook.com" target="_blank" rel="noopener noreferrer">my VERY simple site</a> is already fairly convoluted to maintain.
 

@@ -30,7 +30,7 @@ When I was an Android user, I loved nothing more than telling Apple users that t
   <cite>Me, circa 2010</cite>
 </blockquote>
 
-But the fact of the matter was, I had never used iOS, so I had absolutely no idea what I was talking about. I eventually got sick of Android and <a href="https://kevq.uk/why-im-ditching-android/" target="_blank" rel="noreferrer noopener">I decided to give Apple a try in 2018</a>.
+But the fact of the matter was, I had never used iOS, so I had absolutely no idea what I was talking about. I eventually got sick of Android and <a href="https://kevquirk.com/why-im-ditching-android/" target="_blank" rel="noreferrer noopener">I decided to give Apple a try in 2018</a>.
 
 ## What walled garden? {#h-what-walled-garden}
 
@@ -46,7 +46,7 @@ I was surprised to learn that I can actually remove more apps from my iPhone tha
 
 I now have an iPhone, iPad and Apple Watch. Not because I&#8217;m some kind of Apple shill, but because I like their hardware and their software. Plus, you know, <a href="https://www.bleepingcomputer.com/news/google/idle-android-phones-send-data-to-google-ten-times-more-often-than-ios-devices-to-apple/" target="_blank" rel="noreferrer noopener">they send a lot less data home</a>.
 
-I don&#8217;t actually use many of their apps and I&#8217;m not stuck on their platform. For music I use Spotify, for email and calendar I use <a href="https://kevq.uk/reasons-why-zoho-mail-is-better-than-gmail/" target="_blank" rel="noreferrer noopener">Zoho Mail</a> and their app, for note taking I use my Synology and their DS Notes app. I use Firefox as my browser, Bitwarden to manage my passwords and goodness knows how many other apps that allow me to be **vendor agnostic**.
+I don&#8217;t actually use many of their apps and I&#8217;m not stuck on their platform. For music I use Spotify, for email and calendar I use <a href="https://kevquirk.com/reasons-why-zoho-mail-is-better-than-gmail/" target="_blank" rel="noreferrer noopener">Zoho Mail</a> and their app, for note taking I use my Synology and their DS Notes app. I use Firefox as my browser, Bitwarden to manage my passwords and goodness knows how many other apps that allow me to be **vendor agnostic**.
 
 ## But the Apple Watch&#8230; {#h-but-the-apple-watch}
 

@@ -26,7 +26,7 @@ The Jupiter Broadcasting folks have this core contributor thing which is $8/mont
 
 Look, I get it. Chris and the team need to make a living, but I feel like ramming advert after advert down our throats and giving us no way to remove them isn&#8217;t the best way of doing this.
 
-[I&#8217;m happy to show support with my wallet](https://kevq.uk/about/#contributions), but I refuse to pay for something that I fell is mis-sold snake oil. I&#8217;d much rather sign up for something like a $10/month Patreon tier where Patrons get access to **<span style="text-decoration: underline;">all shows</span>** with a **<span style="text-decoration: underline;">REAL</span>** advert free feed.
+[I&#8217;m happy to show support with my wallet](https://kevquirk.com/about/#contributions), but I refuse to pay for something that I fell is mis-sold snake oil. I&#8217;d much rather sign up for something like a $10/month Patreon tier where Patrons get access to **<span style="text-decoration: underline;">all shows</span>** with a **<span style="text-decoration: underline;">REAL</span>** advert free feed.
 
 ## Conclusion {#h-conclusion}
 

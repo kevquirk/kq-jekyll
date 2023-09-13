@@ -25,7 +25,7 @@ Well, yeah, Yoast has been good to me. It&#8217;s allowed me to learn what I wou
 
 However, there are some features RankMath has that Yoast doesn&#8217;t. The big one being that RankMath allows you to track the SEO health of your site by tracking SEO rankings and click through rates.
 
-[I&#8217;m trying to get out of the analytics game](https://kevq.uk/chasing-visitors-the-web-analytics-rabbit-hole/), but I feel that information on how the site is performing on search engines would be very useful. Also, RankMath is pretty much half the price of Yoast.
+[I&#8217;m trying to get out of the analytics game](https://kevquirk.com/chasing-visitors-the-web-analytics-rabbit-hole/), but I feel that information on how the site is performing on search engines would be very useful. Also, RankMath is pretty much half the price of Yoast.
 
 So I thought there was no comparison when it came to Yoast vs RankMath. The latter has more features for half the price. No brainer, right?
 
@@ -57,7 +57,7 @@ My `functions.php` file was fine. I know this because I&#8217;d made no changes 
 
 I waited, and waited&#8230;and waited. In total I waited nearly 36 hours for a response (and chased the issue numerous times).
 
-While having a broken RSS feed may not seem like the end of the world to many of you, [I strongly support RSS](https://kevq.uk/please-add-rss-support-to-your-site/) and know that a lot of people consume my content via RSS.
+While having a broken RSS feed may not seem like the end of the world to many of you, [I strongly support RSS](https://kevquirk.com/please-add-rss-support-to-your-site/) and know that a lot of people consume my content via RSS.
 
 After 36 hours of waiting with a broken RSS Feed, so the RankMath support team could troubleshoot the issue (which they never did), I decided to cut my losses and go back to Yoast.
 
@@ -67,7 +67,7 @@ RankMath offer a 30 day money back guarantee and they did honour this, I&#8217;m
 
 When it comes to Yoast vs RankMath, there&#8217;s a lot of people in both camps. Clearly the RSS issue is something unique to my site, I know that. But the poor support I received really put me off.
 
-[SEO is very important](https://kevq.uk/notes/writing-with-seo-in-mind/), I think. So not having such a critical plugin backed up by decent support is a problem for me. It&#8217;s a real shame though, because on paper RankMath is the superior tool to Yoast, in my opinion.
+[SEO is very important](https://kevquirk.com/notes/writing-with-seo-in-mind/), I think. So not having such a critical plugin backed up by decent support is a problem for me. It&#8217;s a real shame though, because on paper RankMath is the superior tool to Yoast, in my opinion.
 
 Maybe one day I&#8217;ll give it another try, or if there&#8217;s anyone else out there reading this who has had the same issue, please do let me know.
 

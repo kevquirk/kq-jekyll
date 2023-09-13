@@ -16,7 +16,7 @@ The 512KB Club is the one that takes most of my time, because people submit thei
 
 ## I&#8217;d like some help! {#h-i-d-like-some-help}
 
-If you&#8217;re interested in helping with adding sites to the project, please [get in touch](https://kevq.uk/contact/). I&#8217;d like someone (or more than one person) to assist in reviewing any sites that are added, and adding them to the 512KB Club.
+If you&#8217;re interested in helping with adding sites to the project, please [get in touch](https://kevquirk.com/contact/). I&#8217;d like someone (or more than one person) to assist in reviewing any sites that are added, and adding them to the 512KB Club.
 
 **If you&#8217;re interested in helping, you should be familiar with the following:**
 

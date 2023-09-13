@@ -3,7 +3,7 @@ id: 5352
 title: Writing With SEO In Mind
 date: 2020-04-29T12:12:00+01:00
 
-layout: post d
+layout: post
 permalink: /writing-with-seo-in-mind/
 categories:
   - Notes

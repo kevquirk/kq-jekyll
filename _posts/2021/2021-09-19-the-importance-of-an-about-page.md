@@ -10,10 +10,10 @@ categories:
   - Web
 ---
 <p class="tldr">
-  Having a useful about page, <a href="https://kevq.uk/about/">like mine</a>, is very important as it lets your readers both learn about you, and connect with you.
+  Having a useful about page, <a href="https://kevquirk.com/about/">like mine</a>, is very important as it lets your readers both learn about you, and connect with you.
 </p>
 
-I love [discovering new blogs](https://kevq.uk/blogroll/), and when I do, I really enjoy wading my way through the backlog of that writer&#8217;s content. However, before putting my waders on, the first page I usually look for is an about page.
+I love [discovering new blogs](https://kevquirk.com/blogroll/), and when I do, I really enjoy wading my way through the backlog of that writer&#8217;s content. However, before putting my waders on, the first page I usually look for is an about page.
 
 That&#8217;s because I like to know a little bit about the person who wrote the content I&#8217;m enjoying. Do they know what they&#8217;re talking about? Anything in common? Ultimately, **can I relate to the person who&#8217;s content I&#8217;m reading?**
 
@@ -65,6 +65,6 @@ So you see, about pages have **a lot** of advantages. They allow your readers to
   <cite><a href="https://fosstodon.org/@trhr/106958171749603304" target="_blank" rel="noreferrer noopener">The Right Honourable Reverend</a></cite>
 </blockquote>
 
-For me, it&#8217;s all about engagement. When I added the [reply email button](https://kevq.uk/adding-the-post-title-to-my-reply-by-email-button/), my engagement really went up. I genuinely think that my about page ([check it out here](https://kevq.uk/about/)) is a large part of that, because my readers can connect with me both on a personal and technological level.
+For me, it&#8217;s all about engagement. When I added the [reply email button](https://kevquirk.com/adding-the-post-title-to-my-reply-by-email-button/), my engagement really went up. I genuinely think that my about page ([check it out here](https://kevquirk.com/about/)) is a large part of that, because my readers can connect with me both on a personal and technological level.
 
 **What about you? Do you have an about page? If not, why not? Maybe this page will inspire you to write your own about page. If so, please use the button below to let me know &#8211; I&#8217;d love to learn a little about you.**

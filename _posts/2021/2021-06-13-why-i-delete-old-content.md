@@ -25,7 +25,7 @@ Now, thanks to the advice of the Fosstodon community, I do the same with my Mast
 
 ## Why I delete content {#h-why-i-delete-content}
 
-I think I summarise my position on this matter well in [my disclaimer](https://kevq.uk/disclaimer/), which says the following:
+I think I summarise my position on this matter well in [my disclaimer](https://kevquirk.com/disclaimer/), which says the following:
 
 <blockquote class="wp-block-quote">
   <p>
@@ -35,11 +35,11 @@ I think I summarise my position on this matter well in [my disclaimer](https://k
 
 I feel exactly the same about my Twitter and Fosstodon accounts. Everything I Tweet/Toot on those platform is an ephemeral thought that&#8217;s popped into my brain. So in 6 months time, they&#8217;re **very** unlikely to be relevant or useful.
 
-When it comes to my blog, I don&#8217;t automatically delete posts when they become a certain age. Instead I regularly review my archives and decide what&#8217;s relevant and what can be deleted. So I don&#8217;t end up serving a load of 404 errors, I redirect those posts to my [post removed page](https://kevq.uk/post-removed/).
+When it comes to my blog, I don&#8217;t automatically delete posts when they become a certain age. Instead I regularly review my archives and decide what&#8217;s relevant and what can be deleted. So I don&#8217;t end up serving a load of 404 errors, I redirect those posts to my [post removed page](https://kevquirk.com/post-removed/).
 
 ## Conclusion {#h-conclusion}
 
-If we think about privacy and the future, I don&#8217;t want to be the next <a href="https://kevq.uk/privacy-vs-i-have-nothing-to-hide/#the-future" target="_blank" rel="noreferrer noopener">KFC Girl</a>, so I clean up my drivel. Many of the posts I create on social media have very little thought go into them, so once they&#8217;ve served their purpose, they can be deleted.
+If we think about privacy and the future, I don&#8217;t want to be the next <a href="https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/#the-future" target="_blank" rel="noreferrer noopener">KFC Girl</a>, so I clean up my drivel. Many of the posts I create on social media have very little thought go into them, so once they&#8217;ve served their purpose, they can be deleted.
 
 I also wouldn&#8217;t want something I&#8217;ve said years ago be taken out of context (or taken correctly, but I&#8217;ve changed my opinion since). So it&#8217;s easier to delete my shizzle.
 

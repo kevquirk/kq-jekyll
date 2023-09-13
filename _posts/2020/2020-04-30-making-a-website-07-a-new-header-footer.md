@@ -7,7 +7,7 @@ categories:
   - Web
 ---
 {: .tldr}
-Even though I said in [step 06 of this series](https://kevq.uk/making-a-website-06-finishing-touches/) that it was the last post, I&#8217;ve decided to add an update. In this post we will be improving the website header and adding a footer.
+Even though I said in [step 06 of this series](https://kevquirk.com/making-a-website-06-finishing-touches/) that it was the last post, I&#8217;ve decided to add an update. In this post we will be improving the website header and adding a footer.
 
 The _making a website_ series was done and dusted. If you were following along on [mylightwebsite.kevq.uk](https://mylightwebsite.kevq.uk), you probably have a pretty nice looking website at this point.
 
@@ -90,7 +90,7 @@ To add the footer to your pages, all you need to do is add the following code ab
 ```
 <!-- *** START FOOTER *** -->
   <div class="footer">
-    <p>mylightwebsite.kevq.uk was created by <a href="https://kevq.uk">Kev Quirk</a></p>
+    <p>mylightwebsite.kevq.uk was created by <a href="https://kevquirk.com">Kev Quirk</a></p>
   </div>
 <!-- *** END FOOTER *** -->
 ```

@@ -22,15 +22,15 @@ I completely agree with Manu here...under the right circumstances. I do think th
 
 For example, I edit all my posts before I publish them - I look for poor grammar, me rambling on (something which I'm terrible for) and things like typos, although some do still get through. I think *that* kind of editing is fine.
 
-I also think that going back and editing technical posts, or guides, is fine too. For example, I've gone back and edited my [getting started with Mastodon](https://kevq.uk/getting-started-with-mastodon/) post a couple times as Mastodon has evolved. I think this kinda editing is fine too.
+I also think that going back and editing technical posts, or guides, is fine too. For example, I've gone back and edited my [getting started with Mastodon](https://kevquirk.com/getting-started-with-mastodon/) post a couple times as Mastodon has evolved. I think this kinda editing is fine too.
 
 But when it comes to opinion pieces, I don't think they should be edited. Yes, you should (in my opinion) check the spelling/grammar before posting, but I don't think you should go back and edit your opinions retrospectively if they change.
 
-I cover this in [my disclaimer](https://kevq.uk/disclaimer/), where I say:
+I cover this in [my disclaimer](https://kevquirk.com/disclaimer/), where I say:
 
 > This blog is intended to provide a semi-permanent, point in time snapshot of the various thoughts running around my brain. As such, any thoughts and opinions expressed within my previous posts may not be the same, or even similar, to those I may hold today.
 
-What I like about [having this blog for 10 years](https://kevq.uk/ten-years-of-blogging/), is that I can go back and cringe a little at my opinions, my writing style, my language etc. I like that I'm a different person now than I was then. If I went back and edited [my opinion posts](https://kevquirk.com/category/opinion/) I wouldn't be able to do that.
+What I like about [having this blog for 10 years](https://kevquirk.com/ten-years-of-blogging/), is that I can go back and cringe a little at my opinions, my writing style, my language etc. I like that I'm a different person now than I was then. If I went back and edited [my opinion posts](https://kevquirk.com/category/opinion/) I wouldn't be able to do that.
 
 They'd all have been written by middle-aged InfoSec Kev, instead of 20-something soldier Kev. They're *very* different people.
 

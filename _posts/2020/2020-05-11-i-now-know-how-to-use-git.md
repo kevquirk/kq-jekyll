@@ -8,7 +8,7 @@ permalink: /i-now-know-how-to-use-git/
 categories:
   - Notes
 ---
-**A few days ago I wrote about how [I have no idea how Git works](https://kevq.uk/confession-i-have-no-idea-how-to-use-git/).** **Since then, things have changed and I&#8217;m now basking in the warm orange glow of Git repositories.**
+**A few days ago I wrote about how [I have no idea how Git works](https://kevquirk.com/confession-i-have-no-idea-how-to-use-git/).** **Since then, things have changed and I&#8217;m now basking in the warm orange glow of Git repositories.**
 
 ## What happened next? {#h-what-happened-next}
 
@@ -36,7 +36,7 @@ This means I can code changes to my theme or websites, do a `git push` and my th
 
 ## Conclusion {#h-conclusion}
 
-In [my disclaimer](https://kevq.uk/disclaimer/) I say the following:
+In [my disclaimer](https://kevquirk.com/disclaimer/) I say the following:
 
 <blockquote class="wp-block-quote">
   <p>
@@ -46,4 +46,4 @@ In [my disclaimer](https://kevq.uk/disclaimer/) I say the following:
 
 This is _definitely_ one of those occasions. Over the last few days my opinion of Git has done a full 180, and I&#8217;m now looking at other cool things that can be done with it.
 
-**I&#8217;m even exploring [static site generators](https://kevq.uk/why-i-dont-use-a-static-site-generator/)!**
+**I&#8217;m even exploring [static site generators](https://kevquirk.com/why-i-dont-use-a-static-site-generator/)!**

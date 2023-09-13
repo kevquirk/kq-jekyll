@@ -20,7 +20,7 @@ I wanted to quickly reply to Jan-Lukas&#8217; post about using Spotify vs having
 
 The added value of automated playlists based on what you have been listening to, and the fact that the music on offer is so vast, Spotify is a no-brainer for me.
 
-I think £14.99/month is a very small price to pay. I know Spotify is proprietary software, but this very much comes under the [pragmatism](https://kevq.uk/why-i-use-linux/) umbrella for me.
+I think £14.99/month is a very small price to pay. I know Spotify is proprietary software, but this very much comes under the [pragmatism](https://kevquirk.com/why-i-use-linux/) umbrella for me.
 
 The alternative of manually maintaining a music library, then having to either copy it over to all my devices, or maintaining a self-hosted solution to stream it, is too much hassle. I&#8217;d much rather pay Spotify to do all that for me. I install the app, login and away I go. Simple.
 

@@ -10,7 +10,7 @@ categories:
 Some people like to upgrade their installation when a new version of Ubuntu is released, personally I like to nuke and pave a new installation so I&#8217;m starting fresh. This post will show you how I created a simple install script to configure a new installation quickly.
 
 <p class="notice">
-  Note: this is just how I do it. I&#8217;m sure there are many ways to improve this script, but it works for me. If you have suggestions for improvements, please <a href="https://kevq.uk/contact/">get in touch</a>.
+  Note: this is just how I do it. I&#8217;m sure there are many ways to improve this script, but it works for me. If you have suggestions for improvements, please <a href="https://kevquirk.com/contact/">get in touch</a>.
 </p>
 
 I actually have the process split up into two separate scripts. The first does a system update, sets up my repositories and installs my applications. I then sync all of my data over from my NAS.

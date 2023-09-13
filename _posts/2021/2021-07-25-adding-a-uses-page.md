@@ -14,4 +14,4 @@ I&#8217;ve been thinking about doing one for a year or so now, but never got aro
 
 Anyway, I read that <a href="https://bt.ht/sharing-the-things-we-use/" target="_blank" rel="noreferrer noopener">Brad Taunt has created his own uses page</a>, so I decided to do the same. I&#8217;ll try to keep it up to date, but to be honest, my hardware and software don&#8217;t really change all that often, so I&#8217;m unlikely to need to change it much.
 
-If you&#8217;re interested and want to take a look at what I use, [here&#8217;s a link to my uses page](https://kevq.uk/uses/).
+If you&#8217;re interested and want to take a look at what I use, [here&#8217;s a link to my uses page](https://kevquirk.com/uses/).

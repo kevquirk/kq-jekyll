@@ -60,7 +60,7 @@ I did that with my previous blog and it worked, but I _hated_ it. I felt like a 
 
 ### Imposter Syndrome {#h-imposter-syndrome}
 
-This has been a big problem for me. I&#8217;m not an expert in blogging, but I like to think I&#8217;m pretty good at it. I&#8217;ve also [been doing this since 2011](https://kevq.uk/why-i-have-a-blog/) and have learned a lot in that time.
+This has been a big problem for me. I&#8217;m not an expert in blogging, but I like to think I&#8217;m pretty good at it. I&#8217;ve also [been doing this since 2011](https://kevquirk.com/why-i-have-a-blog/) and have learned a lot in that time.
 
 However, the meta blogging space (blogs about blogging) is saturated with extremely clever people running very successful blogs.
 
@@ -79,4 +79,4 @@ So my options are twofold:
 
 Honestly, I really don&#8217;t know what to do. I was hoping that working through my thoughts in a blog post would help me make a decision, but I&#8217;m none the wiser.
 
-**What would you do?** I&#8217;m open to advice here, folks. If you have some, please reply on your own blog; this blog is [IndieWeb](https://kevq.uk/implementing-the-indieweb-into-my-website/) enabled, so I should get a Webmention if you are too. If you&#8217;re not, you can [get in touch](https://kevq.uk/contact/) by more traditional means.
+**What would you do?** I&#8217;m open to advice here, folks. If you have some, please reply on your own blog; this blog is [IndieWeb](https://kevquirk.com/implementing-the-indieweb-into-my-website/) enabled, so I should get a Webmention if you are too. If you&#8217;re not, you can [get in touch](https://kevquirk.com/contact/) by more traditional means.

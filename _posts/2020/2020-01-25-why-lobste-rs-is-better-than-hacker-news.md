@@ -5,7 +5,7 @@ permalink: /why-lobste-rs-is-better-than-hacker-news/
 categories:
   - Notes
 ---
-Outside of [my RSS feeds](https://kevq.uk/subscribe/), there are a handful of places where I get my news from. Two of the main ones I use are <a rel="noreferrer noopener" aria-label="Lobste.rs (opens in a new tab)" href="https://lobste.rs" target="_blank">Lobste.rs</a> and <a rel="noreferrer noopener" aria-label="Hacker News (opens in a new tab)" href="https://news.ycombinator.com" target="_blank">Hacker News</a>. Lobste.rs is far smaller than Hacker News, but I much prefer it. Here&#8217;s why&#8230;
+Outside of [my RSS feeds](https://kevquirk.com/subscribe/), there are a handful of places where I get my news from. Two of the main ones I use are <a rel="noreferrer noopener" aria-label="Lobste.rs (opens in a new tab)" href="https://lobste.rs" target="_blank">Lobste.rs</a> and <a rel="noreferrer noopener" aria-label="Hacker News (opens in a new tab)" href="https://news.ycombinator.com" target="_blank">Hacker News</a>. Lobste.rs is far smaller than Hacker News, but I much prefer it. Here&#8217;s why&#8230;
 
 The reasons why I think Lobste.rs is better than Hacker News is 4 fold:
 
@@ -23,7 +23,7 @@ But the Lobste.rs team go one step further &#8211; they maintain a <a rel="noref
 This ensures that users are always held to account for their actions. Whether that&#8217;s inviting someone who is a poor quality member, or just posting poor quality posts yourself.
 
 <p class="notice">
-  Note: If you want to join Lobste.rs I&#8217;m happy to invite you, just <a href="https://kevq.uk/contact/">get in touch</a>. However, I will only invite people with whom I have a relationship with. If I don&#8217;t know you, I won&#8217;t invite you. Sorry.
+  Note: If you want to join Lobste.rs I&#8217;m happy to invite you, just <a href="https://kevquirk.com/contact/">get in touch</a>. However, I will only invite people with whom I have a relationship with. If I don&#8217;t know you, I won&#8217;t invite you. Sorry.
 </p>
 
 ## Polite & Knowledgable Community {#h-polite-knowledgable-community}

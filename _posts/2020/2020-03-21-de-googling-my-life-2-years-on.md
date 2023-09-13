@@ -8,7 +8,7 @@ categories:
   - Privacy
 ---
 {: .tldr}
-I first started De-Googling my life back in [September 2017](https://kevq.uk/de-googling-my-life-series/). It&#8217;s now been nearly 2.5 years since I completed that process, so I thought it was time for an update.
+I first started De-Googling my life back in [September 2017](https://kevquirk.com/de-googling-my-life-series/). It&#8217;s now been nearly 2.5 years since I completed that process, so I thought it was time for an update.
 
 I recently received an email from a reader asking me if I was intending to do an update on how de-Googling my life was going. I was intending to do an update, but I hadn't realised it was well over 2 years since I went through the process.
 

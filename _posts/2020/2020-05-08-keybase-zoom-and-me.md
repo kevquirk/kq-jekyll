@@ -22,7 +22,7 @@ So if you hadn&#8217;t heard, [Zoom have acquired Keybase](https://keybase.io/bl
 
 ## My Use Of Keybase {#h-my-use-of-keybase}
 
-I use Keybase for a number of things. I use it as a way to [verify my online identities](https://keybase.io/kevq), I also use it as a place to host my my PGP keys so that people can easily [email me](https://kevq.uk/contact/) encrypted messages.
+I use Keybase for a number of things. I use it as a way to [verify my online identities](https://keybase.io/kevq), I also use it as a place to host my my PGP keys so that people can easily [email me](https://kevquirk.com/contact/) encrypted messages.
 
 We also use Keybase Teams as a means for collaboration across the Fosstodon team.
 
@@ -30,7 +30,7 @@ So I would class myself as a fairly heavy Keybase user.
 
 ## Will I Delete Keybase? {#h-will-i-delete-keybase}
 
-Well, I _could_ delete Keybase relatively easily. The keys I have stored on Keybase are different to the keys I use elsewhere. Therefore it&#8217;s no problem to delete them. It wouldn&#8217;t be a problem to generate a new key pair and publish [my public key](https://kevq.uk/public-key/) on this website.
+Well, I _could_ delete Keybase relatively easily. The keys I have stored on Keybase are different to the keys I use elsewhere. Therefore it&#8217;s no problem to delete them. It wouldn&#8217;t be a problem to generate a new key pair and publish [my public key](https://kevquirk.com/public-key/) on this website.
 
 I can also use this site as a means to verify my online identities, simply posting links to my various online profiles and domains.
 

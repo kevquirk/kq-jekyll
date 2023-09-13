@@ -7,7 +7,7 @@ categories:
   - Technology
 ---
 {: .tldr}
-Following a hardware failure in Feb 2019, I moved away from my old Synology to a [home built server](https://kevq.uk/building-my-home-server/) running Nextcloud. I&#8217;ve now moved back to Synology. This post explains why.
+Following a hardware failure in Feb 2019, I moved away from my old Synology to a [home built server](https://kevquirk.com/building-my-home-server/) running Nextcloud. I&#8217;ve now moved back to Synology. This post explains why.
 
 So why move from Nextcloud to Synology? I think [Nextcloud](https://nextcloud.com) has the potential to be a great piece of software, but my personal opinion is that they're trying to force too many &#8216;features' in prematurely. This, for me at least, has resulted in an experience that leaves a lot to be desired. I've touched on this before in my post, [Nextcloud talk is crap](/nextcloud-talk-is-crap/).
 

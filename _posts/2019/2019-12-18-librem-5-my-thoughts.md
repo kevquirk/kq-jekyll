@@ -34,7 +34,7 @@ I understand that Purism have had to build the device from scratch. But can you 
 
 Yes the Librem 5 is privacy focussed, but you can get the same effect by buying an Android device and flashing it with [Lineage OS](https://lineageos.org/). By doing so, you also have access to Android&#8217;s vast library of apps too.
 
-I&#8217;d rather buy a reconditioned iPhone from eBay ([like I did](https://kevq.uk/why-im-ditching-android/)) for a lot less money. Or buy something like the Motorola G7, which costs less than $200 and has comparable hardware to the Librem 5. Then flash it with Lineage.
+I&#8217;d rather buy a reconditioned iPhone from eBay ([like I did](https://kevquirk.com/why-im-ditching-android/)) for a lot less money. Or buy something like the Motorola G7, which costs less than $200 and has comparable hardware to the Librem 5. Then flash it with Lineage.
 
 There&#8217;s also projects like [Ubports](https://ubports.com/) that offer a very similar software experience as the Librem 5, but you can flash it on to a range of hardware.
 

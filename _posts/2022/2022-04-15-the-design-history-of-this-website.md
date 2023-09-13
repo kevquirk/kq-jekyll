@@ -113,7 +113,7 @@ I also decided to double-down on the disgusting orange colour. I have no idea wh
 
 ![This site in July 2018](/assets/images/website-2018-07.webp)
 
-I was using a custom theme that I had built on top of [Less](https://web.archive.org/web/20210124131218/http://jarederickson.com/less-a-free-super-minimal-wordpress-theme) that I dubbed, [More or Less](/more-or-less-wordpress-theme/). I really liked this design; the typography was nice, and the site had very little bloat. [Take a look yourself](https://web.archive.org/web/20180709231858/https://kevq.uk).
+I was using a custom theme that I had built on top of [Less](https://web.archive.org/web/20210124131218/http://jarederickson.com/less-a-free-super-minimal-wordpress-theme) that I dubbed, [More or Less](/more-or-less-wordpress-theme/). I really liked this design; the typography was nice, and the site had very little bloat. [Take a look yourself](https://web.archive.org/web/20180709231858/https://kevquirk.com).
 
 ### Orange 3.0
 
@@ -125,7 +125,7 @@ Here’s the Alia version of my site from **June 2016:**
 
 ![This site in July 2019](/assets/images/website-2019-07.webp)
 
-Even more white space now. Nice typography and imagery, but in hindsight, I think the text should have had more contrast. If you want to have a look at this design, [here you go](https://web.archive.org/web/20190602202117/https://kevq.uk).
+Even more white space now. Nice typography and imagery, but in hindsight, I think the text should have had more contrast. If you want to have a look at this design, [here you go](https://web.archive.org/web/20190602202117/https://kevquirk.com).
 
 ## Website puberty
 
@@ -145,7 +145,7 @@ You’ll be glad to see that the sickly orange colour is no more. This was a ver
 
 One of the interesting things about this design was that in order to cut down on Javascript I chose to have a separate page for the menu instead of a JS popup.
 
-The site was so quick that the menu page load wasn’t noticeable, and it felt like a native menu. That probably won’t be the case on the [Internet Archive](https://web.archive.org/web/20200408074814/https://kevq.uk), but it did work well on the live site.
+The site was so quick that the menu page load wasn’t noticeable, and it felt like a native menu. That probably won’t be the case on the [Internet Archive](https://web.archive.org/web/20200408074814/https://kevquirk.com), but it did work well on the live site.
 
 ### November 2020
 
@@ -161,7 +161,7 @@ So I had a [local font stack](/how-local-fonts-can-save-the-environment/) and us
 
 But I was never happy with it. I just never sat right with me. It was a bit whacky and out there, but it really didn’t float my boat.
 
-[What do you think of it?](https://web.archive.org/web/20201128105904/https://kevq.uk)
+[What do you think of it?](https://web.archive.org/web/20201128105904/https://kevquirk.com)
 
 ### December 2020
 
@@ -175,7 +175,7 @@ I have to say, I *loved* the design of this site. I actually still love the desi
 
 Instead of using a hamburger menu, I went with a [sausage menu](https://bt.ht/links/) for this particular instalment of my website’s history. I thought it worked really well, but I got feedback from a number of people that it wasn’t user friendly despite having an animated “more stuff this way” notice.
 
-Take a look yourself on the [Internet Archive](https://web.archive.org/web/20201221141538/https://kevq.uk) and tell me what you think. I really did like this version of the website and I do miss it.
+Take a look yourself on the [Internet Archive](https://web.archive.org/web/20201221141538/https://kevquirk.com) and tell me what you think. I really did like this version of the website and I do miss it.
 
 ## Back to WordPress
 
@@ -187,7 +187,7 @@ Here’s what the new WP theme looked like in **February 2021:**
 
 ![This website in February 2021](/assets/images/website-2021-02.webp)
 
-It was a nice theme, but it was so boring. I’d had some kind of grey and white site for the last couple of years and once again, the theme just didn’t float my boat. Here’s the site on [Internet Archive](https://web.archive.org/web/20210227032602/https://kevq.uk) if you want to take a look yourself.
+It was a nice theme, but it was so boring. I’d had some kind of grey and white site for the last couple of years and once again, the theme just didn’t float my boat. Here’s the site on [Internet Archive](https://web.archive.org/web/20210227032602/https://kevquirk.com) if you want to take a look yourself.
 
 ## The current design
 
@@ -199,7 +199,7 @@ I ***love*** the current design of this site. I’m so happy with it. It’s dif
 
 As of writing this text, it’s now April 2022 so I’ve had the current design for a year. I’m still enjoying the current design, but since it’s been a year, I might start looking at a new design.
 
-Maybe something that emulates the Jekyll site from December 2020, which I really like. Just in case the current design does change, here’s a link on [Internet Archive](https://web.archive.org/web/20220401062712/https://kevq.uk) so you can experience it in all its blue glory.
+Maybe something that emulates the Jekyll site from December 2020, which I really like. Just in case the current design does change, here’s a link on [Internet Archive](https://web.archive.org/web/20220401062712/https://kevquirk.com) so you can experience it in all its blue glory.
 
 When I flipped to this theme, I also decided to stop building my own themes and instead went with [GeneratePress](https://generatepress.com) and a child theme. This has allowed me add features much more easily. Which should also make re-designs a doddle.
 

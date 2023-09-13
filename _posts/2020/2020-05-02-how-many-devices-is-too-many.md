@@ -18,7 +18,7 @@ Here&#8217;s a list of the devices I have and use on a regular basis (most days)
   * Work laptop (HP Elitebook)
   * Wife&#8217;s laptop (HP Probook)
   * Desktop (self-built)
-  * [Synology NAS](https://kevq.uk/moving-from-nextcloud-to-synology/)/server
+  * [Synology NAS](https://kevquirk.com/moving-from-nextcloud-to-synology/)/server
   * Work phone (Samsung S9)
   * Personal phone (2020 iPhone SE)
   * iPad Air 3

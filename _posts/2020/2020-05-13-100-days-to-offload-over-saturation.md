@@ -12,7 +12,7 @@ categories:
 ---
 **I&#8217;ve been having a think about [100 Days To Offload](https://100daystooffload.com), and I&#8217;ve decided to make some changes to the challenge.**
 
-[The original plan](https://kevq.uk/100-days-to-offload/) for `#100DaysToOffload` was that participants will publish a blog post every days (or close to it) for 100 days. I knew from the start that this would be a difficult thing to accomplish, but that&#8217;s the point of a challenge, right?
+[The original plan](https://kevquirk.com/100-days-to-offload/) for `#100DaysToOffload` was that participants will publish a blog post every days (or close to it) for 100 days. I knew from the start that this would be a difficult thing to accomplish, but that&#8217;s the point of a challenge, right?
 
 Now that I&#8217;m nearly 3 weeks into the challenge, another issue has come to light that I hadn&#8217;t considered previously&#8230;
 

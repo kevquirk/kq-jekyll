@@ -8,7 +8,7 @@ categories:
   - Web
 ---
 {: .tldr}
-I recently wrote a post about [why I don&#8217;t use a static site generator](https://kevq.uk/why-i-dont-use-a-static-site-generator/). After that post, I decided to fork my site to HTML/CSS to see how quicker it would be.
+I recently wrote a post about [why I don&#8217;t use a static site generator](https://kevquirk.com/why-i-dont-use-a-static-site-generator/). After that post, I decided to fork my site to HTML/CSS to see how quicker it would be.
 
 This weekend is Easter weekend here in the UK. That means a 4-day weekend; couple that with isolation due to COVID-19 and I have a lot of time on my hands. So I decided to rewrite my WordPress site in HTML/CSS and compare their performance.
 

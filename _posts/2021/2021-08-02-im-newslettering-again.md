@@ -8,7 +8,7 @@ permalink: /im-newslettering-again/
 categories:
   - Notes
 ---
-So remember a couple of days ago when I announced I would be [killing The Meta Letter](https://kevq.uk/notes/killing-the-meta-letter/)? Well, off the back of that announcement I received **TONNES** of requests (3 is tonnes, right?) to keep the newsletter alive as it was their only means of consuming my content.
+So remember a couple of days ago when I announced I would be [killing The Meta Letter](https://kevquirk.com/notes/killing-the-meta-letter/)? Well, off the back of that announcement I received **TONNES** of requests (3 is tonnes, right?) to keep the newsletter alive as it was their only means of consuming my content.
 
 Ok, it was more than 3, so I decided to keep the newsletter alive. Kind of. Previously I was using Sendy to manage the newsletter, it&#8217;s a great tool, but I didn&#8217;t want the hassle of maintaining the server and the domain reputation. So I&#8217;ve migrated to MailerLite so that those guys can worry about all that for me.
 

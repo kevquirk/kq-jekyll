@@ -44,7 +44,7 @@ The Simply Static plugin does the rendering for us and spits out the result at t
 
 ## Advantages {#h-advantages}
 
-I now have a WordPress site that uses [.htaccess](https://en.wikipedia.org/wiki/.htaccess) to deny all traffic apart from a couple of IP addresses that I use. So Joe Public cannot access the WordPress version of my site. I write a post and publish it on WordPress, then I generate and publish the static version of my site to https://kevq.uk.
+I now have a WordPress site that uses [.htaccess](https://en.wikipedia.org/wiki/.htaccess) to deny all traffic apart from a couple of IP addresses that I use. So Joe Public cannot access the WordPress version of my site. I write a post and publish it on WordPress, then I generate and publish the static version of my site to https://kevquirk.com.
 
 Using this setup gives me two major advantages over bog standard WordPress; _speed and security._
 

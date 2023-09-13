@@ -51,7 +51,7 @@ The CSS for buttons works in two parts, just like normal links. The first is to 
 To make a normal link a button, simply add the button class to your hyperlink code. Like this:
 
 ```
-<a class="button" href="https://kevq.uk">My Homepage</a>
+<a class="button" href="https://kevquirk.com">My Homepage</a>
 ```
 
 ### Inline Code {#h-inline-code}

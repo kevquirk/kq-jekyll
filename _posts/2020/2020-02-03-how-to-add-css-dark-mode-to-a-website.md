@@ -8,7 +8,7 @@ categories:
   - Technology
   - Web
 ---
-A lot of people like to have the option of [having a dark mode](https://kevq.uk/automatic-dark-mode/) for a website. Maybe they prefer the look, or maybe they want to save their eyes from strain. This post will show you how to implement an automatic CSS dark mode that changes depending on your visitor&#8217;s theme.
+A lot of people like to have the option of [having a dark mode](https://kevquirk.com/automatic-dark-mode/) for a website. Maybe they prefer the look, or maybe they want to save their eyes from strain. This post will show you how to implement an automatic CSS dark mode that changes depending on your visitor&#8217;s theme.
 
 ## CSS Dark Mode {#h-css-dark-mode}
 

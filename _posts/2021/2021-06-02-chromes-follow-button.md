@@ -20,7 +20,7 @@ In the post, Scott talks about how people are touting this new feature as the RS
   <cite>Scott Nesbitt</cite>
 </blockquote>
 
-I completely agree with Scott here; [RSS is very important](https://kevq.uk/please-add-rss-support-to-your-site/) and doesn’t need saving. Having said that, I don’t see this service as a replacement, or competitor to, RSS. I see it more as Google’s attempt to implement a service like Mozilla’s <a href="https://getpocket.com/" target="_blank" rel="noreferrer noopener">Pocket</a>.
+I completely agree with Scott here; [RSS is very important](https://kevquirk.com/please-add-rss-support-to-your-site/) and doesn’t need saving. Having said that, I don’t see this service as a replacement, or competitor to, RSS. I see it more as Google’s attempt to implement a service like Mozilla’s <a href="https://getpocket.com/" target="_blank" rel="noreferrer noopener">Pocket</a>.
 
 Either way it’s an excellent piece, as Scott’s writing often is. [Here’s a link](https://weeklymusings.net/) so you can read his musing yourself.
 

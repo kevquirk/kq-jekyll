@@ -18,7 +18,7 @@ But if like me, you want to share your thoughts, likes, interests and knowledge 
 
 ## Blog Home {#h-blog-home}
 
-The first thing we need to do is add a home for our blog. This is a page that displays links to all of the blog posts on our site. If you go to the <a rel="noreferrer noopener" aria-label="homepage (opens in a new tab)" href="https://kevq.uk" target="_blank">homepage</a> of this site, you will see what I mean.
+The first thing we need to do is add a home for our blog. This is a page that displays links to all of the blog posts on our site. If you go to the <a rel="noreferrer noopener" aria-label="homepage (opens in a new tab)" href="https://kevquirk.com" target="_blank">homepage</a> of this site, you will see what I mean.
 
 To do this, we will start off with the template file we created in [step 03 of this series](/making-a-website-03-menus/). Here's what you need to do:
 

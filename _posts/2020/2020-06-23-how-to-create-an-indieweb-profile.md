@@ -132,7 +132,7 @@ The next step is to add some links. These are really important as they show the 
 <span class="p-locality">North West England</span>
 
 <!-- Links -->
-<a class="u-url u-uid" href="https://kevq.uk"></a>
+<a class="u-url u-uid" href="https://kevquirk.com"></a>
 <a class="u-email" rel="me" href="mailto:kev@craves.coffee"></a>
 <a class="u-url" rel="me" href="https://fosstodon.org/@kev"></a>
 <a class="u-url" rel="me" href="https://keybase.io/kevq"></a>
@@ -166,7 +166,7 @@ Adding categories to your IndieWeb profile shows other people on the IndieWeb th
 <span class="p-locality">North West England</span>
 
 <!-- Links -->
-<a class="u-url u-uid" href="https://kevq.uk"></a>
+<a class="u-url u-uid" href="https://kevquirk.com"></a>
 <a class="u-email" rel="me" href="mailto:kev@craves.coffee"></a>
 <a class="u-url" rel="me" href="https://fosstodon.org/@kev"></a>
 <a class="u-url" rel="me" href="https://keybase.io/kevq"></a>

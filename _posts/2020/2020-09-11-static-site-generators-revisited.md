@@ -12,7 +12,7 @@ categories:
   - Web
 ---
 <p class="tldr">
-  I&#8217;ve been a <a href="https://kevq.uk/the-case-for-wordpress/" target="_blank" rel="noreferrer noopener">WordPress advocate</a> for a while now, but I decided to use a static site generator for a new project. So, has <a href="https://kevq.uk/why-i-dont-use-a-static-site-generator/" target="_blank" rel="noreferrer noopener">my opinion on SSGs</a> changed?
+  I&#8217;ve been a <a href="https://kevquirk.com/the-case-for-wordpress/" target="_blank" rel="noreferrer noopener">WordPress advocate</a> for a while now, but I decided to use a static site generator for a new project. So, has <a href="https://kevquirk.com/why-i-dont-use-a-static-site-generator/" target="_blank" rel="noreferrer noopener">my opinion on SSGs</a> changed?
 </p>
 
 My wife and I recently adopted two young boys and I wanted a way of sharing that rare and unique experience online. I considered writing about it on here, but decided against it in the end as a lot of my readership are techies. So talking about adoption probably isn't appropriate here.

@@ -163,7 +163,7 @@ Well, according to Facebook, I&#8217;m dead wrong and this behaviour is complete
 
 ### Details {#h-details-6}
 
-Did you know that Facebook can [track you over multiple sites](https://kevq.uk/how-online-tracking-works)? Well they can and a [Belgian court ordered Facebook to stop collecting private information about Belgian users on 3rd party sites](https://www.reuters.com/article/us-facebook-belgium/facebook-loses-belgian-privacy-case-faces-fine-of-up-to-125-million-idUSKCN1G01LG). Facebook were also ordered to delete all data they have illegally collected on Belgian users, including those who aren&#8217;t Facebook users, or risk being fined up to 100 million euros.
+Did you know that Facebook can [track you over multiple sites](https://kevquirk.com/how-online-tracking-works)? Well they can and a [Belgian court ordered Facebook to stop collecting private information about Belgian users on 3rd party sites](https://www.reuters.com/article/us-facebook-belgium/facebook-loses-belgian-privacy-case-faces-fine-of-up-to-125-million-idUSKCN1G01LG). Facebook were also ordered to delete all data they have illegally collected on Belgian users, including those who aren&#8217;t Facebook users, or risk being fined up to 100 million euros.
 
 ##### GO BELGIUM! {#h-go-belgium}
 

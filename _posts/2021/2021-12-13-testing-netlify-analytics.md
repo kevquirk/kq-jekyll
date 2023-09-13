@@ -10,11 +10,11 @@ rss_only: false
 {: .tldr}
 I decided to take Netlify Analytics for a spin to see what it's like. Overall I wasn't that impressed and I don't think I'll continue to use it.
 
-I recently [flipped my site back to Jekyll](https://kevq.uk/goodbye-wordpress-switched-to-jekyll/) and it is now hosted with the amazing [Netlify](https://netlify.com). Once the migratory dust had settled, I decided to give Netlify Analytics a try to [see what it's all about](https://www.netlify.com/products/analytics/).
+I recently [flipped my site back to Jekyll](https://kevquirk.com/goodbye-wordpress-switched-to-jekyll/) and it is now hosted with the amazing [Netlify](https://netlify.com). Once the migratory dust had settled, I decided to give Netlify Analytics a try to [see what it's all about](https://www.netlify.com/products/analytics/).
 
 I've been running it for over a month now, so thought it was hide time I provided you folks with my thoughts, as well as make a decision as to whether I'm going to stick with it.
 
-Analytics in general are somewhat of [a double edged sword for me](https://kevq.uk/chasing-visitors-the-web-analytics-rabbit-hole/). On the one hand it's useful to know what content is popular on the site, but on the other hand, it becomes somewhat of a rabbit hole.
+Analytics in general are somewhat of [a double edged sword for me](https://kevquirk.com/chasing-visitors-the-web-analytics-rabbit-hole/). On the one hand it's useful to know what content is popular on the site, but on the other hand, it becomes somewhat of a rabbit hole.
 
 ## What I liked
 Netlify Analytics doesn't partake in the *add some JavaScript to your site and away you go* process of many analytics providers.
@@ -29,7 +29,7 @@ I also like the UI. It's simple and shows the most relevant info up front. Metri
 ![Netlify Analytics dashboard](/assets/images/netlify-analytics-dashboard.webp)
 
 ## What I didn't like
-So the UI is simple to navigate and there's no JavaScript required to get up and running, which is nice (although [JavaScript isn't always bad](https://kevq.uk/is-javascript-bad-well-only-if-youre-using-it-wrong/)). So where are the negatives in all this?
+So the UI is simple to navigate and there's no JavaScript required to get up and running, which is nice (although [JavaScript isn't always bad](https://kevquirk.com/is-javascript-bad-well-only-if-youre-using-it-wrong/)). So where are the negatives in all this?
 
 For me, they're twofold...
 
@@ -62,7 +62,7 @@ I think the most likely culprit of this traffic are bots and web crawlers - most
 
 This is a problem. If around 40% of the traffic to my homepage is bots and crawlers, it's impossible to know what percentage of other page stats are bots versus real visitors.
 
-Is my *[this is what's wrong with the linux community](https://kevq.uk/this-is-whats-wrong-with-linux-community)* post actually the most popular post on my blog last month? Or has it just garnered lots of hits from bots?
+Is my *[this is what's wrong with the linux community](https://kevquirk.com/this-is-whats-wrong-with-linux-community)* post actually the most popular post on my blog last month? Or has it just garnered lots of hits from bots?
 
 I looked through the Netlify documentation on whether they try to filter out bots and crawlers, but I couldn't find anything specific. So I can only assume that they don't filter anything out.
 
@@ -75,7 +75,7 @@ Add to that the fact that we only get 30 days worth of data and have to pay over
 
 I don't have advertisers to pacify, so analytics are nothing more than a way to satisfy my own curiosity - I don't *really* need them.
 
-So, what's a better metric for success on a personal blog like this? For me, when I added the [reply via email button](https://kevq.uk/adding-the-post-title-to-my-reply-by-email-button/) to the end of my posts, emails from readers increased dramatically.
+So, what's a better metric for success on a personal blog like this? For me, when I added the [reply via email button](https://kevquirk.com/adding-the-post-title-to-my-reply-by-email-button/) to the end of my posts, emails from readers increased dramatically.
 
 I now get emails from readers mosts days, and I often get to have pleasant conversations with most of them off the back of these emails.
 

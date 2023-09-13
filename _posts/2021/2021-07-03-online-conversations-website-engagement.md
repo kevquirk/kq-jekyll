@@ -51,7 +51,7 @@ And don&#8217;t get me started on how much time it has saved me by not having to
 
 ## Closing thoughts {#h-closing-thoughts}
 
-I&#8217;m really happy I decided to remove comments from this site. If you have comments on your site, and you&#8217;re having similar problems to me (or if you&#8217;re using the [horrendous Disqus](https://kevq.uk/commento-the-privacy-respecting-commenting-system/)) maybe consider doing the same?
+I&#8217;m really happy I decided to remove comments from this site. If you have comments on your site, and you&#8217;re having similar problems to me (or if you&#8217;re using the [horrendous Disqus](https://kevquirk.com/commento-the-privacy-respecting-commenting-system/)) maybe consider doing the same?
 
 I&#8217;m not saying it will definitely work for you, but it has for me, and it seems to have done the trick for Manu too.
 

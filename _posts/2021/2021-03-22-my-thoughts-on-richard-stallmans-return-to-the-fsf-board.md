@@ -64,6 +64,6 @@ Is he the right person to be leading the FSF? **I don’t think so.**
 
 I also think there’s a broader problem with the FSF board. What on earth where they thinking when they thought it would be a good idea to have him back?
 
-If the FSF wants to stay relevant, they&#8217;re going to need to start enticing younger people in. But if they can&#8217;t even make a simple announcement video at the moment, I really worry about their ability to entice anyone. [Blogging isn&#8217;t dead](https://kevq.uk/how-to-start-a-blog-if-youre-not-a-nerd/), but the FSF are going to need more than that.
+If the FSF wants to stay relevant, they&#8217;re going to need to start enticing younger people in. But if they can&#8217;t even make a simple announcement video at the moment, I really worry about their ability to entice anyone. [Blogging isn&#8217;t dead](https://kevquirk.com/how-to-start-a-blog-if-youre-not-a-nerd/), but the FSF are going to need more than that.
 
 Fact is, the world is a better place with the FSF in it, but if they don&#8217;t do something soon, I fear they will continue to devolve into an irrelevant group of people who can&#8217;t function on the modern web.

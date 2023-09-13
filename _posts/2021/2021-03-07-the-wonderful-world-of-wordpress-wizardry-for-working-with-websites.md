@@ -15,7 +15,7 @@ categories:
   A month ago I flipped back from <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer noopener">Jekyll</a> to WordPress and nobody noticed. That, my friends, is how performant WordPress can be.
 </p>
 
-Back in early December [I switched from WordPress to Jekyll](https://kevq.uk/goodbye-wordpress-switched-to-jekyll/). Since then I went all in on the whole static site generator bandwagon and life was good. However, [the writing workflow I had](https://kevq.uk/my-writing-workflow/) with Jekyll was a little convoluted.
+Back in early December [I switched from WordPress to Jekyll](https://kevquirk.com/goodbye-wordpress-switched-to-jekyll/). Since then I went all in on the whole static site generator bandwagon and life was good. However, [the writing workflow I had](https://kevquirk.com/my-writing-workflow/) with Jekyll was a little convoluted.
 
 I had to faff around with optimising images so they weren&#8217;t massive. I also had to use quite a lot of HTML in every post; that&#8217;s because Markdown doesn&#8217;t account for a lot of HTML elements.
 
@@ -27,7 +27,7 @@ I also found that I was still pissing around with the code, if not more so than 
 
 ## Switching back to WordPress {#h-switching-back-to-wordpress}
 
-On 04th February I flipped back to WordPress from Jekyll. This was relatively simple to do, as [my guestbook](https://kevq.uk/guestbook/) was already running WordPress and used a theme that look exactly like the theme on my Jekyll site.
+On 04th February I flipped back to WordPress from Jekyll. This was relatively simple to do, as [my guestbook](https://kevquirk.com/guestbook/) was already running WordPress and used a theme that look exactly like the theme on my Jekyll site.
 
 So, I restored a backup of my WordPress site from before the switch to Jekyll, so I had most of my content ready. I then dumped any posts I had made with Jekyll back into WordPress, and I was done. After an hour or so of work, I updated the DNS to point to my server&#8230;
 
@@ -37,7 +37,7 @@ So, I restored a backup of my WordPress site from before the switch to Jekyll, s
 
 Well, that&#8217;s not strictly true. A couple of people noticed, but over the course of the month, I even had 2 emails from readers who commented on how performant my site was and how awesome static site generators like Jekyll are for this.
 
-I have to say, those 2 emails really gave me a giggle as it proves that a [well optimised WordPress site](https://kevq.uk/the-case-for-wordpress/) can be just as performant in the real world as a static site.
+I have to say, those 2 emails really gave me a giggle as it proves that a [well optimised WordPress site](https://kevquirk.com/the-case-for-wordpress/) can be just as performant in the real world as a static site.
 
 ## What&#8217;s next? {#h-what-s-next}
 

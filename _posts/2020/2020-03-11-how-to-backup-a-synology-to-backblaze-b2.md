@@ -7,7 +7,7 @@ categories:
   - Technology
 ---
 {: .tldr}
-I recently wrote a post about [moving from Nextcloud to Synology](https://kevq.uk/moving-from-nextcloud-to-synology/), in that post I mention how I&#8217;m backing up to Backblaze B2. This post explains how I configured that.
+I recently wrote a post about [moving from Nextcloud to Synology](https://kevquirk.com/moving-from-nextcloud-to-synology/), in that post I mention how I&#8217;m backing up to Backblaze B2. This post explains how I configured that.
 
 So you want to backup a Synology to Backblaze B2? Well, so does my friend and [Fosstodon](https://fosstodon.org) co-founder, Mike Stone who asked for more detail around how I backup to Backblaze B2 storage. Fosstodon has a limit of 500 characters and that wasn't going to cut it, so I decided to write a post instead.
 

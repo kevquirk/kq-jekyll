@@ -11,7 +11,7 @@ categories:
   - Technology
 ---
 <p class="medium">
-  A few month ago I wrote about how <a href="https://kevq.uk/thinking-about-new-hardware/">I was thinking about upgrading my desktop</a> to something a little more modern. Well, I&#8217;ve finally got around to doing that, and what a saga it was!
+  A few month ago I wrote about how <a href="https://kevquirk.com/thinking-about-new-hardware/">I was thinking about upgrading my desktop</a> to something a little more modern. Well, I&#8217;ve finally got around to doing that, and what a saga it was!
 </p>
 
 Let's start by talking about why I wanted to upgrade my desktop PC. The specs of my old box were:

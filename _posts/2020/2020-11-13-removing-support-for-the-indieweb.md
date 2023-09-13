@@ -13,7 +13,7 @@ categories:
   - Web
 ---
 <p class="tldr">
-  I recently <a href="https://kevq.uk/a-nod-to-the-90s-web/">redesigned this website</a>. When I did, I removed all of the IndieWeb functionality from it. This post talks about why I did that.
+  I recently <a href="https://kevquirk.com/a-nod-to-the-90s-web/">redesigned this website</a>. When I did, I removed all of the IndieWeb functionality from it. This post talks about why I did that.
 </p>
 
 ## What is the IndieWeb? {#h-what-is-the-indieweb}
@@ -57,7 +57,7 @@ That was a great feature, but these comments were like 1 in 20 if I was lucky, a
 
 So when I redesigned this site with a 90s feel, I decided I would strip out all of the IndieWeb stuff. I also went one step further and stripped out comments all together. So none of my posts have comments now.
 
-Instead I&#8217;ve gone full-blown 90s and [implemented a guestbook instead](https://kevq.uk/guestbook/). This still allows people to have their say on this site as well a proving some kind of community vibe.
+Instead I&#8217;ve gone full-blown 90s and [implemented a guestbook instead](https://kevquirk.com/guestbook/). This still allows people to have their say on this site as well a proving some kind of community vibe.
 
 Crucially though, a guestbook is oh so 90s! Think MC Hammer, Saved By The Bell, Forrest Gump and Tab Clear. It&#8217;s awesome! ?
 
@@ -65,4 +65,4 @@ Crucially though, a guestbook is oh so 90s! Think MC Hammer, Saved By The Bell, 
 
 Never say never; comments (or even the IndieWeb) may have a resurgence on this site at some point. But for now, I&#8217;m happy with the decision to roll an old skool guestbook instead.
 
-**Have you integrated the IndieWeb into your site? If so, I&#8217;d love to hear your thoughts and experiences around the whole thing. Feel free to sign my <a rel="noreferrer noopener" href="https://kevq.uk/guestbook/" target="_blank">guestbook</a>, or <a rel="noreferrer noopener" href="https://kevq.uk/contact/" target="_blank">contact me</a> if you want to talk.**
+**Have you integrated the IndieWeb into your site? If so, I&#8217;d love to hear your thoughts and experiences around the whole thing. Feel free to sign my <a rel="noreferrer noopener" href="https://kevquirk.com/guestbook/" target="_blank">guestbook</a>, or <a rel="noreferrer noopener" href="https://kevquirk.com/contact/" target="_blank">contact me</a> if you want to talk.**

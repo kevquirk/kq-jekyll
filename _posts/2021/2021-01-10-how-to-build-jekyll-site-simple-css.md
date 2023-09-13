@@ -464,7 +464,7 @@ Again, this is pretty obvious &#8211; the `<footer>` is the footer of your websi
 
 We don&#8217;t need any liquid tags here as the footer will be the same across the entire site. So out footer looks something like this:
 
-<pre class="wp-block-code language-html"><code>&lt;p&gt;This site was created by &lt;a href="https://kevq.uk"&gt;Kev Quirk&lt;/a&gt; and was made using &lt;a href="https://jekyllrb.com"&gt;Jekyll&lt;/a&gt; and &lt;a href="https://simplecss.org"&gt;Simple.css&lt;/a&gt;.&lt;/p&gt;</code></pre>
+<pre class="wp-block-code language-html"><code>&lt;p&gt;This site was created by &lt;a href="https://kevquirk.com"&gt;Kev Quirk&lt;/a&gt; and was made using &lt;a href="https://jekyllrb.com"&gt;Jekyll&lt;/a&gt; and &lt;a href="https://simplecss.org"&gt;Simple.css&lt;/a&gt;.&lt;/p&gt;</code></pre>
 
 ### Step 4g &#8211; putting it all together {#h-step-4g-putting-it-all-together}
 
@@ -496,7 +496,7 @@ Ok, let&#8217;s stitch all of that together to show our completed `default.html`
   </main>
 
   <footer>
-    <p>This site was created by <a href="https://kevq.uk">Kev Quirk</a> and was made using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://simplecss.org">Simple.css</a>.</p>
+    <p>This site was created by <a href="https://kevquirk.com">Kev Quirk</a> and was made using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://simplecss.org">Simple.css</a>.</p>
   </footer>
 
   </body>
@@ -615,7 +615,7 @@ layout: default
 
 # Welcome to Simple Jekyll
 
-This is a simple webpage that has been handbuilt by &#91;Kev Quirk](https://kevq.uk) using the Jekyll static site generator and &#91;Simple.css](https://simplecss.org).
+This is a simple webpage that has been handbuilt by &#91;Kev Quirk](https://kevquirk.com) using the Jekyll static site generator and &#91;Simple.css](https://simplecss.org).
 
 Please feel free to take a look around. If you're interested, you can find the source code for this site &#91;on GitHub](https://github.com/kevquirk/jekyll-simple.css).</code></pre>
 

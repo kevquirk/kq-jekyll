@@ -30,7 +30,7 @@ So I was sad to learn that Yoast &#8212; a company I&#8217;ve been a paid up mem
 
 I&#8217;ve been thinking about moving away from Yoast for a while, but that was because of the price more than anything. The acquisition was the final straw though.
 
-I previously tried RankMath, but <a rel="noreferrer noopener" href="https://kevq.uk/migrating-from-yoast-to-rankmath-broke-my-site/" data-type="post" data-id="6236" target="_blank">that didn&#8217;t go too well</a>, so I abandoned that idea. Luckily for me I&#8217;ve had no such issues with SEOPress; the migration was seamless, there&#8217;s feature parity with Yoast and it&#8217;s a third of the price.
+I previously tried RankMath, but <a rel="noreferrer noopener" href="https://kevquirk.com/migrating-from-yoast-to-rankmath-broke-my-site/" data-type="post" data-id="6236" target="_blank">that didn&#8217;t go too well</a>, so I abandoned that idea. Luckily for me I&#8217;ve had no such issues with SEOPress; the migration was seamless, there&#8217;s feature parity with Yoast and it&#8217;s a third of the price.
 
 <p class="medium">
   Win / win / win.
@@ -38,4 +38,4 @@ I previously tried RankMath, but <a rel="noreferrer noopener" href="https://kevq
 
 Once I&#8217;ve found my feet with SEOPress, I&#8217;ll likely write about my thoughts on the plugin in a little more detail, but for now it seems like it was a good choice.
 
-**Have all these WordPress acquisitions got you concerned? <a rel="noreferrer noopener" href="https://kevq.uk/notes/are-wordpress-plugin-acquisitions-too-much/" data-type="notes" data-id="5727" target="_blank">They certainly have me concerned</a>. Let me know your thoughts using the reply button below.**
+**Have all these WordPress acquisitions got you concerned? <a rel="noreferrer noopener" href="https://kevquirk.com/notes/are-wordpress-plugin-acquisitions-too-much/" data-type="notes" data-id="5727" target="_blank">They certainly have me concerned</a>. Let me know your thoughts using the reply button below.**

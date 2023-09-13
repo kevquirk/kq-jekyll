@@ -13,7 +13,7 @@ categories:
   - Technology
 ---
 {: .tldr}
-Using a <a href="https://pi-hole.net/" target="_blank" rel="noreferrer noopener">Pi-hole</a> on your network is a great way of blocking adverts and protecting you from tracking at a network level. In this post I&#8217;m going to take you through setting up Pi-hole on a <a href="https://kevq.uk/synology-vs-nextcloud-which-is-better-for-a-home-server/" target="_blank" rel="noreferrer noopener">Synology NAS</a> using Docker.
+Using a <a href="https://pi-hole.net/" target="_blank" rel="noreferrer noopener">Pi-hole</a> on your network is a great way of blocking adverts and protecting you from tracking at a network level. In this post I&#8217;m going to take you through setting up Pi-hole on a <a href="https://kevquirk.com/synology-vs-nextcloud-which-is-better-for-a-home-server/" target="_blank" rel="noreferrer noopener">Synology NAS</a> using Docker.
 
 I've been using Pi-hole on my network for a few weeks now and things are going great. I'm sure you can gather than from the name, Pi-hole was originally designed to run on the Raspberry Pi.
 

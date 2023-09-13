@@ -11,7 +11,7 @@ categories:
   - Technology
 ---
 <p class="medium">
-  I recently wrote about why I think <a href="https://kevq.uk/is-windows-unstable-here-are-my-thoughts/">complaints about the stability of Windows</a> are unfounded. Since then, I&#8217;ve actually said goodbye to Linux on all my machines and I now run Windows 10 exclusively. Here&#8217;s why&#8230;
+  I recently wrote about why I think <a href="https://kevquirk.com/is-windows-unstable-here-are-my-thoughts/">complaints about the stability of Windows</a> are unfounded. Since then, I&#8217;ve actually said goodbye to Linux on all my machines and I now run Windows 10 exclusively. Here&#8217;s why&#8230;
 </p>
 
 The TL;DR is that I became sick of the many little issues with Linux. I just want my OS to get out of the way so I can crack on and get shit done.
