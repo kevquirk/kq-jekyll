@@ -400,7 +400,7 @@ For reference, I have a 7.25" (18.4cm) wrist.
      <b>Water resist:</b> 100m<br>
      <b>Strap size:</b> 22mm<br>
      <b>Category:</b> Diver<br>
-     <b>Price:</b> £300 (£382)<br>
+     <b>Price:</b> £300 ($382)<br>
      <b>My rating:</b> ★★★★☆ (4 stars)</p>
   <div class="spacer"></div>
   <p>When I first saw this watch, I knew I had to have it. It's absolutely gorgeous. I love the deep blue of the face, coupled with the off-white of the applied numerals and hands. This is the watch that garners the most comments from people, especially on the aftermarket suede strap.</p>
